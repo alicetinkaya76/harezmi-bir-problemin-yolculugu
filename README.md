@@ -1,13 +1,14 @@
-# Hârizmî · Bir problemin yolculuğu
+# Hârizmî · Cebir ve Mukabele
 
-Hikmet Evi okuma grubu için hazırlanmış Türkçe eğitim sitesi.
+Hikmet Evi okuma grubu için hazırlanmış karşılıklı kitap okuyucusu.
 
-- [Animasyonlu anlatı ve Ahmet sesli video](https://alicetinkaya76.github.io/harezmi-bir-problemin-yolculugu/)
-- [Tam kitap: Arapça, Türkçe ve modern açıklamalar](https://alicetinkaya76.github.io/harezmi-bir-problemin-yolculugu/kitap.html)
+[Tam kitap: Arapça, Türkçe ve modern açıklamalar](https://alicetinkaya76.github.io/harezmi-bir-problemin-yolculugu/)
 
 ## İçerik
 
 Hârizmî’nin Cebir ve Mukabele eserinin 92 kaynak sayfası, tam Türkçe çalışma çevirisi, modern gösterimler ve kaynak taramaları karşılıklı okunabilir. Yazarın özgün metni çevrilmiştir; 1937 editörlerinin önsözü ve dipnotları çevirinin kapsamı dışındadır. Metin belirsizlikleri okuyucunun açıklama sütununda işaretlenmiştir.
+
+Site doğrudan kitapla açılır. Modern okuma solda, Türkçe çeviri ortada ve Arapça metin sağdadır. Kare tamamlama kanıtındaki küçük görsel etkileşim yalnız okuyucu istediğinde çalışır. Eski `kitap.html` bağlantıları sayfa işaretini koruyarak ana okuyucuya yönlenir.
 
 Kişisel sunum notları yalnız ziyaretçinin kendi tarayıcısında saklanır. Sunucuya veya bu depoya gönderilmez.
 
