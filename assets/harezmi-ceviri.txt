@@ -1,0 +1,65 @@
+HÂRİZMÎ’NİN ÖNSÖZÜ VE DENKLEM ÖRNEĞİ
+Anlamı koruyan sade Türkçe çeviri
+
+Çeviri notu: Temel kaynak, OpenITI’deki Arapça metindir. Uzun cümleler Türkçede bölündü; dinî açılış, bilginlere ilişkin üçlü açıklama, Memun’a yönelik övgü ve eserin amacı korundu. Bu, yayımlanmış bir Türkçe çeviriden alıntı değildir. Bu çalışma için hazırlanmış çeviridir. Önsözün kapsamı, besmeleden matematik açıklamalarına geçişten hemen önceki son duaya kadardır. Denklem örneği ayrı bir pasajdır.
+
+ÖNSÖZ
+
+Rahman ve rahim olan Allah’ın adıyla.
+
+Bu kitabı Muhammed bin Musa el-Hârizmî yazdı ve sözlerine şöyle başladı:
+
+Verdiği nimetler için Allah’a, kendisine layık biçimde hamdolsun. Kullarına buyurduğu şükrü yerine getirerek nimetlerinin artmasını hak eder ve durumumuzun kötüye dönmesinden korunuruz. O’nun Rab olduğunu kabul eder, kudreti önünde eğilir, yüceliği karşısında saygıyla boyun eğeriz.
+
+Allah, peygamberlerin gelişine ara verildiği, hakikatin tanınmaz olduğu ve doğru yolun izlerinin silindiği bir zamanda Muhammed’i peygamber olarak gönderdi. Allah ona ve ailesine rahmet ve esenlik versin. Onun aracılığıyla körlüğü giderdi, insanları yıkımdan kurtardı, az olanı çoğalttı ve dağılmış olanı bir araya getirdi. Rabbimiz Allah yücedir; şanı yüksek, adları kutsaldır. O’ndan başka ilah yoktur. Allah, Peygamber Muhammed’e ve ailesine rahmet ve esenlik versin.
+
+Geçmiş çağlarda ve önceki toplumlarda bilginler, kendilerinden sonra gelecekleri düşünerek bilimin ve hikmetin çeşitli alanlarında kitaplar yazmışlardır. Güçleri ölçüsünde çalışmış; bunun karşılığını, kalıcı değerini ve iyi anılmayı ummuşlardır. Böylece geride bırakacakları güzel adın yanında, bilginin sırlarını ve güç konularını açığa çıkarmak için katlandıkları masraflar ve zorluklar küçük kalacaktır.
+
+Bu bilginlerden biri, kendisinden önce bulunmamış bir şeyi bulur ve sonrakilere miras bırakır. Bir başkası, öncekilerin bıraktığı eserlerde anlaşılması güç olanı açıklar. Böylece yolu aydınlatır, öğrenmeyi kolaylaştırır ve bilgiyi erişilebilir kılar. Bir diğeri ise bazı kitaplarda kusurlar bulur; dağınık olanı toparlar ve yanlış olanı düzeltir. Bunu, eser sahibine iyi niyetle yaklaşarak, onu küçümsemeden ve kendi yaptığıyla övünmeden yapar.
+
+Allah, Müminlerin Emiri İmam Memun’a miras yoluyla hilafeti vermiş, onu hilafet giysisiyle onurlandırmış ve onun süsüyle donatmıştır. Bunun yanında ona ilme ilgi, ilim insanlarını yakınına alma, onları koruma ve destekleme niteliği de vermiştir. Memun, kapalı konuları açıklamalarına ve güçlükleri kolaylaştırmalarına yardımcı olmaktadır. Bu tutumu beni, cebir ve mukabele hesabının ince ve önemli konularını bir araya getiren kısa bir kitap yazmaya teşvik etti.
+
+İnsanlar miraslarında, vasiyetlerinde, paylaştırma işlerinde, hukuki işlerinde ve ticaretlerinde bu hesaba ihtiyaç duyarlar. Arazi ölçümü, su kanallarının açılması, geometri ve benzeri alanlardaki karşılıklı işlemleri de bu hesaba ihtiyaç doğurur.
+
+Bu işe iyi niyetle başladım. Allah’ın kendilerine bağışladığı nimetler ve iyilikler sayesinde ilim insanlarının bu esere hak ettiği değeri vereceğini umuyorum. Bu işte de başka işlerde de başarım Allah’ın yardımıyladır. O’na güvendim. O, yüce arşın Rabbidir. Allah bütün peygamberlere ve elçilere rahmet eylesin.
+
+DENKLEM ÖRNEĞİ
+
+Terim açıklaması: Özgün metindeki “mâl” burada bir kareyi, yani bir sayının kendisiyle çarpımını anlatır. “Cezr”, yani kök, o sayıdır. Çeviride “mâl” yerine “kare” kullanıldı. Bu örnekte “dirhem”, sayı miktarını ifade eder; günümüzün bir para birimine çevrilmedi.
+
+“Karelerle köklerin bir sayıya eşit olması” durumuna şu söz örnektir: Bir kare ile onun on kökü, otuz dokuz dirheme eşittir. Bunun anlamı şudur: Hangi kareye kendi kökünün on katını eklersek toplam otuz dokuz olur?
+
+Çözüm yolu, köklerin sayısını yarıya indirmektir. Bu soruda yarısı beştir. Beşi kendisiyle çarp; yirmi beş olur. Bunu otuz dokuza ekle; altmış dört olur. Bunun kökünü al; sekizdir. Sekizden köklerin sayısının yarısını, yani beşi çıkar. Üç kalır. Bu, aradığın karenin köküdür. Karenin kendisi ise dokuzdur.
+
+İki kare, üç kare veya daha az ya da daha çok kare belirtilmişse, bunları bir kareye indir. Yanlarında bulunan kökleri ve sayıyı da aynı oranda değiştir.
+
+MODERN GÖSTERİMLE AÇIKLAMA — ÇEVİRİYE EK
+
+Özgün metinde bugünkü x işareti ve aşağıdaki simgesel yazım bulunmaz. Modern gösterimde kök x, kare x² olur:
+
+x² + 10x = 39
+x² + 10x + 25 = 64
+(x + 5)² = 64
+Pozitif kök için: x + 5 = 8; x = 3.
+Özgün metnin sorduğu kare: x² = 9.
+
+Hârizmî bu örneği pozitif büyüklüklerle ele alır. Modern denklem ayrıca x = −13 çözümüne sahiptir. Alan ve kenar uzunluğu için kurduğumuz atölye örneğinde negatif uzunluk kullanılmaz. Modern anlamda bütün çözümleri öğretirken −13 atlanmamalıdır.
+
+Kaynak pasajın hemen ardından başka denklem örnekleri gelir. Burada yalnızca istenen otuz dokuz örneği ve ona bağlı genel indirgeme cümlesi çevrilmiştir.
+
+KAYNAKLAR
+
+Birincil Arapça metin: El-Hârizmî, Kitâbü’l-Cebr ve’l-Mukābele; A. M. Müşerrefe ve M. M. Ahmed neşri, Kahire, 1937. OpenITI dosyasının başlığındaki baskı bilgisi esas alındı. Önsöz: dosya satırları 18–45. Denklem örneği ve indirgeme cümlesi: satırlar 76–83.
+https://github.com/OpenITI/barzakh/blob/master/0232Khwarizmi.JabrWaMuqabala.ALCorpus00037-ara1#L18-L45
+https://github.com/OpenITI/barzakh/blob/master/0232Khwarizmi.JabrWaMuqabala.ALCorpus00037-ara1#L76-L83
+
+Sayısallaştırma: Würzburg Üniversitesi Arabic and Latin Corpus projesi; metne geçiren Kaddour Alkassem. Dosya OpenITI’nin barzakh deposundadır.
+
+Karşılaştırma: Frederic Rosen’in 1831 İngilizce çevirisi. Denklem örneği, basılı sayfa 8; yazar önsözü, sayfa 1–4. Önsözün ilme destek ve kullanım alanları pasajı ile denklem örneği ayrıca karşılaştırıldı. Türkçe çevirinin temeli Arapçadır.
+https://en.wikisource.org/wiki/Page:The_Algebra_of_Mohammed_Ben_Musa_(1831).djvu/19
+https://en.wikisource.org/wiki/Page:The_Algebra_of_Mohammed_Ben_Musa_(1831).djvu/24
+https://www.e-rara.ch/zut/doi/10.3931/e-rara-56713
+
+Konuşmanın kitapla bağlantısı: Kullanıcının sağladığı Jonathan Lyons, Hikmet Evi; Türkçe çeviri Şaban Bıyıklı ve Mehmet Savan; üçüncü bölümdeki Hârizmî, cebir ve pratik ihtiyaçlar anlatısı. Atölye, hesap tablosu ve yapay zekâ örnekleri konuşma için eklenmiş güncel benzetmelerdir; Hârizmî’nin veya Lyons’un sözleri değildir.
+
+Hazırlanma tarihi: 14 Ekim 2026.

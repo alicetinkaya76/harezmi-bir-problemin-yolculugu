@@ -1,0 +1,29 @@
+HÂRİZMÎ — ALTI DAKİKALIK KONUŞMA
+
+Hârizmî’nin cebir kitabını açtığımızda karşımıza çok tanıdık ihtiyaçlar çıkıyor. İnsanlar miras paylaşıyor, alışveriş yapıyor, arazilerini ölçüyor ve su kanalları açıyor. Bütün bu işlerde hesap yapmak gerekiyor. Bir payı yanlış hesaplamak, birinin hakkını eksik vermek anlamına gelebiliyor. Yanlış ölçüm ise yapılan işi bozabiliyor. Matematiğin gündelik hayattaki karşılığını burada hemen görebiliyoruz.
+
+Jonathan Lyons, Hikmet Evi’nde Hârizmî’yi anlatırken bu pratik ihtiyaçlara dikkat çekiyor. Hârizmî’nin önsözüne baktığımızda, bilgi üretmek hakkında da düşündüğünü görüyoruz. Bu yüzden önce onun kitabını neden yazdığını, sonra bir problemi nasıl çözdüğünü ele alalım.
+
+Önsöz, Allah’a hamd ve Peygamber’e dua ile başlıyor. Ardından Hârizmî, geçmişteki bilginlerin kendilerinden sonra gelenler için kitaplar yazdığını söylüyor. Bu emeğin üç biçimini anlatıyor. Bir kişi, daha önce bilinmeyen bir şeyi bulur. Başka biri, eski bir metindeki güç konuları açıklar. Bir diğeri ise hataları düzeltir. Üstelik bunu, önceki yazarı küçümsemeden ve kendi yaptığıyla övünmeden yapar.
+
+Bu düşünceyi bugün bir ders kitabı hazırlarken veya işyerinde bir işi tarif ederken kullanabiliriz. Elimizdeki bilgiyi anlaşılır hâle getirmek de bir katkıdır. Başkasının hatasını bulduğumuzda, onu düzeltme biçimimiz de önem taşır. Hârizmî’nin önsözü, bilgi üretmenin yanında bilgiyi aktarma sorumluluğunu da düşünmemizi sağlıyor.
+
+Hârizmî, Halife Memun’un ilme ilgisini ve bilginlere verdiği desteği de anıyor. Bu desteğin kendisini kısa bir cebir kitabı yazmaya teşvik ettiğini söylüyor. Kitabın kullanım alanlarını sayarken mirası, vasiyetleri, paylaştırmayı, hukuki işleri, ticareti ve arazi ölçümünü sıralıyor. Böylece araştırmanın çevresini de görüyoruz: Bir ihtiyaç var, çalışan insanlar var ve çalışmayı mümkün kılan bir destek var.
+
+Şimdi kitabındaki bir örneğe bakalım. Kendi terimlerini Türkçeye şöyle çevirebiliriz: “Bir kare ile onun on kökü, otuz dokuz dirheme eşittir.” Buradaki kare, aradığımız sayının kendisiyle çarpımıdır. Kök ise o sayıdır. Hârizmî problemi kelimelerle anlatıyor. Biz bugün aynı ilişkiyi, “Bir sayının karesiyle on katının toplamı otuz dokuzdur” diye ifade edebiliriz. Sizce bu pozitif sayı kaç olabilir?
+
+[Yaklaşık on saniye bekle.]
+
+Cevap üç. Çünkü üçün karesi dokuz, on katı otuz. İkisinin toplamı otuz dokuz ediyor. Hârizmî, cevaba nasıl ulaşılacağını da gösteriyor. Onun yolunu izleyelim. Önce on sayısının yarısını alıyoruz: beş. Beşi kendisiyle çarpıyoruz: yirmi beş. Buna otuz dokuz ekliyoruz: altmış dört. Altmış dördün karekökü sekiz. Sekizden beşi çıkarıyoruz: üç. Aranan kök üç, kare ise dokuz.
+
+Burada doğal olarak “Neden yirmi beş ekledik?” diye sorabiliriz. Aradığımız sayıya beş ekleyip sonucun karesini aldığımızı düşünelim. Bu işlem, ilk sayının karesine onun on katını ve yirmi beşi eklemekle aynı sonucu verir. Biz ilk iki parçanın toplamının otuz dokuz olduğunu zaten biliyoruz. Eksik yirmi beşi ekleyince altmış dört oluyor. Böylece, kenarı sekiz olan tamamlanmış bir kare elde ediyoruz. Eklediğimiz beşi çıkarınca ilk kenarın üç olduğunu buluyoruz.
+
+[İşlemleri göster ve yaklaşık on saniye dur.]
+
+Şimdi aynı hesabı bugüne taşıyan bir örnek kuralım. Bu atölye örneği, benim günümüz için yaptığım uyarlama. Dikdörtgen bir atölye tasarlıyoruz. Alanı otuz dokuz metrekare olacak. Uzun kenarı, kısa kenarından on metre fazla olacak. Kenarların uzunluklarını arıyoruz.
+
+Kısa kenarı kendisiyle çarpıp buna kısa kenarın on katını eklediğimizde alanı buluruz. Az önce çözdüğümüz ilişkinin aynısı. Kısa kenar üç metre, uzun kenar on üç metre olur. Kontrol edelim: Üç ile on üçün çarpımı otuz dokuz. Aralarındaki fark da on. Hem alan koşulu hem uzunluk farkı sağlandı.
+
+Günümüzde bir hesap tablosu veya yapay zekâ aracı bize bu sonucu verebilir. Bizim görevimiz, sorunun doğru kurulduğunu ve sonucun koşulları karşıladığını denetlemektir. İstenen alanı yanlış yazdıysak, işlemler doğru olsa bile başka bir atölyenin ölçülerini buluruz. Bu yüzden verilenleri belirlemek, bilinmeyeni seçmek, ilişkiyi kurmak ve cevabı kontrol etmek bugün de işe yarayan bir düşünme düzenidir.
+
+Hikmet Evi’nin anlatısına buradan dönebiliriz. Lyons’un üzerinde durduğu bilgi alışverişinde, açıklanabilen ve başkasına öğretilebilen yöntemler önemli yer tutuyor. Hârizmî’nin örneğinde de bir insanın bulduğu çözüm, yazı sayesinde başka bir insanın öğrenebileceği hâle geliyor. Önsözdeki üç katkıyı hatırlayalım: yeni bir şey bulmak, zor olanı açıklamak, yanlış olanı düzeltmek. Kendi grubumuzda, işimizde veya öğrenme hayatımızda bunlardan hangisini bugün yapabiliriz?

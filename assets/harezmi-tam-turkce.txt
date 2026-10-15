@@ -1,0 +1,880 @@
+HÂRİZMÎ · CEBİR VE MUKABELE
+
+TAM TÜRKÇE ÇALIŞMA ÇEVİRİSİ
+
+Yazarın önsözünden son devir hesabına kadar tam özgün eser; müstensih kaydı ayrıca etiketlenmiştir. Modern editör önsözleri ve dipnotları kapsam dışıdır.
+Bu çalışma için hazırlanmış Türkçe çalışma çevirisi; eleştirel edisyon değildir. Kaynak belirsizlikleri açıklama sütununda belirtilir.
+Kaynak: https://ar.wikisource.org/wiki/كتاب_الجبر_والمقابلة_(1937)
+Tarama: https://commons.wikimedia.org/wiki/File:المختصر_في_حساب_الجبر_والمقابلة_(1937).pdf
+
+Modern açıklamalar bu dosyaya dahil değildir. Sayfa numaraları PDF görüntü sırasıdır.
+
+
+ÖNSÖZ VE CEBIRIN TEMELLERI
+
+[PDF görüntüsü 21]
+Rahman ve Rahîm olan Allah’ın adıyla.
+
+Bu, Muhammed bin Musa el-Hârizmî’nin yazdığı kitaptır. Ona şu sözlerle başlamıştır:
+
+Allah’a, nimetleri için, kendisine yaraşan övgülerle hamdolsun. Yarattıkları arasından kendisine kulluk edenlerin üzerine düşen övgü borcunu yerine getirmeleriyle şükür gerçekleşir; nimetin artmasına hak kazanılır ve değişip bozulmasından güven duyulur. Bu, O’nun rabliğini kabul etmek, kudreti önünde boyun eğmek ve büyüklüğü karşısında huşu duymaktır. Peygamberlerin gelişine ara verildiği, hakikatin tanınmaz olduğu ve doğru yolun izlerinin silindiği bir zamanda Muhammed’i, Allah’ın salât ve selâmı onun ve ailesinin üzerine olsun, peygamberlikle gönderdi. Onun aracılığıyla körlüğü giderip görmeyi sağladı, helâkten kurtardı, azlıktan sonra çoğalttı ve dağınıklıktan sonra bir araya getirdi. Rabbimiz Allah ne yücedir! Şanı yüksektir, adları kutsaldır; O’ndan başka ilâh yoktur. Allah’ın salât ve selâmı Peygamber Muhammed’e ve ailesine olsun.
+
+Geçmiş zamanların ve önceki milletlerin bilginleri, çeşitli bilimler ve hikmet yolları üzerine kitaplar yazmayı sürdürmüşlerdir. Kendilerinden sonra gelecekleri gözetmiş, güçleri ölçüsünde sevap ummuşlardır. Bu işin karşılığından, biriktirdiği iyilikten ve anılmasından kendilerine de pay düşmesini; ilmin sırlarını ve kapalı yönlerini ortaya çıkarırken katlandıkları masrafın ve kendilerine yükledikleri sıkıntının çoğunu küçük gösterecek güzel bir anının geriye kalmasını istemişlerdir. Bunlardan biri, daha önce ortaya çıkarılmamış bir şeyi ilk defa bulup sonrakilere miras bırakır. Bir diğeri, öncekilerin bıraktığı eserlerde kapalı kalmış konuları açıklar; yolunu aydınlatır, izlenmesini kolaylaştırır ve ona ulaşmayı yakınlaştırır. Başka biri, bazı kitaplarda bir bozukluk bulur; dağınık olanı toparlar, eğri olanı düzeltir ve yazarına iyi niyetle yaklaşır. Ona karşı çıkmak veya kendi yaptığı işle övünmek amacı taşımaz.
+
+Allah’ın, Müminlerin Emîri İmam Memun’a bağışladığı üstünlükler beni teşvik etti. Ona miras bıraktığı ve giydirmekle şereflendirip süsüyle bezediği halifeliğin yanında, ilme ve edebe duyduğu ilgi; bunlarla uğraşanları kendisine yaklaştırması, himayesini üzerlerine yayması ve kapalı olanı açıklayıp güç olanı kolaylaştırmaları için onlara yardım etmesi, beni şu işe yöneltti:
+
+[PDF görüntüsü 22]
+Cebir ve mukabele hesabına ilişkin, hesabın ince ve büyük meselelerini kapsayan kısa bir kitap yazdım. İnsanların miraslarında, vasiyetlerinde, paylaştırmalarında, hukuki işlerinde ve ticaretlerinde ona ihtiyaçları vardır. Arazi ölçümü, nehir ve kanal kazımı, geometri ve bunların başka yol ve dalları gibi, aralarında yürüttükleri bütün işlemlerde de ona gereksinim duyarlar. Bu işe iyi niyetle başladım. İlim ve edep sahiplerinin, Allah’ın kendilerine emanet ettiği nimetlerin, büyük bağışların ve güzel lütufların üstünlüğü sayesinde, ona layık olduğu değeri vermelerini umuyorum. Bu işte de başka işlerde de başarım Allah’tandır. O’na dayandım; O, büyük arşın Rabbidir. Allah’ın salâtı bütün peygamberlerin ve elçilerin üzerine olsun.
+
+İnsanların ihtiyaç duyduğu hesabı incelediğimde, bütün bunların sayılardan oluştuğunu gördüm. Bütün sayıların birden meydana geldiğini, birin bütün sayıların içinde bulunduğunu gördüm. Söylenen sayılardan birden ona kadar olanların, birler düzeni içinde ilerlediğini gördüm. Sonra, birde olduğu gibi, on iki katına ve üç katına çıkarılır; böylece yirmi, otuz ve sonunda yüze kadar olan sayılar ortaya çıkar. Ardından, bir ve onda yapıldığı gibi, yüz iki katına ve üç katına çıkarılarak bine ulaşılır. Sonra bin de, kavranabilen sayıların sonuna kadar, her basamakta aynı biçimde yinelenir.
+
+Cebir ve mukabele hesabında gerek duyulan sayıların üç tür olduğunu gördüm: kökler, kareler ve yalın sayılar.
+
+[PDF görüntüsü 23]
+Yalın sayı, bir köke veya bir kareye bağlanmayan sayıdır. Kök, birden ve birin üzerindeki sayılardan yahut birin altındaki kesirlerden, kendisiyle çarpılan herhangi bir niceliktir. Kare ise kökün kendisiyle çarpılmasıyla elde edilenin bütünüdür. Yalın sayı, bir köke veya bir kareye bağlanmaksızın söylenen her sayıdır. Bu üç türden bazıları birbirine eşit olur. “Kareler köklere eşittir”, “kareler sayıya eşittir” ve “kökler sayıya eşittir” demen böyledir.
+
+Köklere eşit olan karelere örnek, “Bir kare, kendi kökünün beş katına eşittir” demendir. Bu durumda karenin kökü beş, kare yirmi beştir; bu da kökünün beş katıdır. “Bir karenin üçte biri, dört köke eşittir” demen de böyledir. Karenin bütünü on iki köke eşit olur. Kare yüz kırk dört, kökü on ikidir. Yine “Beş kare, on köke eşittir” dersen, bir kare iki köke eşittir. Karenin kökü iki, kare dörttür. Karelerin sayısı çok da olsa az da olsa, aynı biçimde tek kareye indirgenir. Bunlara eşit olan köklere de aynı işlem uygulanır; kare ne ölçüye indirgenmişse, onlar da aynı ölçüye indirgenir.
+
+[PDF görüntüsü 24]
+Sayıya eşit olan karelere örnek, “Bir kare dokuza eşittir” demendir. Kare dokuz, kökü üçtür. “Beş kare seksene eşittir” dersen, bir kare seksenin beşte biri, yani on altıdır. “Yarım kare on sekize eşittir” dersen, kare otuz altı, kökü altıdır. Bütün kareler, fazlasıyla veya eksiğiyle, bu biçimde tek kareye indirgenir. Bir kareden az olduklarında, tam kareye ulaşmaları için gereken artış yapılır. Onlara eşit olan sayılara da aynı işlem uygulanır.
+
+Sayıya eşit köklere gelince, “Bir kök üç sayısına eşittir” dersen, kök üç, ondan meydana gelen kare dokuzdur. “Dört kök yirmiye eşittir” dersen, bir kök beş, ondan meydana gelen kare yirmi beştir. “Yarım kök ona eşittir” dersen, kök yirmi, ondan meydana gelen kare dört yüzdür.
+
+Kökler, kareler ve sayılar olan bu üç türün birleşerek üç bileşik tür meydana getirdiğini gördüm: kareler ve kökler bir sayıya eşittir; kareler ve bir sayı köklere eşittir; kökler ve bir sayı karelere eşittir.
+
+Kareler ve köklerin bir sayıya eşit olmasına örnek, “Bir kare ve onun on kökü, otuz dokuz dirheme eşittir” demendir. Bunun anlamı şudur: Hangi kareye kendi kökünün on katı eklendiğinde, hepsi otuz dokuz eder? Bunun yolu, köklerin sayısını yarıya indirmektir. Bu meselede köklerin yarısı
+
+[PDF görüntüsü 25]
+beştir. Bunu kendisiyle çarparsın; yirmi beş eder. Onu otuz dokuza eklersin; altmış dört olur. Karekökünü alırsın; sekizdir. Ondan köklerin yarısı olan beşi çıkarırsın; üç kalır. İstediğin karenin kökü budur; kare dokuzdur.
+
+Aynı şekilde iki, üç, daha az veya daha fazla kare söylenirse, onu tek kareye indirgersin. Yanındaki kökleri ve sayıyı da kareyi indirgediğin ölçüye indirgersin. “İki kare ve on kök kırk sekiz dirheme eşittir” demen buna örnektir. Yani hangi iki kare toplanıp bunlara birinin kökünün on katı eklendiğinde kırk sekiz dirhem eder? İki kareyi tek kareye indirgemelisin. Bir karenin iki karenin yarısı olduğunu bildiğine göre, meseledeki her şeyi yarıya indir. Böylece “Bir kare ve beş kök yirmi dört dirheme eşittir” denmiş olur. Yani hangi kareye beş kökü eklendiğinde yirmi dört eder? Kökleri yarıya indir; iki buçuk olur. Bunu kendisiyle çarp; altı ve dörtte bir olur. Yirmi dörde ekle; otuz dirhem ve dörtte bir olur. Bunun karekökünü al; beş buçuktur. Ondan köklerin yarısı olan iki buçuğu çıkar; üç kalır. Bu, karenin köküdür; kare dokuzdur.
+
+Yine “Yarım kare ve onun beş kökü yirmi sekiz dirheme eşittir” denirse, bunun anlamı şudur: Hangi karenin yarısına kendi kökünün beş katı eklendiğinde yirmi sekiz dirhem eder? Kareyi tam bir kareye tamamlamak istersin; bunun yolu onu iki katına çıkarmaktır. Onu ve yanındaki eşit niceliklerin hepsini iki katına çıkar. Böylece bir kare ve on kök elli altı dirheme eşit olur. Köklerin sayısını yarıya indir;
+
+[PDF görüntüsü 26]
+beş olur. Bunu kendisiyle çarp; yirmi beş olur. Elli altıya ekle; seksen bir olur. Karekökünü al; dokuzdur. Ondan köklerin yarısı olan beşi çıkar; dört kalır. Aradığın karenin kökü budur. Kare on altı, yarısı sekizdir. Kareler, kökler ve bunlara eşit sayılarla ilgili bütün benzer durumlarda böyle yap; Allah dilerse doğruya ulaşırsın.
+
+Kareler ve sayının köklere eşit olmasına örnek, “Bir kare ve yirmi bir sayısı, o karenin on köküne eşittir” demendir. Anlamı şudur: Hangi kareye yirmi bir dirhem eklendiğinde, toplam o karenin kökünün on katı olur? Bunun yolu, köklerin sayısını yarıya indirmektir; beş olur. Bunu kendisiyle çarp; yirmi beş eder. Kareyle birlikte bulunduğu söylenen yirmi biri ondan çıkar; dört kalır. Bunun karekökünü al; ikidir. Onu köklerin yarısı olan beşten çıkar; üç kalır. Aradığın karenin kökü budur; kare dokuzdur.
+
+İstersen bulduğun karekökü, köklerin sayısının yarısına ekle; yedi olur. Bu da aradığın karenin köküdür; kare kırk dokuzdur. Seni bu türe götüren bir meseleyle karşılaşırsan, doğruluğunu toplama yoluyla sınarsın. O yolla gerçekleşmiyorsa, mutlaka çıkarma yoluyla gerçekleşir. Bu tür, hem toplamayla hem çıkarmayla işlenir. Köklerin sayısını yarıya indirmeyi gerektiren öteki üç türde bu özellik yoktur.
+
+Bil ki bu türde köklerin sayısını yarıya indirip onu
+
+[PDF görüntüsü 27]
+kendisiyle çarptığında çıkan sonuç, kareyle birlikte bulunan dirhemlerden küçükse, mesele imkânsızdır. Sonuç dirhemlere tam eşitse, karenin kökü, ne bir ekleme ne bir çıkarma yapmaksızın, köklerin sayısının yarısına eşittir. İki kare, daha fazla veya daha az kare içeren bir mesele geldiğinde, birinci türde gösterdiğim gibi, onu tek kareye indir.
+
+Kökler ve sayının karelere eşit olmasına örnek, “Üç kök ve dört sayısı bir kareye eşittir” demendir. Bunun hesabı şöyledir: Köklerin sayısını yarıya indir; bir buçuk olur. Bunu kendisiyle çarp; iki ve dörtte bir olur. Dörde ekle; altı ve dörtte bir olur. Bunun karekökünü al; iki buçuktur. Onu köklerin sayısının yarısı olan bir buçuğa ekle; dört olur. Karenin kökü budur; kare on altıdır. Bir kareden fazla veya az olan her durumu tek kareye indir.
+
+Kitabımın başında sözünü ettiğim altı tür bunlardır. Onları açıkladım. Üçünde köklerin sayısını yarıya indirmediğimizi söyledim; bunların hesabını ve zorunlu gerekçelerini gösterdim. Geri kalan üç türde köklerin sayısını yarıya indirmeyi gerektiren işlemi ise doğru yollarla anlattım. Her biri için, yarıya indirmenin gerekçesini gösteren bir şekil verdim.
+
+Bir kare ve on kökün otuz dokuz dirheme eşit olmasının gerekçesine gelince, bunun şekli bir yüzeydir:
+
+[PDF görüntüsü 28]
+Kenarları bilinmeyen bir kare yüzeydir. Bu, kendisini ve kökünü öğrenmek istediğin karedir; ا ب yüzeyidir. Kenarlarının her biri onun köküdür. Herhangi bir kenarını bir sayıyla çarptığında çıkan sonuç, köklerin sayısıdır; her bir kök, o yüzeyin bir köküne eşittir.
+
+Kareyle birlikte onun on kökü bulunduğu söylendiği için, onun dörtte biri olan iki buçuğu aldık. Her dörtte bir parçayı, yüzeyin bir kenarına yerleştirdik. Böylece ilk yüzey olan ا ب yüzeyinin yanında dört eşit yüzey oluştu. Her birinin uzunluğu ا ب yüzeyinin kökü kadar, genişliği iki buçuktu. Bunlar ح، ط، ك، جـ yüzeyleridir. Böylece dört köşesi eksik, kenarları yine bilinmeyen eşkenarlı bir yüzey oluştu. Her eksik köşede iki çarpı iki buçukluk bir açıklık vardı. Yüzeyin kareye tamamlanması için gereken ek, iki buçuğun kendisiyle çarpımının dört katıydı; hepsinin toplamı yirmi beşti.
+
+İlk yüzeyin, yani kareyi temsil eden yüzeyin, çevresindeki dört yüzeyle —ki bunlar on köktür— birlikte otuz dokuz olduğunu biliyorduk. ا ب yüzeyinin köşelerindeki dört küçük karenin toplamı olan yirmi beşi eklediğimizde, büyük yüzey olan د هـ yüzeyinin karesi tamamlandı. Bunun tümünün altmış dört olduğunu biliyoruz. Kenarlarından biri, yani karekökü, sekizdir. Büyük yüzey olan د هـ yüzeyinin bir kenarının iki ucundan, on kökün sayısının dörtte birini iki kez, yani toplam beşi çıkarırsak, geriye
+
+[PDF görüntüsü 29]
+kenardan üç kalır. Bu, o karenin köküdür. On kökü yarıya indirip bunu kendisiyle çarpmamızın ve otuz dokuz sayısına eklememizin nedeni, büyük yüzeyin dört köşesindeki eksikleri tamamlamaktır. Çünkü herhangi bir sayının dörtte biri kendisiyle, sonra dörtle çarpıldığında, o sayının yarısının kendisiyle çarpımıyla aynı sonuç elde edilir. Bu nedenle, köklerin sayısının dörtte birini kendisiyle ve sonra dörtle çarpmak yerine, onun yarısını kendisiyle çarpmakla yetindik. Şekli budur.
+
+Buna ulaştıran başka bir şekil de vardır. ا ب yüzeyi, kareyi temsil eder. Ona on kökü kadar eklemek istedik. Onu yarıya indirdik; beş oldu. Bu beşi, ا ب yüzeyinin iki yanında bulunan iki yüzeye dönüştürdük. Bunlar جـ ve ن yüzeyleridir. Her bir yüzeyin uzunluğu, on kökün yarısı olan beş arşındır; genişliği ise ا ب yüzeyinin bir kenarı kadardır. Böylece ا ب yüzeyinin köşesinde, beş çarpı beşlik bir kare eksik kaldı. Bu beş, ilk yüzeyin iki yanına eklediğimiz on kökün yarısıdır.
+
+İlk yüzeyin kare, iki yanındaki yüzeylerin on kök olduğunu bildik; bunların hepsi otuz dokuz eder. Büyük yüzeyin tamamlanması için beş çarpı beşlik bir kare, yani yirmi beş eksik kalmıştır. Büyük yüzey olan د هـ yüzeyini tamamlamak için bunu otuz dokuza ekledik; toplam altmış dört oldu. Karekökünü aldık; sekizdir. Bu, büyük yüzeyin bir kenarıdır. Ondan eklediğimiz miktar olan beşi çıkarınca üç kaldı. Bu da kareyi temsil eden ا ب yüzeyinin bir kenarı, yani onun köküdür. Kare dokuzdur. Şekli budur.
+
+Bir kare ve yirmi bir dirhemin, o karenin on köküne eşit olması durumunda ise kareyi bir yüzey olarak kurarız:
+
+[PDF görüntüsü 30]
+Kenarları bilinmeyen kare yüzey ا د olsun. Yanına, genişliği ا د yüzeyinin bir kenarı kadar olan bir dikdörtgen ekleriz. Bu kenar هـ ن, eklenen yüzey هـ ب olsun. Böylece iki yüzeyin toplam uzunluğu جـ هـ kenarı olur. Bunun uzunluğunun on olduğunu biliyoruz. Çünkü kenarları ve açıları eşit olan her kare yüzeyin bir kenarı birle çarpıldığında o yüzeyin bir kökünü, ikiyle çarpıldığında iki kökünü verir. “Bir kare ve yirmi bir, on köke eşittir” denildiğinde, هـ جـ kenarının uzunluğunun on birim olduğunu anlarız; çünkü جـ د kenarı karenin köküdür.
+
+جـ هـ kenarını ح noktasında iki eşit parçaya böldük. Böylece هـ ح çizgisinin ح جـ çizgisine eşit olduğu ortaya çıktı. ح ط çizgisinin de جـ د çizgisine eşit olduğu belliydi. Yüzeyin kare olması için ح ط çizgisini doğrultusu boyunca, جـ ح çizgisinin ح ط çizgisinden fazlası kadar uzattık. Böylece ط ك çizgisi ك م çizgisine eşit oldu ve kenarları ile açıları eşit bir kare yüzey oluştu: م ط yüzeyi.
+
+ط ك çizgisinin beş olduğu, öteki kenarların da ona eşit olduğu ortaya çıkmıştı. Dolayısıyla alanı yirmi beştir. Bu, köklerin sayısının yarısının kendisiyle çarpımından, yani beş çarpı beşten çıkan yirmi beştir. هـ ب yüzeyinin, kareye eklenen yirmi bir olduğu da belliydi. م ط yüzeyinin bir kenarı olan ط ك çizgisiyle هـ ب yüzeyinden bir parça kestik; geriye ط ا yüzeyi kaldı. ك م çizgisinden, ح ك çizgisine eşit olan ك ل çizgisini aldık. Böylece ط ح çizgisinin م ل çizgisine eşit olduğu anlaşıldı. م ك çizgisinden geriye ل ك çizgisi kaldı; bu da ك ح çizgisine eşitti. Bunun sonucunda م ز yüzeyi ط ا yüzeyine eşit oldu.
+
+Böylece هـ ط yüzeyine م ز yüzeyi eklendiğinde, bunların هـ ب yüzeyine, yani yirmi bire eşit olduğu anlaşıldı. م ط yüzeyi yirmi beşti. م ط yüzeyinden, toplamları yirmi bir olan هـ ط ve م ز yüzeylerini çıkarınca, küçük bir yüzey olan ز ك kaldı. Bu, yirmi beş ile yirmi bir arasındaki fark, yani dörttür. Onun kökü ز ح çizgisidir; ح ا çizgisine eşittir ve ikidir. Bu ikiyi, köklerin sayısının yarısı olan ح جـ çizgisinden çıkarırsan, ا جـ çizgisi kalır. Bu çizgi
+
+[PDF görüntüsü 32]
+üçtür; ilk karenin kökü budur. Onu, köklerin sayısının yarısı olan جـ ح çizgisine eklersen, yedi elde edilir. Bu, ز جـ çizgisidir ve önceki kareden büyük bir karenin kökü olur. Bu büyük kareye yirmi bir eklendiğinde, toplam yine onun on köküne eşit olur. Şekli budur; göstermek istediğimiz de buydu.
+
+Üç kök ve dört sayısının bir kareye eşit olması durumunda ise kareyi, kenarları ve açıları bilinmeyen bir kare yüzey olarak kurarız. Bu, ا د yüzeyidir. Bu yüzey
+
+[PDF görüntüsü 33]
+bütünüyle, sözünü ettiğimiz üç kökle dördü bir araya getirir. Her kare yüzeyin bir kenarı birle çarpıldığında, onun bir kökü elde edilir. ا د yüzeyinden هـ د yüzeyini kestik. Onun bir kenarı olan هـ جـ çizgisini, köklerin sayısı olan üçe eşit kıldık; bu, ز د çizgisine de eşittir. Böylece هـ ب yüzeyinin, köklere eklenen dört olduğu ortaya çıktı.
+
+Üç kök olan هـ جـ kenarını ح noktasında ikiye böldük. Sonra ondan bir kare yüzey oluşturduk; bu هـ ط yüzeyidir. Köklerin sayısının yarısı olan bir buçuğun kendisiyle çarpımından elde edilir ve iki ve dörtte birdir. Ardından ح ط çizgisini, ا هـ kadar uzattık. Eklenen parça ط ل çizgisidir. Böylece ح ل çizgisi ا ح çizgisine, ك ن çizgisi ط ل çizgisine eşit oldu. Kenarları ve açıları eşit bir kare yüzey meydana geldi; bu ح م yüzeyidir.
+
+ا ح çizgisinin م ل çizgisine, ا ح çizgisinin de ح ل çizgisine eşit olduğu ortaya çıkmıştı. Geriye, ن ز çizgisine eşit olan ح جـ çizgisi ve ط ل çizgisine eşit olan م ن çizgisi kaldı. هـ ب yüzeyinden, ك ل yüzeyi kadar bir parça artar. ا ز yüzeyinin, üç köke eklenen dört olduğunu biliyoruz. Böylece ا ن yüzeyiyle ك ل yüzeyinin toplamı, dört sayısı olan ا ز yüzeyine eşit olur. O hâlde ح م yüzeyinin, köklerin sayısının yarısı olan bir buçuğun kendisiyle çarpımı, yani iki ve dörtte bir ile, ا ن ve ك ل yüzeyleri olan dördün toplamı olduğu anlaşılır.
+
+Karenin tamamını temsil eden ilk yüzeyin, yani ا د yüzeyinin bir kenarından geriye, köklerin sayısının yarısı olan bir buçuk kalmıştı. Bu, ح جـ çizgisidir. Bunu, ح م yüzeyinin kökü olan ا ح çizgisine, yani iki
+
+
+ÇARPMA
+
+[PDF görüntüsü 34]
+buçuğa eklediğimizde ve buna üç kökün yarısı olan ح جـ çizgisini, yani bir buçuğu eklediğimizde, toplam dört olur. Bu, ا جـ çizgisidir; kareyi temsil eden ا د yüzeyinin köküdür. Şekli budur; göstermek istediğimiz de buydu.
+
+Cebir ve mukabele hesabıyla yapılan her işlemin, kitabımda açıkladığım altı türden birine götürmesi gerektiğini gördük. Onların açıklamasını tamamladım; bunu bil.
+
+Çarpma bölümü.
+
+Şimdi sana, şeyleri, yani kökleri birbirleriyle nasıl çarpacağını anlatacağım: tek başlarına olduklarında, yanlarında bir sayı bulunduğunda, kendilerinden bir sayı çıkarıldığında veya bir sayıdan çıkarılmış olduklarında. Bunları birbirine nasıl ekleyeceğini ve birbirinden nasıl çıkaracağını da bildireceğim.
+
+Bil ki bir sayıyı başka bir sayıyla çarpmak için, sayılardan birini diğerinin içindeki birlerin sayısı kadar katlamak gerekir. Onluklar ve bunlara eklenen yahut bunlardan çıkarılan birler söz konusuysa, dört çarpma yapılmalıdır: onluklarla onluklar, onluklarla birler, birlerle onluklar, birlerle birler. Onlukların yanındaki birler her iki tarafta da ekleniyorsa, dördüncü çarpım da eklenir. Bir taraftaki ekleniyor, öteki taraftaki çıkarılıyorsa, dördüncü çarpım çıkarılır.
+
+Bunun örneği, on ve biri, on ve ikiyle çarpmaktır. On çarpı on yüzdür. Bir çarpı on, eklenen ondur. İki çarpı on, eklenen yirmidir. Bir çarpı iki, eklenen ikidir. Bunların toplamı yüz otuz ikidir.
+
+On eksi bir, on eksi birle çarpılıyorsa, on çarpı on yüzdür. Eksiltilen birin
+
+[PDF görüntüsü 35]
+onla çarpımı, çıkarılan ondur. Öteki eksiltilen birin onla çarpımı da çıkarılan ondur. Böylece seksen kalır. Eksiltilen birin eksiltilen birle çarpımı, eklenen birdir. Sonuç seksen birdir.
+
+On ve iki, on eksi birle çarpılıyorsa, on çarpı on yüzdür. Eksiltilen birin onla çarpımı, çıkarılan ondur. Eklenen ikinin onla çarpımı, eklenen yirmidir. Böylece yüz on olur. Eklenen ikinin çıkarılan birle çarpımı, çıkarılan ikidir. Toplam sonuç yüz sekizdir.
+
+Bunları, şeylerin yanında bir sayı bulunduğunda, şeyler bir sayıdan çıkarıldığında veya şeylerden bir sayı çıkarıldığında, bunların birbirleriyle çarpılmasını anlayasın diye açıkladım.
+
+Sana “On eksi bir şeyi onla çarp” denirse —şeyin anlamı köktür— onu on çarpı on olarak çarp; yüz olur. Eksi bir şeyi onla çarp; çıkarılan on kök olur. “Yüz eksi on şey” dersin. “On ve bir şeyi onla çarp” denirse, on çarpı on yüzdür; bir şey çarpı on, eklenen on şeydir. Sonuç yüz ve on şey olur.
+
+“On ve bir şeyi kendisiyle çarp” denirse, on çarpı on yüz, on çarpı bir şey on şey, öteki on çarpı bir şey yine on şey, bir şey çarpı bir şey de eklenen bir karedir dersin. Böylece yüz dirhem, yirmi şey ve bir kare eklenmiş olur.
+
+“On eksi bir şeyi on eksi bir şeyle çarp” denirse, on çarpı on yüzdür; eksi bir şey çarpı on, çıkarılan on şeydir; öteki eksi bir şey çarpı on yine çıkarılan on şeydir. Eksi bir şeyin eksi bir şeyle çarpımı, eklenen bir karedir. Böylece yüz ve bir kare, eksi yirmi şey elde edilir. Aynı şekilde,
+
+[PDF görüntüsü 36]
+“Bir dirhem eksi altıda biri, bir dirhem eksi altıda biriyle çarp” dense, beş altıda bir kendisiyle çarpılmış olur. Sonuç, dirhemin otuz altı parçasından yirmi beşidir; yani üçte iki ve altıda birin altıda biridir. Bunun hesabı, bir dirhemi bir dirhemle çarpmaktır; bir dirhem eder. (Eksi altıda birin bir dirhemle çarpımı, çıkarılan altıda birdir. Öteki eksi altıda birin bir dirhemle çarpımı da çıkarılan altıda birdir; üçte iki kalır. Eksi altıda birin eksi altıda birle çarpımı, eklenen altıda birin altıda biridir. Böylece üçte iki ve altıda birin altıda biri olur.) Sonra bir dirhemin eksi altıda birle çarpımı, çıkarılan altıda birdir. Öteki bir dirhemin eksi altıda birle çarpımı da çıkarılan altıda birdir. Böylece dirhemin üçte ikisi kalır. Eksi altıda birin eksi altıda birle çarpımı, eklenen altıda birin altıda biridir. Sonuç, üçte iki ve altıda birin altıda biridir.
+
+“On eksi bir şeyi on ve bir şeyle çarp” denirse, on çarpı on yüzdür; eksi bir şeyin onla çarpımı çıkarılan on şey, bir şeyin onla çarpımı eklenen on şey, eksi bir şeyin bir şeyle çarpımı çıkarılan bir karedir dersin. Böylece yüz dirhem eksi bir kare elde edersin.
+
+“On eksi bir şeyi bir şeyle çarp” denirse, on çarpı bir şey on şeydir; eksi bir şey çarpı bir şey çıkarılan bir karedir. Sonuç on şey eksi bir karedir.
+
+“On ve bir şeyi, bir şey eksi onla çarp” denirse, bir şeyin onla çarpımı eklenen on şey, bir şeyin bir şeyle çarpımı eklenen bir kare, eksi onun onla çarpımı çıkarılan yüz dirhem, eksi onun bir şeyle çarpımı çıkarılan on şeydir dersin. Mukabele yaptıktan sonra “Bir kare eksi yüz dirhem” dersin. Çünkü eklenen on şeyi çıkarılan on şeyle giderirsin; geriye bir kare eksi yüz dirhem kalır.
+
+“On dirhem ve yarım şeyi, yarım dirhem eksi beş şeyle çarp” denirse, yarım dirhem çarpı on, eklenen beş dirhemdir. Yarım dirhem çarpı yarım şey, eklenen çeyrek şeydir. Eksi beş şey çarpı on dirhem, çıkarılan elli köktür. Bunların toplamı beş dirhem eksi kırk dokuz kök
+
+
+TOPLAMA, ÇIKARMA VE KÖKLER
+
+[PDF görüntüsü 37]
+(şey) ve kökün dörtte üçüdür. Sonra çıkarılan beş kökü, eklenen yarım kökle çarparsın; çıkarılan iki buçuk kare olur. Böylece sonuç, beş dirhem eksi iki buçuk kare eksi kırk dokuz kök ve kökün dörtte üçüdür.
+
+“On ve bir şeyi, bir şey eksi onla çarp” denirse, “Bir şey ve onu, bir şey eksi onla çarp” denmiş gibidir. Bir şey çarpı bir şey, eklenen bir karedir; on çarpı bir şey, eklenen on şeydir; eksi on çarpı bir şey, çıkarılan on şeydir. Ekleme ile çıkarma birbirini götürür ve kare kalır. Eksi on çarpı on ise kareden çıkarılan yüzdür. Toplam, bir kare eksi yüz dirhemdir. Çarpımın bir parçası eklenip öteki çıkarılıyorsa —eksi bir şeyin eklenen bir şeyle çarpılması gibi— son çarpım daima çıkarılır. Bunu bil. Başarı Allah’tandır.
+
+Toplama ve çıkarma bölümü.
+
+Bil ki iki yüzün karekökü eksi on, yirmi eksi iki yüzün kareköküne eklendiğinde tam on olur. İki yüzün karekökü eksi on, yirmi eksi iki yüzün karekökünden çıkarıldığında ise otuz eksi iki tane iki yüzün karekökü olur. İki tane iki yüzün karekökü, sekiz yüzün kareköküdür.
+
+Yüz ve bir kare eksi yirmi köke, elli ve on kök eksi iki kare eklenirse, sonuç yüz (ve bir kare) ve elli eksi bir kare eksi on köktür. Yüz ve bir kare eksi yirmi kökten, elli ve on kök eksi iki kare çıkarılırsa, sonuç elli dirhem ve üç kare eksi otuz köktür. Allah dilerse, bunun gerekçesini, istenene ulaştıran bir şekille sana açıklayacağım.
+
+Bil ki değeri bilinen veya tam olarak ifade edilemeyen bir karenin kökünü iki katına çıkarmak istediğinde —iki katına çıkarmanın anlamı onu ikiyle çarpmaktır—
+
+[PDF görüntüsü 38]
+ikiyi ikiyle, sonra kareyi temsil eden sayıyla çarpmalısın. Çıkan toplamın karekökü, o karenin kökünün iki katı olur. Üç katını istersen, üçü üçle, sonra karenin sayısıyla çarp. Çıkan toplamın karekökü, ilk karenin kökünün üç katı olur. Katların daha fazla veya daha az olması durumunda da aynı örneği izle.
+
+Bir karenin kökünün yarısını almak istersen, yarımı yarımla çarpmalısın; dörtte bir olur. Sonra bunu karenin sayısıyla çarp. Çıkan toplamın karekökü, o karenin kökünün yarısına eşittir. Üçte biri, dörtte biri, bundan daha azı veya daha fazlası için de, azaltma ve katlama nereye kadar giderse gitsin, aynı yol geçerlidir.
+
+Örnek olarak, dokuzun karekökünü iki katına çıkarmak istersen, ikiyi ikiyle, sonra dokuzla çarparsın; otuz altı olur. Karekökünü al; altıdır. Bu, dokuzun karekökünün iki katıdır. Dokuzun karekökünün üç katını isteseydin, üçü üçle, sonra dokuzla çarpardın; seksen bir olurdu. Karekökünü al; dokuzdur. Bu, dokuzun karekökünün üç katıdır.
+
+Dokuzun karekökünün yarısını almak istersen, yarımı yarımla çarparsın; dörtte bir olur. Sonra dörtte biri dokuzla çarparsın; iki ve dörtte bir olur. Karekökünü alırsın; bir buçuktur. Bu, dokuzun karekökünün yarısıdır. Tam olarak bilinen veya tam olarak ifade edilemeyen köklerin daha büyük ya da daha küçük katları için yol budur.
+
+Bölme.
+
+Dokuzun karekökünü dördün kareköküne bölmek istersen, dokuzu dörde bölersin; iki ve dörtte bir olur. Bunun karekökü, bir birime düşen bölümdür;
+
+[PDF görüntüsü 39]
+bu da bir buçuktur. Dördün karekökünü dokuzun kareköküne bölmek istersen, dördü dokuza bölersin; birin dört dokuzda biri olur. Bunun karekökü, bir birime düşen bölümdür; o da birin üçte ikisidir.
+
+Dokuzun iki karekökünü, dördün kareköküne veya başka bir karenin köküne bölmek istersen, katları bulma işleminde gösterdiğim gibi dokuzun kökünü iki katına çıkar. Ulaştığın sayıyı dörde veya bölmek istediğin öteki sayıya böl; önceki işlemi uygula. Dokuzun üç karekökünü, daha fazlasını, yarım karekökünü veya daha azını istediğinde de aynı biçimde yap. Allah dilerse doğruya ulaşırsın.
+
+Dokuzun karekökünü dördün kareköküyle çarpmak istersen, dokuzu dörtle çarp; otuz altı olur. Bunun karekökünü al; altıdır. Bu, dokuzun kareköküyle dördün karekökünün çarpımıdır. Beşin karekökünü onun kareköküyle çarpmak istersen, beşi onla çarp. Çıkan sayının karekökü, istediğin niceliktir. Üçte birin karekökünü yarımın kareköküyle çarpmak istersen, üçte biri yarımla çarp; altıda bir olur. Altıda birin karekökü, üçte birin kareköküyle yarımın karekökünün çarpımıdır.
+
+Dokuzun iki karekökünü dördün üç kareköküyle çarpmak istersen, hangi sayının kareköküne karşılık geldiğini öğrenene kadar, anlattığım biçimde dokuzun iki karekökünü çıkar. Aynısını dördün üç karekökü için de yap; hangi sayının karekökü olduğunu bul. Sonra bu iki sayıyı birbiriyle çarp. Elde ettiğinin karekökü, metindeki ifadeyle, dokuzun karekökü ile dördün üç karekökünün çarpımıdır. Köklerin daha fazla veya daha az olması durumunda da aynı örneği izle.
+
+İki yüzün karekökü eksi onun, yirmi eksi iki yüzün kareköküne eklenmesinin gerekçesine gelince, şekil şöyledir: ا ب çizgisi, iki yüzün kareköküdür. ا noktasından جـ noktasına kadar olan parça ondur. İki yüzün karekökünden geri kalan, ا ب çizgisinin kalan kısmı olan جـ ب çizgisidir. Sonra ب noktasından د noktasına bir çizgi çıkarırsın. Bu, yirminin çizgisidir ve
+
+[PDF görüntüsü 40]
+on olan ا جـ çizgisinin iki katıdır. ب noktasından هـ noktasına kadar olan parça, ا ب çizgisine eşittir; dolayısıyla o da iki yüzün kareköküdür. Yirmiden geri kalan parça, هـ noktasından د noktasına kadardır.
+
+İki yüzün karekökünden on çıkarılınca kalan جـ ب çizgisini, yirmi eksi iki yüzün karekökü olan هـ د çizgisine eklemek istediğimizde, ب هـ çizgisinden جـ ب kadar bir parça ayırdık. Bu, ز هـ çizgisidir. İki yüzün karekökü olan ا ب çizgisinin ب هـ çizgisine, on olan ا جـ çizgisinin de ب ز çizgisine eşit olduğu belliydi. ا ب çizgisinden kalan جـ ب parçası, ب هـ çizgisinden kalan ز هـ parçasına eşittir. هـ د çizgisine ز هـ çizgisini ekledik. Böylece, yirmi olan ب د çizgisinden, on olan ا جـ kadar bir parçanın, yani ب ز çizgisinin çıkarılmış olduğu anlaşıldı. Bize kalan ز د çizgisi ondur. Göstermek istediğimiz buydu; şekli budur.
+
+İki yüzün karekökü eksi onun, yirmi eksi iki yüzün karekökünden çıkarılmasının gerekçesine gelince, şekil şöyledir: ا ب çizgisi iki yüzün kareköküdür. ا noktasından جـ noktasına kadar olan parça, bilinen ondur. ب noktasından د noktasına bir çizgi çıkarıp onu yirmi olarak alırız. ب’den هـ’ye kadar olan parçayı iki yüzün kareköküne, yani ا ب çizgisine eşit kılarız. جـ ب çizgisinin iki yüzün karekökünden on çıkarılınca kalan parça, د هـ çizgisinin de yirmiden iki yüzün karekökü çıkarılınca kalan parça olduğu bellidir.
+
+جـ ب çizgisini هـ د çizgisinden çıkarmak istedik. ب noktasından ز noktasına, on olan ا جـ çizgisine eşit bir çizgi çıkardık. Böylece ز د çizgisinin bütünü, ز ب ve ب د çizgilerinin toplamına eşit oldu. Bunun toplam otuz olduğunu biliyoruz. هـ د çizgisinden, جـ ب kadar bir parça kestik; bu هـ ح çizgisidir. Böylece ح د çizgisinin, ز د çizgisinden kalan parça olduğu anlaşıldı. Bu çizgi
+
+
+ALTI PROBLEM
+
+[PDF görüntüsü 41]
+otuzdur. ب هـ çizgisinin iki yüzün karekökü olduğu, ز ب ile ب جـ çizgilerinin birlikte yine iki yüzün karekökü olduğu anlaşıldı. هـ ح çizgisi جـ ب çizgisine eşit olunca, otuz olan ز د çizgisinden çıkarılanın iki tane iki yüzün karekökü olduğu ortaya çıktı. İki tane iki yüzün karekökü, sekiz yüzün kareköküdür. Göstermek istediğimiz buydu; şekli budur.
+
+Yüz ve bir kare eksi yirmi köke, elli ve on kök eksi iki kare eklenmesi için uygun bir şekil kurulamadı. Çünkü bu ifade, birbirinden farklı üç türden oluşur: kareler, kökler ve sayılar. Bunların yanında, şekle dönüştürülebilmeleri için onlara eşit bir ifade yoktur. Bunun için bir şekil kurmamız mümkün olsa da güzel olmaz. Fakat sözle zorunlu gerekçesi açıktır. Elinde yüz ve bir kare eksi yirmi kök olduğunu biliyorsun. Bunlara elli ve on kök eklediğinde, yüz elli ve bir kare eksi on kök olur. Çünkü eklenen on kök, çıkarılan yirmi kökün onunu tamamlar. Böylece yüz elli ve bir kare eksi on kök kalır. Yüzün yanında bir kare vardı. Elliden çıkarılmış olan iki kareyi, yüz ve bir kareden çıkardığında, bir kare öteki kareyi götürür; geriye ayrıca çıkarılacak bir kare kalır. Böylece yüz elli eksi bir kare eksi on kök elde edilir. Göstermek istediğimiz buydu.
+
+Altı mesele bölümü.
+
+Hesabın tür ve yollarından önce, kitabımın başında geçen altı türe örnek olacak altı mesele koymuştuk. Bunlardan üçünde köklerin sayısı yarıya indirilmez. Cebir ve mukabele hesabının mutlaka bunlardan birine götürdüğünü söyledim. Sonra, Allah dilerse anlaşılması yakın, zahmeti az ve gösterilmesi kolay meseleleri bunların arkasından getirdim.
+
+Altı meselenin birincisi şöyle demendir: Onu iki parçaya böldüm. İki parçayı birbiriyle çarptım. Sonra parçalardan birini kendisiyle çarptım. Kendisiyle çarpılan parçanın karesi, iki parçanın birbiriyle çarpımının dört
+
+[PDF görüntüsü 42]
+katı oldu. Hesabı şöyledir: Parçalardan birini bir şey, ötekini on eksi bir şey olarak al. Bir şeyi on eksi bir şeyle çarp; on şey eksi bir kare olur. “Dört katı” denildiği için bunu dörtle çarp. Böylece iki parçanın çarpımının dört katı, kırk şey eksi dört kare olur. Sonra parçalardan biri olan bir şeyi kendisiyle çarp; bir kare olur. Bu, kırk şey eksi dört kareye eşittir. Eksik dört kareyi tamamla ve aynı dört kareyi öteki kareye de ekle. Böylece kırk şey, beş kareye eşit olur. Bir kare sekiz köke eşittir; kare altmış dört, kökü sekizdir. Bu, kendisiyle çarpılan parçadır. Ondan geri kalan iki, öteki parçadır. Bu mesele seni altı türden birine, karelerin köklere eşit olduğu türe götürdü. Bunu bil.
+
+İkinci mesele: Onu iki parçaya böldüm. Her parçayı kendisiyle, sonra onu da kendisiyle çarptım. Onun kendisiyle çarpımından çıkan sonuç, parçalardan birinin kendisiyle çarpımının iki ve yedi dokuzda bir katı yahut öteki parçanın kendisiyle çarpımının altı ve dörtte bir katı oldu.
+
+Hesabı şöyledir: Parçalardan birini bir şey, ötekini on eksi bir şey olarak al. Şeyi kendisiyle çarp; bir kare olur. Bunu iki ve yedi dokuzda birle çarp; iki kare ve karenin yedi dokuzda biri olur. Sonra onu kendisiyle çarp; yüz olur. Bu, iki kare ve karenin yedi dokuzda birine eşittir. Bunu tek kareye indir.
+
+[PDF görüntüsü 43]
+Bunun için eldekinin yirmi beş parçasından dokuzunu, yani beşte birini ve beşte birinin beşte dördünü alırsın. Yüzün beşte birini ve bu beşte birin beşte dördünü al; otuz altıdır. Bu, bir kareye eşittir. Karekökünü al; altıdır. Parçalardan biri budur; öteki zorunlu olarak dörttür. Bu mesele seni altı türden birine, karelerin bir sayıya eşit olduğu türe götürdü.
+
+Üçüncü mesele: Onu iki parçaya böldüm, sonra birini ötekine böldüm; bölüm dört çıktı. Hesabı şöyledir: Parçalardan birini bir şey, ötekini on eksi bir şey olarak al. Bölüm dört olacak biçimde on eksi bir şeyi bir şeye böl. Bölümden çıkanı bölenle çarptığında, bölünen miktarın geri geldiğini biliyorsun. Bu meselede bölüm dört, bölen bir şeydir. Dördü bir şeyle çarp; dört şey olur. Bu, böldüğün miktar olan on eksi bir şeye eşittir. Onda eksik olan bir şeyi tamamla ve dört şeye de bir şey ekle. Böylece beş şey ona eşit olur. Bir şey ikidir; parçalardan biri budur. Bu mesele seni altı türden birine, köklerin bir sayıya eşit olduğu türe götürdü.
+
+Dördüncü mesele: Bir miktarın üçte biri ve bir dirhemi, onun dörtte biri ve bir dirhemiyle çarptım; yirmi etti. Hesabı şöyledir: Bir şeyin üçte birini, bir şeyin dörtte biriyle çarp; bir karenin altıda birinin yarısı olur. Bir dirhemi bir şeyin üçte biriyle çarp; bir şeyin üçte biri olur. Bir dirhemi bir şeyin dörtte biriyle çarp; bir şeyin dörtte biri olur. Bir dirhemi bir dirhemle çarp; bir dirhem olur. Bunların hepsi, bir karenin altıda birinin yarısı, bir şeyin üçte biri,
+
+[PDF görüntüsü 44]
+bir şeyin dörtte biri ve bir dirhemdir; yirmi dirheme eşittir. Yirmiden bir dirhemi bir dirhem karşılığında çıkar; on dokuz dirhem kalır. Bu, bir karenin altıda birinin yarısına, bir şeyin üçte birine ve bir şeyin dörtte birine eşittir. Kareyi tamamla. Tamamlanması, eldeki her şeyi on ikiyle çarpmaktır. Böylece bir kare ve yedi kök, iki yüz yirmi sekiz dirheme eşit olur. Köklerin sayısını yarıya indirip bunu kendisiyle çarp; on iki ve dörtte bir olur. Bunu iki yüz yirmi sekiz sayısına ekle; iki yüz kırk ve dörtte bir olur. Karekökünü al; on beş buçuktur. Ondan köklerin sayısının yarısı olan üç buçuğu çıkar; on iki kalır. Aranan miktar budur. Bu mesele seni altı türden birine, kareler ve köklerin bir sayıya eşit olduğu türe götürdü.
+
+Beşinci mesele: Onu iki parçaya böldüm. Her parçayı kendisiyle çarpıp sonuçları topladım; elli sekiz dirhem oldu. Hesabı şöyledir: Parçalardan birini bir şey, ötekini on eksi bir şey olarak al. On eksi bir şeyi kendisiyle çarp; yüz ve bir kare eksi yirmi şey olur. Sonra bir şeyi bir şeyle çarp; bir kare olur. İkisini topla; yüz ve iki kare eksi yirmi şey olur. Bu, elli sekiz dirheme eşittir. Yüz ve iki karede eksik olan yirmi şeyi tamamla; elli sekize de aynı yirmi şeyi ekle. Böylece yüz ve iki kare, elli sekiz dirhem ve yirmi şeye eşit olur.
+
+Bunu tek kareye indir; bunun yolu, elindekinin yarısını almaktır. Böylece elli dirhem ve bir kare, yirmi dokuz dirhem ve on şeye eşit olur. Mukabele yap; elliden yirmi dokuzu çıkar. Yirmi bir ve bir kare, on şeye eşit kalır. Köklerin sayısını yarıya indir; beş olur. Onu kendisiyle çarp;
+
+
+ÇEŞITLI PROBLEMLER
+
+[PDF görüntüsü 45]
+yirmi beş olur. Bundan kareyle birlikte bulunan yirmi biri çıkar; dört kalır. Karekökünü al; ikidir. Bunu köklerin sayısının yarısı olan beşten çıkar; üç kalır. Bu, parçalardan biridir; öteki yedidir. Bu mesele seni altı türden birine, kareler ve sayının köklere eşit olduğu türe götürdü.
+
+Altıncı mesele: Bir miktarın üçte birini dörtte biriyle çarptım; başlangıçtaki miktar ve ayrıca yirmi dört dirhem elde edildi. Hesabı şöyledir: Aradığın miktarı bir şey olarak al. Bir şeyin üçte birini bir şeyin dörtte biriyle çarp; bir karenin altıda birinin yarısı olur. Bu, bir şey ve yirmi dört dirheme eşittir. Karenin altıda birinin yarısını on ikiyle çarparak kareyi tamamla. Bir şeyi on ikiyle çarp; on iki şey olur. Yirmi dördü de on ikiyle çarp. Böylece iki yüz seksen sekiz dirhem ve on iki kök, bir kareye eşit olur.
+
+Köklerin sayısını yarıya indir; altı olur. Onu kendisiyle çarpıp iki yüz seksen sekize ekle; üç yüz yirmi dört olur. Karekökünü al; on sekizdir. Bunu köklerin sayısının yarısı olan altıya ekle; yirmi dört eder. Aranan miktar budur. Bu mesele seni altı türden birine, kökler ve sayının karelere eşit olduğu türe götürdü.
+
+Çeşitli meseleler bölümü.
+
+Birisi sorup “Onu iki parçaya böldüm, sonra birini ötekiyle çarptım; yirmi bir dirhem oldu” derse, ondan ayrılan parçalardan birinin
+
+[PDF görüntüsü 46]
+bir şey, ötekinin on eksi bir şey olduğunu bilirsin. Bir şeyi on eksi bir şeyle çarp; on şey eksi bir kare olur. Bu, yirmi bire eşittir. On şeyde eksik olan kareyi tamamla; yirmi bire de bir kare ekle. Böylece on şey, yirmi bir dirhem ve bir kareye eşit olur. Köklerin sayısını yarıya indir; beş kalır. Kendisiyle çarp; yirmi beş olur. Kareyle birlikte bulunan yirmi biri çıkar; dört kalır. Karekökünü al; ikidir. Bunu köklerin sayısının yarısı olan beşten çıkar; üç kalır. Parçalardan biri budur. İstersen dördün karekökünü köklerin sayısının yarısına ekle; yedi olur. Bu da parçalardan biridir. Toplamayla ve çıkarmayla işlenen mesele budur.
+
+“Onu iki parçaya böldüm. Her parçayı kendisiyle çarptım; sonra küçüğü büyükten çıkardım. Kırk kaldı” derse, hesabı şöyledir: On eksi bir şeyi kendisiyle çarp; yüz ve bir kare eksi yirmi şey olur. Bir şeyi bir şeyle çarp; bir kare olur. Bunu yüz ve bir kare eksi yirmi şeyden çıkar; yüz eksi yirmi şey kalır. Bu, kırk dirheme eşittir. Yüzde eksik olan yirmi şeyi tamamla; kırka da yirmi şey ekle. Böylece yüz, yirmi şey ve kırk dirheme eşit olur. Yüzden kırkı çıkar; altmış dirhem kalır. Bu, yirmi şeye eşittir. Bir şey üçe eşittir; parçalardan biri budur.
+
+“Onu iki parçaya böldüm. Her parçayı kendisiyle çarpıp sonuçları topladım. Bunlara, çarpmadan önce iki parça arasındaki farkı da ekledim. Toplam elli dört dirhem oldu” derse, hesabı şöyledir: On eksi bir şeyi kendisiyle çarp; yüz ve bir kare eksi yirmi şey olur. Ondan geri kalan şeyi de kendisiyle çarp;
+
+[PDF görüntüsü 47]
+bir kare olur. Sonra bunları toplarsın; yüz ve iki kare eksi yirmi şey olur. “Çarpmadan önce aralarındaki farkı ekledim” denilmişti. İki parça arasındaki fark, on eksi iki şeydir. Böylece toplam yüz on ve iki kare eksi yirmi iki şey olur. Bu, elli dört dirheme eşittir.
+
+Cebir ve mukabele yaptığında, yüz on dirhem ve iki karenin, elli dört dirhem ve yirmi iki şeye eşit olduğunu söylersin. İki kareyi tek kareye indir; bunun yolu elindekinin yarısını almaktır. Böylece elli beş dirhem ve bir kare, yirmi yedi dirhem ve on bir şeye eşit olur. Elli beşten yirmi yediyi çıkar; yirmi sekiz dirhem ve bir kare kalır. Bu, on bir şeye eşittir. Şeylerin sayısını yarıya indir; beş buçuk olur. Kendisiyle çarp; otuz ve dörtte bir olur. Bundan kareyle birlikte bulunan yirmi sekizi çıkar; iki ve dörtte bir kalır. Karekökünü al; bir buçuktur. Bunu köklerin sayısının yarısından çıkar; dört kalır. Parçalardan biri budur.
+
+“Onu iki parçaya böldüm. Birini ötekine, ötekini de birine böldüm. Sonuçların toplamı iki dirhem ve altıda bir oldu” derse, hesabı şöyledir: Her parçayı kendisiyle çarpıp sonuçları topladığında, elde ettiğin toplam, iki parçanın çarpımının bu bölüm toplamıyla —yani iki ve altıda birle— çarpımına eşit olur. On eksi bir şeyi kendisiyle çarp; yüz ve bir kare eksi yirmi şey olur. Bir şeyi bir şeyle çarp; bir kare olur. Bunları topla; böylece yüz
+
+[PDF görüntüsü 48]
+ve iki kare eksi yirmi şey elde edilir. Bu, bir şeyin on eksi bir şeyle çarpımına, yani on şey eksi bir karenin, iki bölümün toplamı olan iki ve altıda birle çarpımına eşittir. Bu çarpım yirmi bir şey ve bir şeyin üçte ikisi, eksi iki kare ve karenin altıda biridir. Yüz ve iki kare eksi yirmi şeye eşittir.
+
+Eksik iki kare ve karenin altıda birini tamamla; bunları yüz ve iki kare eksi yirmi şeye ekle. Yüz ve iki kareden çıkarılan yirmi şeyi de, yirmi bir şey ve bir şeyin üçte ikisine ekle. Böylece yüz ve dört kare ve karenin altıda biri, kırk bir şey ve bir şeyin üçte ikisine eşit olur.
+
+Bunu tek kareye indir. Bir karenin, dört kare ve karenin altıda birinin beşte biri ile beşte birinin beşte biri olduğunu biliyorsun. Elindeki her şeyin beşte birini ve beşte birinin beşte birini al. Böylece yirmi dört ve bir kare, on köke eşit olur. Çünkü on, kırk bir şey ve bir şeyin üçte ikisinin beşte biri ile beşte birinin beşte biridir. Köklerin sayısını yarıya indir; beştir. Kendisiyle çarp; yirmi beş olur. Kareyle birlikte bulunan yirmi dördü çıkar; bir kalır. Karekökünü al; birdir. Onu köklerin sayısının yarısı olan beşten çıkar; dört kalır. Parçalardan biri budur.
+
+Bil ki herhangi iki nicelikte, birini ötekine, ötekini de birine böldüğünde, bu bölümlerden birini diğeriyle çarparsan sonuç her zaman bir olur.
+
+“Onu iki parçaya böldüm. Birini beşle çarpıp ötekine böldüm. Elde ettiğimin yarısını çıkardım; kalanını beşle çarpılmış parçaya ekledim. Toplam elli dirhem oldu” derse, hesabı şöyledir: Ondan bir şey alıp beşle çarparsın;
+
+[PDF görüntüsü 49]
+beş şey olur. Bu, ondan geri kalan on eksi bir şeye bölünür ve bölümün yarısı alınır. Beş şeyi on eksi bir şeye bölüp çıkanın yarısını almanın, beş şeyin yarısını on eksi bir şeye bölmekle aynı olduğunu biliyoruz. Beş şeyin yarısını aldığında iki buçuk şey olur. On eksi bir şeye bölmek istediğin budur. Bölüm, elli eksi beş şeye eşittir; çünkü parçalardan birinin beşle çarpımını ona eklediğinde toplamın elli olduğu söylenmiştir.
+
+Bölümü bölenle çarptığında, bölünen miktarın geri geldiğini biliyorsun. Bölenmiş miktarın iki buçuk şeydir. On eksi bir şeyi, elli eksi beş şeyle çarp; beş yüz dirhem ve beş kare eksi yüz şey olur. Bu, iki buçuk şeye eşittir. Tek kareye indir; yüz dirhem ve bir kare eksi yirmi şey, yarım şeye eşit olur. Yüzde eksik olan yirmi şeyi tamamla ve bunları yarım şeye ekle. Böylece yüz dirhem ve bir kare, yirmi şey ve yarım şeye eşit olur.
+
+Şeylerin sayısını yarıya indirip kendisiyle çarp. Bundan yüzü çıkar. Kalanın karekökünü al; onu köklerin sayısının yarısı olan on ve dörtte birden çıkar. Sekiz kalır; parçalardan biri budur.
+
+“Onu iki parçaya böldüm. Birini kendisiyle çarptım; sonuç ötekinin seksen bir katı oldu” derse, hesabı şöyledir: On eksi bir şeyin kendisiyle çarpımı, yüz ve bir kare eksi yirmi şeydir. Bu, seksen bir şeye eşittir. Yüz ve karede eksik olan yirmi şeyi tamamla ve seksen bir şeye de ekle. Böylece yüz ve bir kare, yüz bir köke eşit olur. Köklerin sayısını yarıya indir; elli buçuk olur. Kendisiyle çarp; iki bin beş yüz
+
+[PDF görüntüsü 50]
+elli ve dörtte bir olur. Bundan yüzü çıkar; iki bin dört yüz elli ve dörtte bir kalır. Karekökünü al; kırk dokuz buçuktur. Bunu köklerin sayısının yarısı olan elli buçuktan çıkar; bir kalır. Parçalardan biri budur.
+
+“On kafiz buğday ve arpa vardı. Her birini ayrı bir fiyattan sattım. İkisinin bedelini topladığımda, toplam, iki fiyat arasındaki farkla iki miktar arasındaki farkın toplamına eşit oldu” derse, istediğin miktarları seçebilirsin; uygundur. Dört ve altıyı seçmiş olalım. Dört kafizin her birini bir şeye sattım dersin. Dördü bir şeyle çarparsın; dört şey olur. Altı kafizin her birini, dört kafizin her biri için belirlediğin bir şeyin yarısına satarsın. İstersen üçte birine, istersen dörtte birine; dilediğin orana satabilirsin, hepsi uygundur.
+
+İkinci satışın fiyatı yarım şeyse, yarım şeyi altıyla çarp; üç şey olur. Bunu dört şeyle topla; yedi şey olur. Bu, iki miktar arasındaki fark olan iki kafizle iki fiyat arasındaki fark olan yarım şeyin toplamına eşittir. Böylece yedi şey, iki ve yarım şeye eşit olur. Yedi şeyden yarım şeyi çıkar; altı buçuk şey iki dirheme eşit kalır. Bir şey, bir dirhemin on üç parçasından dördüdür. Dört kafizin her birini
+
+[PDF görüntüsü 51]
+bir dirhemin on üçte dördüne, altı kafizin her birini de bir dirhemin on üçte ikisine sattı dersin. Toplam bedel, bir dirhemin on üç parçasından yirmi sekizidir. Bu, miktarlar arasındaki fark olan iki kafizle —sayı olarak yirmi altı on üçte birlik pay— fiyatlar arasındaki fark olan iki on üçte birlik payın toplamına eşittir. Böylece yirmi sekiz parça eder.
+
+“Aralarında iki dirhem fark bulunan iki miktar var. Küçüğünü büyüğüne böldüm; bölüm yarım dirhem çıktı” derse, miktarlardan birini bir şey, ötekini bir şey ve iki dirhem olarak al. Bir şeyi, bir şey ve iki dirheme böldüğünde bölüm yarım dirhem çıkmıştır. Bölümü bölenle çarptığında, böldüğün miktarın, yani bir şeyin geri geleceğini biliyorsun. Bir şey ve iki dirhemi, bölüm olan yarımla çarp; yarım şey ve bir dirhem olur. Bu, bir şeye eşittir. Bir yarım şeyi öteki yarım şeyle giderirsin; geriye, yarım şeye eşit bir dirhem kalır. İki katını al; bir şey iki dirheme, öteki miktar dörde eşit olur.
+
+“Onu iki parçaya böldüm. Birini onla, ötekini kendisiyle çarptım; sonuçlar eşit oldu” derse, hesabı şöyledir: Bir şeyi onla çarp; on şey olur. Sonra on eksi bir şeyi kendisiyle çarp; yüz ve bir kare eksi yirmi şey olur. Bu, on köke eşittir. Anlattığım gibi mukabele yap.
+
+Yine “Onu iki parçaya böldüm, birini ötekiyle çarptım. Sonra çarpımdan çıkanı, çarpmadan önce iki parça arasındaki farka böldüm. Bölüm beş ve dörtte bir çıktı” derse,
+
+[PDF görüntüsü 52]
+hesabı şöyledir: Ondan bir şey al; on eksi bir şey kalır. Birini ötekiyle çarp; on kök eksi bir kare olur. İki parçanın çarpımından çıkan budur. Sonra bunu parçalar arasındaki fark olan on eksi iki şeye böldün; bölüm beş ve dörtte bir çıktı. Beş ve dörtte biri on eksi iki şeyle çarptığında, çarpılmış miktar olan on şey eksi bir kare geri gelir.
+
+Beş ve dörtte biri, on eksi iki şeyle çarp; elli iki buçuk dirhem eksi on buçuk kök olur. Bu, on kök eksi bir kareye eşittir. Elli iki buçukta eksik olan on buçuk kökü tamamla ve bunları on kök eksi bir kareye ekle. Sonra eksik kareyi tamamla; elli iki buçuk dirheme de bir kare ekle. Böylece yirmi kök ve yarım kök, elli iki buçuk dirhem ve bir kareye eşit olur. Kitabın başında açıkladığımız gibi mukabele yap.
+
+“Bir karenin beşte birinin üçte ikisi, kökünün yedide birine eşittir” derse, karenin bütünü bir kök ve bir kökün yedide birinin yarısına eşittir. Dolayısıyla kök, karenin on beş parçasından on dördüdür. Hesabı şöyledir: Kareyi tamamlamak için, karenin beşte birinin üçte ikisini yedi buçukla çarp. Elindeki kökün yedide birini de aynı sayıyla çarp. Böylece bir kare, bir kök ve kökün yedide birinin yarısına eşit olur. Kökü, bir ve yedide birin yarısıdır. Kare, bir dirhem ve dirhemin yüz doksan altı parçasından yirmi dokuzudur. Onun beşte birinin üçte ikisi, yüz doksan altı parçadan otuzudur. Kökünün yedide biri de yüz doksan altı parçadan otuzudur.
+
+“Bir karenin beşte birinin dörtte üçü, kökünün beşte dördüne eşittir” derse, hesabı şöyledir: Kökü tam bir kök yapmak için, karenin beşte birinin dörtte üçüne bunun dörtte birini ekle. Bu, yirminin üç ve dörtte üçüdür. Hepsini dörtte birlik parçalara çevir; seksende on beş olur. Sekseni
+
+[PDF görüntüsü 53]
+on beşe böl; beş ve üçte bir olur. Bu, karenin köküdür. Kare yirmi sekiz ve dört dokuzda birdir.
+
+“Bir miktarı kendisinin dört katıyla çarptım; yirmi oldu” derse, hesabı şöyledir: Onu kendisiyle çarpsaydın sonuç beş olurdu. Dolayısıyla miktar beşin kareköküdür.
+
+“Bir miktarı kendi üçte biriyle çarptım; on oldu” derse, hesabı şöyledir: Onu kendisiyle çarpsaydın otuz olurdu. “Miktar, otuzun kareköküdür” dersin.
+
+“Bir miktarı kendisinin dört katıyla çarptım; ilk miktarın üçte biri geri geldi” derse, hesabı şöyledir: Onu kendisinin on iki katıyla çarptığında ilk miktar geri gelir. Kaynakta sonuç “üçte birin altıda birinin yarısı” olarak verilir.
+
+“Bir kareyi köküyle çarptım; ilk karenin üç katı geri geldi” derse, hesabı şöyledir: Kökü, karenin üçte biriyle çarptığında karenin kendisi geri gelir. “Bu, üçte biri kendi kökü olan bir karedir” dersin. O da dokuzdur.
+
+“Bir karenin dört kökünü üç köküyle çarptım; bir kare ve ayrıca kırk dört dirhem elde edildi” derse, hesabı şöyledir: Dört kökü üç kökle çarp; on iki kare olur. Bu, bir kare ve kırk dört dirheme eşittir. On iki kareden bir kareyi, öteki bir kare karşılığında çıkar; on bir kare kalır. Bunlar kırk dört dirheme eşittir. Kırk dördü on bire böl; dört olur. Kare budur.
+
+“Bir karenin dört kökünü beş köküyle çarptım; ilk karenin iki katı ve ayrıca otuz altı dirhem elde edildi” derse, hesabı şöyledir: Dört kökü beş kökle çarparsın; yirmi kare olur. Bunlar, iki kare ve otuz altı dirheme eşittir. Yirmi kareden iki kareyi, öteki iki kare karşılığında çıkarırsın; on sekiz kare kalır. Bunlar otuz altı dirheme eşittir. Otuz altı dirhemi on sekize bölersin; bölüm ikidir. Kare budur.
+
+Yine “Bir karenin kökünü dört köküyle çarptım; karenin üç katı ve ayrıca elli
+
+[PDF görüntüsü 54]
+dirhem fazlası elde edilir. Çözüm yolu, bir kökü dört kökle çarpmaktır. Dört kare çıkar; bunlar üç kare ile elli dirheme eşittir. Dört kareden üç kareyi çıkar; bir kare kalır ve elli dirheme eşittir. Bu, ellinin kökünün yine ellinin dört köküyle çarpılmasıdır. Sonuç iki yüzdür; yani karenin üç katı ile elli dirhem fazlasıdır.
+
+Şöyle derse: Bir kareye yirmi dirhem eklediğinde, kendi kökünün on iki katına eşit olur. Çözüm yolu şudur: Bir kare ile yirmi dirhem, on iki köke eşittir, dersin. Köklerin sayısını yarıya indir ve bu yarıyı kendisiyle çarp; otuz altı olur. Bundan yirmi dirhemi çıkar. Kalanın kökünü al ve kökler sayısının yarısı olan altıdan çıkar. Geriye kalan, karenin köküdür. Bu iki dirhemdir; kare ise dörttür.
+
+Şöyle derse: Bir miktardan üçte birini ve üç dirhemi ayırıyorsun; kalanı kendisiyle çarptığında başlangıçtaki miktar yeniden elde ediliyor. Çözüm yolu şudur: Üçte birini ve üç dirhemi çıkardığında, miktarın üçte ikisinden üç dirhem eksik kalacağını bilirsin. Bu, bir köktür. Bir şeyin üçte ikisinden üç dirhem eksiğini kendisiyle çarp. Şöyle dersin: Üçte iki ile üçte ikinin çarpımı, bir karenin dokuzda dördüdür. Eksi üç dirhemin bir şeyin üçte ikisiyle çarpımı, eksi iki köktür. Yine eksi üç dirhemin bir şeyin üçte ikisiyle çarpımı, eksi iki köktür. Eksi üç dirhemin eksi üç dirhemle çarpımı, artı dokuz dirhemdir. Böylece elinde bir karenin dokuzda dördü ile dokuz dirhemden dört kök eksik olur; bu, bir köke eşittir. Dört kökü, bir kökün yanına geri koy. Beş kök, bir karenin dokuzda dördü ile dokuz dirheme eşit olur. Şimdi kareyi tam bir kareye çıkar. Bunun için dokuzda dördü iki tam dörtte birle çarparsın; bir kare olur. Dokuz dirhemi de iki tam dörtte birle çarp; yirmi tam dörtte bir olur. Ardından beş kökü
+
+[PDF görüntüsü 55]
+iki tam dörtte birle çarp; on bir tam dörtte bir şey olur. Böylece bir kare ile yirmi tam dörtte bir dirhem, on bir tam dörtte bir köke eşittir. Allah dilerse, köklerin sayısını yarıya indirme konusunda sana anlattığım biçimde bu denklemi çöz.
+
+Şöyle derse: Bir miktarın üçte birini dörtte biriyle çarptığında, başlangıçtaki miktar yeniden elde ediliyor. Çözüm yolu, bir şeyin üçte birini bir şeyin dörtte biriyle çarpmaktır. Bir karenin altıda birinin yarısı elde edilir ve bir şeye eşittir. Buna göre bir kare on iki şeye eşittir. Aranan miktar, yüz kırk dördün köküdür.
+
+Şöyle derse: Bir miktarın üçte biriyle bir dirhemi, dörtte biriyle iki dirhemle çarptığında, başlangıçtaki miktar ile on üç dirhem fazlası elde ediliyor. Çözüm yolu şudur: Bir şeyin üçte birini dörtte biriyle çarp; bir karenin altıda birinin yarısı olur. İki dirhemi bir şeyin üçte biriyle çarp; bir kökün üçte ikisi olur. Bir dirhemi bir şeyin dörtte biriyle çarp; bir kökün dörtte biri olur. İki dirhemi bir dirhemle çarp; iki dirhem olur. Böylece bir karenin altıda birinin yarısı, iki dirhem ve bir kökün on ikide on biri elde edilir; bunlar bir kökle on üç dirheme eşittir. On üçten iki dirhemi çıkar; on bir dirhem kalır. Bir kökten on ikide on bir kökü çıkar; bir kökün altıda birinin yarısı ile on bir dirhem, bir karenin altıda birinin yarısına eşit kalır. Kareyi tamamla: On ikiyle çarp ve elindeki her şeyi de on ikiyle çarp. Bir kare, yüz otuz iki dirhem ile bir köke eşit olur. Allah yüce olan dilerse, sana anlattığım biçimde denklemi çöz; doğru sonuca varırsın.
+
+Şöyle derse: Bir buçuk dirhem, bir kişi ile bir kişinin bir kesri arasında paylaştırılıyor; bir kişiye, bu kesrin iki katı düşüyor. Çözüm yolu,
+
+[PDF görüntüsü 56]
+bir kişi ile kesrinin bir ile bir şey olduğunu söylemektir. Sanki şöyle demiş olur: Bir buçuk dirhem, bir ile bir şey arasında paylaştırılıyor; bire iki şey düşüyor. İki şeyi, bir ile bir şeyle çarp. İki kare ve iki şey elde edilir; bunlar bir buçuk dirheme eşittir. Bunu bir kareye indir; elindeki her şeyin yarısını alırsın. Bir kare ile bir şey, bir dirhemin dörtte üçüne eşittir, dersin. Kitabın başında sana anlattığım biçimde bu denklemi çöz.
+
+Şöyle derse: Bir miktardan üçte birini, dörtte birini ve dört dirhemi ayırdım. Kalanı kendisiyle çarptığımda, başlangıçtaki miktarla on iki dirhem fazlası elde edildi. Çözüm yolu şudur: Bir şey alırsın; üçte birini ve dörtte birini ayırırsın. Bir şeyin on ikide beşi kalır. Bundan dört dirhem ayırınca, bir şeyin on ikide beşinden dört dirhem eksik kalır. Bunu kendisiyle çarparsın. Beş parçanın çarpımı yirmi beş parçadır; on ikiyi de kendisiyle çarparsın, yüz kırk dört olur. Böylece bir karenin yüz kırk dörtte yirmi beşi elde edilir. Ardından dört dirhemi, bir şeyin on ikide beşiyle iki defa çarparsın. Her on ikisi bir şey olan kırk parça elde edilir. Dört dirhemle dört dirhemin çarpımı da artı on altı dirhemdir. Kırk parça, çıkarılacak üç kök ve bir kökün üçte biri olur. Böylece elinde bir karenin yüz kırk dörtte yirmi beşi, on altı dirhem ve bunlardan eksik üç tam üçte bir kök vardır. Bu, başlangıçtaki miktara, yani bir şeye ve on iki dirheme eşittir. Eksikliği gider: Üç tam üçte bir kökü, bir şeye ve on iki dirheme ekle. Dört tam üçte bir kök ile on iki dirhem olur. Karşılaştırıp on altıdan on ikiyi çıkar. Dört dirhem ile bir karenin yüz kırk dörtte yirmi beşi, dört köke
+
+[PDF görüntüsü 57]
+ve bir kökün üçte birine eşittir. Şimdi kareyi tam bir kareye çıkarman gerekir. Bunu, elindeki her şeyi beş tam yirmi beşte on dokuzla çarparak yaparsın. Yirmi beşlik kısmı beş tam yirmi beşte on dokuzla çarp; bir kare olur. Dört dirhemi de beş tam yirmi beşte on dokuzla çarp; yirmi üç dirhem ve bir dirhemin yirmi beşte biri olur. Dört tam üçte bir kökü de beş tam yirmi beşte dokuzla çarp; yirmi dört kök ve bir kökün yirmi beşte yirmi dördü olur. Köklerin sayısını yarıya indir; on iki kök ve bir kökün yirmi beşte on ikisi olur. Bunu kendisiyle çarp; yüz elli beş dirhem ve bir dirhemin altı yüz yirmi beşte dört yüz altmış dokuzu olur. Bundan, kareyle birlikte bulunan yirmi üç dirhem ve bir dirhemin yirmi beşte birini çıkar. Yüz otuz iki ve altı yüz yirmi beşte dört yüz kırk kalır. Bunun kökünü alırsın; on bir dirhem ve bir dirhemin yirmi beşte on üçüdür. Bunu, kökler sayısının yarısı olan on iki dirhem ve bir dirhemin yirmi beşte on ikisine eklersin. Sonuç yirmi dört olur. Aranan miktar budur: Üçte birini, dörtte birini ve dört dirhemi ayırıp kalanı kendisiyle çarptığında, başlangıçtaki miktar ve on iki dirhem fazlası elde edilir.
+
+Şöyle derse:
+
+[PDF görüntüsü 58]
+Bir miktarı kendi üçte ikisiyle çarptığında beş elde ediliyor. Çözüm yolu, bir şeyi bir şeyin üçte ikisiyle çarpmaktır. Bir karenin üçte ikisi elde edilir ve beşe eşittir. Kareyi, kendi yarısı kadarını ekleyerek tamamla; beşe de yarısını ekle. Böylece bir kare yedi buçuğa eşit olur. Bunun kökünü al. Aradığın miktar budur; kendi üçte ikisiyle çarptığında beş elde edilir.
+
+Şöyle derse: Aralarında iki dirhem fark bulunan iki miktardan küçüğünü büyüğüne böldüğümde, bölüm yarım dirhem oluyor. Çözüm yolu, bir şey ile iki dirhemi, bölüm olan yarımla çarpmaktır. Yarım şey ile bir dirhem elde edilir; bu bir şeye eşittir. Yarım şeyi karşısındaki yarım şeyle çıkar. Bir dirhem, yarım şeye eşit kalır. Bunu iki katına çıkar. Bir şey, iki dirheme eşittir; iki miktardan biri budur, öteki de dörttür.
+
+Şöyle derse: Bir dirhemi birtakım kişilere paylaştırdım ve her birine bir miktar düştü. Sonra aralarına bir kişi ekledim; yine bir dirhemi paylaştırdım. Her birine, ilk paydan bir dirhemin altıda biri kadar eksik düştü. Çözüm yolu şudur: İlk kişilerin sayısını, yani bir şeyi, iki pay arasındaki eksilmeyle çarparsın. Elde ettiğini, ilk kişilerin sayısıyla sonradan katılanların toplam sayısıyla çarparsın. Sonucu, ilk sayı ile son sayı arasındaki farka bölersin. Böylece paylaştırdığın para elde edilir. İlk kişilerin sayısı olan bir şeyi, paylar arasındaki altıda birlik farkla çarp. Bir kökün altıda biri olur. Bunu, ilk ve son kişilerin toplam sayısı olan bir şey ve birle çarp. Bir karenin altıda biri ve bir kökün altıda biri olur; bir dirheme bölünmüş olarak, bir dirheme eşittir. Elindeki kareyi tamamla; altıyla çarp. Bir kare ve bir kök elde edilir. Bir dirhemi de altıyla çarp; altı dirhem olur. Böylece bir kare ve bir kök, altı dirheme eşittir. Kökün katsayısını yarıya indir ve kendisiyle çarp; dörtte bir olur. Bunu
+
+[PDF görüntüsü 59]
+altıya ekle ve toplamın kökünü al. Bundan, kendisiyle çarptığın yarım kökü, yani yarımı çıkar. Kalan, ilk kişilerin sayısıdır. Bu soruda iki kişidir.
+
+Şöyle derse: Bir miktarı kendi üçte ikisiyle çarptığımda beş oluyor. Çözüm yolu şudur: Bu miktar kendisiyle çarpılsaydı, sonuç yedi buçuk olurdu. O hâlde bu, yedi buçuğun köküyle yedi buçuğun kökünün üçte ikisinin çarpımıdır, dersin. Üçte ikiyi üçte ikiyle çarp; dokuzda dört olur. Dokuzda dördü yedi buçukla çarp; üç tam üçte bir olur. Üç tam üçte birin kökü, yedi buçuğun kökünün üçte ikisidir. Üç tam üçte biri yedi buçukla çarp; yirmi beş olur. Bunun kökü beştir.
+
+Şöyle derse: Bir kareyi kendi kökünün üç katıyla çarptığında başlangıçtaki karenin beş katı elde ediliyor. Bu, sanki şöyle demektir: Bir kareyi kendi köküyle çarptığımda, başlangıçtaki karenin bir tam üçte iki katı elde ediliyor. Karenin kökü bir dirhem ve üçte ikidir; kare de iki dirhem ve bir dirhemin dokuzda yedisidir.
+
+Şöyle derse: Bir karenin üçte birini çıkarıp kalanı karenin üç köküyle çarptığında, başlangıçtaki kare yeniden elde ediliyor. Çözüm yolu şudur: Başlangıçtaki karenin üçte birini çıkarmadan tamamını kendi üç köküyle çarpsaydın, bir buçuk kare elde edilirdi. Çünkü üçte ikisinin üç kökle çarpımı bir kare olduğuna göre, tamamının üç kökle çarpımı bir buçuk karedir. Tamamının bir kökle çarpımı ise yarım karedir. Buna göre karenin kökü yarım, kare dörtte birdir. Karenin üçte ikisi altıda birdir; üç kökü bir buçuk dirhemdir. Altıda biri bir buçuk dirhemle çarptığında dörtte bir çıkar; kare budur.
+
+Şöyle derse: Bir kareden dört kökünü ayırıyor, kalanın üçte birini alıyorsun; bu, dört köke eşit oluyor. Kare iki yüz elli altıdır. Çözüm yolu şudur: Kalanın üçte birinin dört köke eşit olduğunu bildiğine göre, kalanın on iki köke eşit olduğunu da bilirsin. Buna, ayırdığın dört kökü ekle. On altı kök olur; bu sayı, karenin köküdür.
+
+Şöyle derse: Bir kareden kökünü ayırdım ve kendi köküne,
+
+
+MUAMELAT · ALIŞVERIŞ HESABI
+
+[PDF görüntüsü 60]
+kalanın kökünü ekledim; iki dirhem oldu. Bu, bir karenin kökü ile bir kareden bir kök eksik olan miktarın kökünün toplamının iki dirheme eşit olmasıdır. Bundan bir karenin kökünü çıkar; iki dirhemden de bir karenin kökünü çıkar. İki dirhemden bir kök eksik kalır. Bunu kendisiyle çarptığında, dört dirhem ile bir kareden dört kök eksik olur; bu, bir kareden bir kök eksiğe eşittir. Karşılaştırınca, bir kare ile dört dirhem, bir kare ile üç köke eşittir. Bir kareyi bir kareyle çıkar; üç kök, dört dirheme eşit kalır. Bir kök, bir tam üçte bir dirheme eşittir; karenin kökü budur. Kare de bir dirhem ile bir dirhemin dokuzda yedisidir.
+
+Şöyle derse: Bir kareden üç kökünü ayırıyor, kalanı kendisiyle çarpınca başlangıçtaki kareyi elde ediyorsun. Kalanın da bir kök olduğunu artık bilirsin. Buna göre kare dört köke eşittir; değeri on altıdır.
+
+MUAMELAT BÖLÜMÜ
+
+Bil ki insanların satış, satın alma, para değişimi, kiralama ve başka bütün işlemleri iki yoldan ele alınır ve soruyu soranın söylediği dört sayıya dayanır. Bunlar, fiyatı belirtilen miktar, birim fiyatı, ödenecek bedel ve bu bedele karşılık alınacak miktardır. Fiyatı belirtilen miktarı gösteren sayı, ödenecek bedeli gösteren sayının karşısındadır. Birim fiyatını gösteren sayı da ödenecek bedeli gösteren sayının karşısındadır. Bu dört sayının üçü daima açık ve bilinir; biri bilinmez. Soruyu soranın “kaç?” sözünde bulunan ve hakkında sorulan sayı budur.
+
+Çözüm yolu şudur: Bilinen üç sayıya bakarsın. Bunlardan ikisinin, kurulan orantıda birbirinin karşısında bulunması gerekir. Bilinen bu iki karşılıklı sayıyı birbiriyle çarparsın. Sonucu, karşılığı bilinmeyen öteki bilinen sayıya bölersin. Çıkan sonuç, soruyu soranın istediği bilinmeyen sayıdır. Bu sayı, böldüğün sayının karşısındadır. Bunun bir yoldan örneği
+
+
+MESAHA · ALAN VE HACIM
+
+[PDF görüntüsü 61]
+şudur: Sana “On birim altıyaysa, dört karşılığında kaç birim alırsın?” denir. “On” sözü, fiyatı belirtilen miktardır; “altıya” sözü, fiyatıdır. “Kaç birim alırsın?” sözü, bilinmeyen satın alınacak miktardır. “Dört karşılığında” sözü, ödenecek bedeli gösteren sayıdır. Fiyatı belirtilen miktar olan on, ödenecek bedel olan dördün karşısındadır. Bilinen bu iki karşılıklı sayıyı, onu ve dördü çarp; kırk olur. Bunu öteki bilinen sayı olan fiyata, yani altıya böl. Altı tam üçte iki olur. “Kaç?” sözündeki bilinmeyen sayı budur; alınacak miktarı gösterir ve fiyat olan altının karşısındadır.
+
+İkinci yol, “On birim sekizse, dört birimin bedeli kaçtır?” sözüdür. Bazen “Bunların dördünün bedeli kaçtır?” da denir. On, fiyatı belirtilen miktardır ve “kaç?” sözündeki bilinmeyen bedelin karşısındadır. Sekiz, fiyatı gösteren sayıdır; alınacak miktarı gösteren ve bilinen dört sayısının karşısındadır. Bilinen iki karşılıklı sayıyı, yani dördü sekizle çarp; otuz iki olur. Bunu öteki bilinen sayı olan, fiyatı belirtilen on birime böl; üç tam beşte bir olur. Alınacak miktarı gösteren sayı budur ve böldüğün onun karşısındadır. Allah yüce olan dilerse, insanların bütün işlemleri ve bunların hesabı böyledir.
+
+Birisi şöyle sorarsa: Aylık ücreti on dirhem olan bir işçi altı gün çalışmış; kendisine ne kadar düşer? Altı günün ayın beşte biri olduğunu ve alacağı dirhemlerin, ay içindeki çalışması oranında olacağını bilirsin. Çözüm yolu şudur: “Bir ay” sözü otuz gündür ve fiyatı belirtilen miktardır. “On dirhem” fiyatıdır. “Altı gün” karşılığı alınan miktardır. “Kendisine kaç düşer?” ödenecek bedeldir. Fiyat olan onu, karşısındaki miktar olan altıyla çarp; altmış olur. Bunu, fiyatı belirtilen miktar olan bilinen otuz sayısına böl. İki dirhem çıkar; ödenecek bedel budur. İnsanların aralarında para değişimi, hacim ölçüsü ve ağırlıkla yaptıkları işlemler böyledir.
+
+ÖLÇME BÖLÜMÜ
+
+Bil ki “bir çarpı bir” sözü ölçmeye ilişkindir; bunun anlamı bir arşın çarpı bir arşındır. Kenarları ve açıları eşit olan her yüzeyin her bir kenarı
+
+[PDF görüntüsü 62]
+bir olduğunda, yüzeyin tamamının alanı birdir. Her bir kenarı iki olan, kenarları ve açıları eşit bir yüzeyin tamamı, bir arşın çarpı bir arşınlık yüzeyin dört katıdır. Üç çarpı üç ve bundan daha büyük veya küçük miktarlar için de böyledir. Yarım çarpı yarım dörtte birdir; öteki kesirlerde de aynı yol izlenir. Her kenarı yarım arşın olan kare yüzey, her kenarı bir arşın olan yüzeyin dörtte biridir. Üçte bir çarpı üçte bir, dörtte bir çarpı dörtte bir, beşte bir çarpı beşte bir, üçte iki çarpı yarım ve bunlardan azı ya da çoğu da kendi hesabına göre böyledir.
+
+Kenarları eşit olan her kare yüzeyin bir kenarı birle çarpılırsa bir kökü, ikiyle çarpılırsa iki kökü olur; yüzeyin küçük veya büyük olması bunu değiştirmez.
+
+Her eşkenar üçgende, yüksekliğin üzerine düştüğü tabanın yarısıyla yüksekliğin çarpımı, o üçgenin alanıdır. Kenarları eşit olan her eşkenar dörtgende, bir köşegenin ötekinin yarısıyla çarpımı, alanı verir. Her dairede çapın üç tam yedide birle çarpılması,
+
+[PDF görüntüsü 63]
+onu çevreleyen çevre uzunluğunu verir. Bu, insanlar arasında kabul edilmiş bir uzlaşıdır; zorunlu bir kesinlik taşımaz. Geometricilerin bu konuda iki başka görüşü daha vardır. Birincisi, çapı kendisiyle, sonra da onla çarpmak ve elde edilenin kökünü almaktır. Çıkan sayı çevredir. İkinci görüş, aralarındaki astronomlarındır: Çapı altmış iki bin sekiz yüz otuz ikiyle çarpar, sonra yirmi bine bölersin. Çıkan sonuç çevredir. Bütün bu sonuçlar birbirine yakındır. Çevreyi üç tam yedide bire bölersen çap çıkar.
+
+Her dairenin çapının yarısıyla çevresinin yarısının çarpımı, alanını verir. Çünkü üçgen, dörtgen, beşgen ve daha çok kenarlı, kenarları ve açıları eşit her şeklin çevresinin yarısı, içine yerleştirilebilen en büyük dairenin çapının yarısıyla çarpıldığında alanı elde edilir.
+
+Her dairenin çapı kendisiyle çarpılıp bundan yedide biri ve yedide birinin yarısı çıkarıldığında alanı elde edilir. Bu, ilk anlatılan yöntemle uyumludur.
+
+Daireden ayrılmış, bir yayla sınırlanan her parça ya yarım daireye eşit olur, ya yarım daireden küçük ya da yarım daireden büyük olur. Bunun belirtisi şudur: Yayın yüksekliği, kirişin yarısına eşitse tam bir yarım dairedir. Yükseklik kirişin yarısından küçükse parça yarım daireden küçüktür; yükseklik kirişin yarısından büyükse parça yarım daireden büyüktür. Bunun hangi daireden alındığını bilmek istersen, kirişin yarısını kendisiyle çarp. Sonucu yayın yüksekliğine böl ve çıkan sayıya bu yüksekliği ekle. Elde edilen,
+
+[PDF görüntüsü 64]
+o yayın ait olduğu dairenin çapıdır.
+
+Yay parçasının alanını bilmek istersen, dairenin yarıçapını yayın uzunluğunun yarısıyla çarp ve çıkan sonucu sakla. Yay parçası yarım daireden küçükse, dairenin yarıçapından yayın yüksekliğini çıkar. Yarım daireden büyükse, yayın yüksekliğinden dairenin yarıçapını çıkar. Kalanı kirişin yarısıyla çarp. Yay parçası yarım daireden küçükse bunu sakladığın sonuçtan çıkar; yarım daireden büyükse ona ekle. Ekleme veya çıkarmadan sonra elde edilen, yay parçasının alanıdır.
+
+Dörtgen biçimli her katı cisimde, uzunluğu genişlikle ve ardından derinlikle çarptığında hacmi elde edersin. Cisim dörtgen değil de daire, üçgen veya başka bir biçimdeyse, fakat derinlik boyunca kesitleri aynı ve birbirine paralelse, ölçümü şöyle yapılır: Yüzeyini ölçüp alanını bulursun; bunu derinlikle çarparsın. Sonuç hacimdir. Tabanı daire, üçgen veya dörtgen olan sivri cisimlerde ise taban alanının üçte birinin yüksekliğiyle çarpımı hacimdir.
+
+Bil ki her dik üçgende, iki kısa kenarın her birinin kendisiyle çarpımlarının toplamı, uzun kenarın kendisiyle çarpımına eşittir. Bunun kanıtı şöyledir: Kenarları ve açıları eşit kare bir yüzey yapıp üzerine أ ب ج د harflerini koyalım. Sonra أ ج kenarını هـ noktasında iki eşit parçaya bölelim ve onu ز noktasına kadar uzatalım. أ ب kenarını da ط noktasında iki eşit parçaya bölüp ح noktasına kadar uzatalım.
+
+[PDF görüntüsü 65]
+Böylece أ ب ج د yüzeyi, kenarları, açıları ve alanları eşit dört yüzey hâline gelir. Bunlar أ ك, ج ك, ب ك ve د ك yüzeyleridir. Sonra هـ noktasından ط noktasına bir doğru çizerek أ ك yüzeyini ikiye bölelim. Yüzeyden iki üçgen meydana gelir: أ ط هـ ve هـ ك ط üçgenleri. أ ط'nin yarım kenar olduğu, أ هـ'nin de onunla aynı olup أ ج'nin yarısına eşit olduğu anlaşılmıştır. Aralarındaki açı diktir ve kirişleri ط هـ doğrusudur. Aynı biçimde ط'dan ز'ye, ز'den ح'ya ve ح'dan هـ'ya doğrular çıkaralım. Böylece bütün dörtgenden birbirine eşit sekiz üçgen meydana gelir. Bunların dördünün, büyük أ د yüzeyinin yarısı olduğu anlaşılmıştır.
+
+أ ط'nin kendisiyle çarpımının iki üçgenin alanına, أ هـ'nin kendisiyle çarpımının da bunlara eşit iki üçgenin alanına karşılık geldiği anlaşılmıştır. Bunların toplamı dört üçgenin alanıdır. ط هـ kenarının kendisiyle çarpımı da başka dört üçgenin alanıdır. Böylece أ ط'nin kendisiyle çarpımıyla أ هـ'nin kendisiyle çarpımının toplamının, ط هـ'nin kendisiyle çarpımına eşit olduğu anlaşılmıştır. Göstermek istediğimiz de budur. Şekli şöyledir.
+
+[PDF görüntüsü 66]
+Bil ki dörtgenler beş türdür. Birincisinin kenarları eşit ve açıları diktir. İkincisinin açıları dik, kenarları farklıdır; uzunluğu genişliğinden fazladır. Üçüncüsü eşkenar dörtgen diye adlandırılır; kenarları eşit, açıları farklıdır. Dördüncüsü eşkenar dörtgene benzer: Uzunluğu ve genişliği farklı, açıları da farklıdır; fakat iki uzun kenarı birbirine, iki kısa kenarı da birbirine eşittir. Beşincisinin kenarları ve açıları farklıdır.
+
+Dörtgenlerden kenarları eşit ve açıları dik olanların da kenarları farklı ve açıları dik olanların da alanı, uzunluğun genişlikle çarpılmasıyla bulunur. Elde edilen, alandır. Buna örnek, her bir kenarı beş arşın olan kare bir arazidir. Alanı yirmi beş arşındır. Şekli şöyledir.
+
+İkinci örnek, iki uzun kenarının her biri sekiz arşın ve iki genişliğinin her biri altı arşın olan dörtgen bir arazidir. Alanını bulmak için altıyı sekizle çarparsın; kırk sekiz arşın olur. Alanı budur. Şekli şöyledir.
+
+Kenarları eşit, her bir kenarı
+
+[PDF görüntüsü 67]
+beş arşın olan, bir köşegeni sekiz ve öteki altı arşın olan eşkenar dörtgene gelince: Bil ki alanı, köşegenlerin ikisi ya da biri bilinerek bulunur. İki köşegeni de biliyorsan, birinin ötekinin yarısıyla çarpımı alanıdır. Yani sekizi üçle veya dördü altıyla çarparsın; yirmi dört arşın olur. Alan budur. Yalnız bir köşegeni biliyorsan, iki üçgen bulunduğunu bilirsin. Bunların her birinin iki kenarı beşer arşındır; üçüncü kenarları köşegendir. Bunları üçgenlerin hesabına göre hesapla. Şekli şöyledir.
+
+Eşkenar dörtgene benzeyen dörtgen de eşkenar dörtgen örneğine göre ele alınır. Öteki dörtgenlerin alanı ise köşegen yardımıyla bulunur ve iş üçgenlerin hesabına döner. Bunu bil. Eşkenar dörtgene benzeyen şeklin çizimi şöyledir.
+
+Üçgenler üç türdür: Dik açılı, dar açılı ve geniş açılı. Dik açılı üçgende iki kısa kenarın her birini kendisiyle çarpıp sonuçları topladığında, uzun kenarın kendisiyle çarpımını elde edersin. Dar açılı üçgende iki kısa kenarın her birini kendisiyle çarpıp sonuçları topladığında, bunların toplamı uzun kenarın kendisiyle çarpımından büyüktür. Geniş açılı üçgen ise
+
+[PDF görüntüsü 68]
+iki kısa kenarının her birini kendisiyle çarpıp sonuçları topladığında, toplamın uzun kenarın kendisiyle çarpımından küçük olduğu üçgendir.
+
+Dik açılı üçgenin iki dik kenarı ve bir köşegeni vardır; bir dörtgenin yarısıdır. Alanını bulmak için dik açıyı çevreleyen iki kenardan birini ötekinin yarısıyla çarparsın. Elde edilen, alanıdır. Buna örnek, bir kenarı altı arşın, bir kenarı sekiz arşın, köşegeni on olan dik açılı üçgendir. Bunun hesabı için altıyı dörtle çarparsın; yirmi dört arşın olur. Alanı budur. İstersen yüksekliğiyle de hesaplayabilirsin. Bu yükseklik uzun kenara düşer; çünkü iki kısa kenarın kendileri zaten birer yüksekliktir. Bu yolu seçersen, yüksekliği tabanın yarısıyla çarp. Sonuç alandır. Şekli şöyledir.
+
+İkinci tür, her bir kenarı on arşın olan, dar açılı eşkenar üçgendir. Alanı, yüksekliği ve yüksekliğin tabana düştüğü nokta yardımıyla bulunur. Bil ki bir üçgenin iki kenarı eşitse ve bunların arasından tabana bir yükseklik indirilirse, yüksekliğin ayağında dik açı oluşur. İki kenar eşit olduğunda bu ayak tam tabanın ortasına düşer. Kenarlar farklıysa, yüksekliğin ayağı tabanın ortasından ayrılır.
+
+Bu üçgende yüksekliği hangi kenara indirirsek indirelim, ayağın ancak o kenarın ortasına düşeceğini biliyoruz. Bu uzaklık beş arşındır. Yüksekliği bulmak için beşi kendisiyle çarp. Kenarlardan biri olan onu da kendisiyle çarp; yüz olur. Bundan beşin kendisiyle çarpımı olan yirmi beşi çıkar. Yetmiş beş kalır. Bunun kökünü al; yükseklik budur. Bu yükseklik, iki dik açılı üçgenin ortak kenarı olmuştur. Alanı bulmak istersen, yetmiş beşin kökünü tabanın yarısı olan beşle çarp. Bunun yolu,
+
+[PDF görüntüsü 69]
+beşi kendisiyle çarpmaktır. Böylece yetmiş beşin kökü, yirmi beşin köküyle çarpılmış olur. Yetmiş beşi yirmi beşle çarp; bin sekiz yüz yetmiş beş olur. Bunun kökünü al. Bu, alanıdır; kırk üç ve biraz fazlasıdır. Şekli şöyledir.
+
+Dar açılı üçgenlerin kenarları birbirinden farklı da olabilir. Bil ki alanları, yüksekliğin ayağı ve yüksekliği yardımıyla bulunur. Örneğin bir kenarı on beş arşın, bir kenarı on dört arşın ve bir kenarı on üç arşın olan bir üçgen olsun. Yüksekliğin ayağını bulmak istediğinde, kenarlardan dilediğini taban alabilirsin. Biz on dört olanı taban alalım; yükseklik bunun üzerine düşer. Yüksekliğin ayağı, bu tabanda seçtiğin iki kenardan birinin yakınında, bir şey uzaklığında bulunur. Bu şeyi, on üçlük kenara yakın tarafta alalım. Onu kendisiyle çarptık; bir kare oldu. Bunu, on üçün kendisiyle çarpımı olan yüz altmış dokuzdan çıkardık. Yüz altmış dokuzdan bir kare eksik oldu. Bunun kökünün yükseklik olduğunu biliyoruz.
+
+Tabandan geriye, on dörtten bir şey eksik kaldı. Bunu kendisiyle çarptık; yüz doksan altı ile bir kareden yirmi sekiz şey eksik oldu. Bunu, on beşin kendisiyle çarpımından çıkardık. Yirmi dokuz dirhem ve yirmi sekiz şeyden bir kare eksik kaldı; bunun kökü de yüksekliktir. Bunun kökü yükseklik, yüz altmış dokuzdan bir kare eksiğin kökü de yükseklik olduğuna göre, ikisinin eşit olduğunu biliriz. Bunları karşılaştır,
+
+[PDF görüntüsü 70]
+yani iki kare de eksili olduğundan bir kareyi bir kareyle kaldır. Yirmi dokuz ile yirmi sekiz şey, yüz altmış dokuza eşit kalır. Yüz altmış dokuzdan yirmi dokuzu çıkar; yüz kırk kalır ve yirmi sekiz şeye eşittir. Bir şey beştir. Bu, yüksekliğin ayağının on üçlük kenar tarafındaki uzaklığıdır. Tabanın öteki kenar tarafında kalan kısmı dokuzdur. Yüksekliği bulmak istersen, bu beşi kendisiyle çarp ve yanındaki kenarın, yani on üçün kendisiyle çarpımından çıkar. Yüz kırk dört kalır. Bunun kökü yüksekliktir ve on ikidir. Yükseklik, taban üzerinde daima iki dik açı oluşturur. Dik durduğu için ona yükseklik denir. Yüksekliği, tabanın yarısı olan yediyle çarp; seksen dört olur. Alanı budur. Şekli şöyledir.
+
+Üçüncü tür, bir geniş açısı bulunan geniş açılı üçgendir. Kenarlarının her biri farklı uzunluktadır: Bir kenarı altı, bir kenarı beş, bir kenarı dokuzdur. Bunun alanı, yüksekliği ve yüksekliğinin ayağı yardımıyla bulunur. Bu üçgende yüksekliğin ayağı ancak en uzun kenarda üçgenin içine düşer; o kenarı taban al. Kısa kenarlardan birini taban alsaydın, yüksekliğin ayağı üçgenin dışına düşerdi. Yüksekliğin ayağı ve yükseklik, dar açılı üçgende sana yaptığım örnekteki yolla ve aynı hesapla bulunur. Şekli şöyledir.
+
+Kitabın başında özelliklerini ve alanlarını açıklamayı tamamladığımız dairelerden
+
+[PDF görüntüsü 71]
+biri, çapı yedi arşın ve çevresi yirmi iki arşın olan dairedir. Alanını bulmak için çapın yarısı olan üç buçuğu, daireyi çevreleyen uzunluğun yarısı olan on birle çarparsın. Otuz sekiz buçuk olur; alanı budur. İstersen çap olan yediyi kendisiyle çarp; kırk dokuz olur. Bundan yedide birini ve yedide birinin yarısını, yani on buçuğu çıkar. Otuz sekiz buçuk kalır; alanı budur. Şekli şöyledir.
+
+Şöyle derse: Altı dört arşın çarpı dört arşın, yüksekliği on arşın, üstü iki arşın çarpı iki arşın olan, yukarı doğru daralan bir sütun var. Sivri uçla sonlanan her cismin taban alanının üçte biri yüksekliğiyle çarpıldığında hacminin bulunduğunu daha önce açıklamıştık. Bu cisim sivri uçla sonlanmadığı için, üst kısmı yok olup uç kalmayıncaya kadar ne kadar yükseltilmesi gerektiğini bilmek isteriz. Bu onluk yüksekliğin bütün yüksekliğe oranının, ikinin dörde oranı kadar olduğunu biliriz. İki, dördün yarısıdır. Öyleyse on da bütün yüksekliğin yarısıdır,
+
+[PDF görüntüsü 72]
+ve bütün yükseklik yirmi arşındır. Yüksekliği bildiğimizde, alt tabanın alanının üçte birini, yani beş tam üçte biri alıp yirmi arşın olan yükseklikle çarptık. Yüz altı tam üçte iki arşın oldu. Bundan, sivriltmek için eklediğimiz kısmı çıkarmak isteriz. Bu kısım, iki çarpı ikilik alanın üçte biri olan bir tam üçte birin onla çarpımıdır. On üç tam üçte bir eder. Sivri uca tamamlamak için eklediğimiz kısmın hacmi budur. Bunu yüz altı tam üçte ikiden çıkarınca, doksan üç tam üçte bir arşın kalır. Yukarı doğru daralan sütunun hacmi budur. Şekli şöyledir.
+
+Daralan cismin tabanı daire biçimindeyse, çapın kendisiyle çarpımından yedide birini ve yedide birinin yarısını çıkar. Kalan, onun alanıdır.
+
+Şöyle sorulursa: İki kenarı onar arşın, tabanı on iki arşın olan üçgen bir arazinin içinde kare bir arazi var. Karenin her bir kenarı kaçtır? Çözüm yolu, üçgenin yüksekliğini bulmaktır. Tabanın yarısı olan altıyı kendisiyle çarp; otuz altı olur. Bunu, kısa kenarlardan birinin kendisiyle çarpımı olan yüzden çıkar; altmış dört kalır. Bunun kökü olan sekizi al. Yükseklik budur. Alanı kırk sekiz arşındır; bu, yüksekliğin tabanın yarısı olan altıyla çarpımıdır.
+
+Karenin bir kenarını bir şey aldık ve kendisiyle çarptık; bir kare oldu. Bunu sakladık. Sonra karenin iki yanında iki üçgen ve üstünde bir üçgen kaldığını bildik. Karenin iki yanındaki üçgenler birbirine eşittir, yükseklikleri aynıdır ve dik açılıdır. Bunların alanı, bir şeyin, altıdan
+
+[PDF görüntüsü 73]
+yarım şey eksik olan miktarla çarpılmasıdır. Altı şeyden yarım kare eksik olur. Bu, karenin iki yanında bulunan iki üçgenin toplam alanıdır.
+
+Üstteki üçgenin alanı ise, yükseklik olan sekizden bir şey eksik miktarın, yarım şeyle çarpılmasıdır. Dört şeyden yarım kare eksik olur. Bütün bunlar, karenin alanı ile üç üçgenin alanının toplamıdır. On şey eder ve büyük üçgenin alanı olan kırk sekize eşittir. Buradan bir şey, dört arşın ve bir arşının beşte dördüdür. Karenin her bir kenarı budur. Şekli şöyledir.
+
+
+VASIYETLER · MAL, BORÇ VE PAYLAR
+
+[PDF görüntüsü 74]
+VASİYETLER KİTABI
+
+MEVCUT MAL VE ALACAKLAR HAKKINDA BÖLÜM
+
+Bir kişi öldü; geride iki oğul bıraktı ve malının üçte birini başka bir kişiye vasiyet etti. Mevcut on dirhem malı ve oğullarından birinde on dirhem alacağı vardı. Çözüm yolu, alacaktan tahsil edilecek miktarı bir şey almaktır. Bunu mevcut mala, yani on dirheme eklersin; on ile bir şey olur. Malının üçte birini vasiyet ettiği için, bunun üçte birini ayırırsın. Bu, üç tam üçte bir dirhem ile bir şeyin üçte biridir. Altı tam üçte iki dirhem ile bir şeyin üçte ikisi kalır. Bunu iki oğul arasında paylaştırırsın. Her birine üç tam üçte bir dirhem ile bir şeyin üçte biri düşer; bu, tahsil edilecek şeye eşittir. Karşılaştırıp bir şeyin üçte birini, karşısındaki üçte bir şeyle çıkar. Bir şeyin üçte ikisi, üç tam üçte bir dirheme eşit kalır. Alacaktan tahsil edilecek şeyi tamamlaman gerekir.
+
+Bir kişi geride iki oğul, mevcut on dirhem mal ve oğullarından birinde on dirhem alacak bırakır, bir kişiye de malının beşte biri ile bir dirhem vasiyet ederse: Çözüm yolu, alacaktan tahsil edilecek miktarı bir şey almaktır. Bunu mevcut mala eklersin; bir şey ve on dirhem olur. Malının beşte birini vasiyet ettiği için, bunun beşte birini ayırırsın. İki dirhem ile bir şeyin beşte biri eder. Sekiz dirhem
+
+[PDF görüntüsü 75]
+ve bir şeyin beşte dördü kalır. Sonra vasiyet ettiği bir dirhemi ayırırsın. Yedi dirhem ile bir şeyin beşte dördü kalır. Bunu ikisi arasında paylaştırırsın. Her birine üç buçuk dirhem ile bir şeyin beşte ikisi düşer; bu, bir şeye eşittir. Bir şeyin beşte ikisini, bir şeyden çıkar. Bir şeyin beşte üçü, üç buçuk dirheme eşit kalır. Şeyi tamamla: Elindekine üçte ikisi kadarını ekle; üç buçuğa da üçte ikisi kadarını, yani iki tam üçte bir dirhemi ekle. Beş tam altıda beş dirhem olur. Alacaktan tahsil edilen şey budur.
+
+Bir kişi geride üç oğul bırakır, malının beşte birinden bir dirhem eksiğini vasiyet eder ve mevcut on dirhem malıyla oğullarından birinde on dirhem alacağı bulunursa: Çözüm yolu, alacaktan tahsil edilecek miktarı bir şey almaktır. Bunu ona eklersin; on ve bir şey olur. Vasiyet için bunun beşte birini ayırırsın; iki dirhem ile bir şeyin beşte biridir. Sekiz dirhem ile bir şeyin beşte dördü kalır. Sonra bir dirhemi istisna edersin; çünkü “bir dirhem eksik” demiştir. Dokuz dirhem ile bir şeyin beşte dördü olur. Bunu oğullar arasında paylaştırırsın. Her oğula üç dirhem, bir şeyin beşte biri ve bir şeyin beşte birinin üçte biri düşer. Bu, bir şeye eşittir. Bir şeyin beşte birini ve beşte birinin üçte birini, bir şeyden çıkarırsın. Bir şeyin on beşte on biri, üç dirheme eşit kalır. Şeyi tamamlaman gerekir. Elindekine on birde dördü kadarını, üç dirheme de aynı oranda bir dirhem ve bir dirhemin on birde birini eklersin. Dört dirhem ve bir dirhemin on birde biri, bir şeye eşit olur. Alacaktan tahsil edilen budur.
+
+VASİYETLERİN BAŞKA BİR TÜRÜ HAKKINDA BÖLÜM
+
+Bir kişi öldü; geride annesini, eşini, erkek kardeşini ve iki kız kardeşini
+
+[PDF görüntüsü 76]
+bıraktı ve malının dokuzda birini bir kişiye vasiyet etti. Bunun çözümü için mirasçılık paylarını kurarsın; kırk sekiz pay üzerinden olduğunu bulursun. Herhangi bir malın dokuzda biri çıkarıldığında dokuzda sekizinin kaldığını ve çıkarılanın, kalanın sekizde biri kadar olduğunu bilirsin. Malı tamamlamak için dokuzda sekize onun sekizde birini, kırk sekize de sekizde biri kadarını eklersin. Bu altıdır. Böylece elli dört olur. Dokuzda bir vasiyet edilen kişiye bunun altısı düşer; bu, bütün malın dokuzda biridir. Geriye kırk sekiz kalır; mirasçıların paylarına göre aralarında bölüştürülür.
+
+Şöyle derse: Bir kadın öldü; geride kocasını, oğlunu ve üç kızını bıraktı. Malının sekizde biri ile yedide birini bir kişiye vasiyet etti. Mirasçıların paylarını kur; yirmi pay üzerinden olduğunu bulursun. Bir mal al ve bundan sekizde birini ve yedide birini çıkar. Bir maldan sekizde biriyle yedide biri eksik kalır. Malı tamamla; elindekine kırk birde on beşi kadarını ekle. Miras payları olan yirmiyi kırk birle çarp; sekiz yüz yirmi olur. Buna kırk birde on beşi kadarını ekle; üç yüz paydır. Hepsi bin yüz yirmi pay olur. Sekizde bir ve yedide bir vasiyet edilen kişiye bunun yedide biriyle sekizde biri düşer; bu üç yüzdür.
+
+[PDF görüntüsü 77]
+Yedide bir, yüz altmıştır; sekizde bir, yüz kırktır. Mirasçılar arasında kendi paylarına göre bölüştürülecek sekiz yüz yirmi pay kalır.
+
+VASİYETLERİN BAŞKA BİR TÜRÜ HAKKINDA BÖLÜM
+
+Bu, vasiyetin üçte birden fazla olduğu ve mirasçıların bir kısmının onaylayıp bir kısmının onaylamadığı durumdur. Bil ki burada hüküm şudur: Mirasçılardan vasiyetin üçte biri aşan kısmını onaylayan için bu miktar kendi payına yüklenir. Onaylamayan bakımından ise üçte birlik kısım her durumda geçerlidir.
+
+Buna örnek: Bir kadın öldü; geride kocasını, oğlunu ve annesini bıraktı. Bir kişiye malının beşte ikisini, başka birine dörtte birini vasiyet etti. Oğul her iki vasiyeti de bütünüyle onayladı. Anne, ikisi için yarısını onayladı. Koca ise bunların yalnız üçte birini onayladı, fazlasını onaylamadı. Bunun çözümü için mirasçılık paylarını kurarsın ve on iki pay üzerinden olduğunu bulursun. Bunun yedisi oğula, üçü kocaya, ikisi anneye aittir. Koca bakımından üçte birin geçerli olduğunu bilirsin. Bu nedenle elinde kalanın, payından vasiyetlere çıkanın iki katı olması gerekir. Elinde üç varken vasiyetlere
+
+[PDF görüntüsü 78]
+bir pay, kendisine de iki pay ayrılır. İki vasiyetin tamamını onaylayan oğuldan, bütün payının beşte ikisi ile dörtte birinin alınması gerekir. Böylece elinde yirmi paydan yedi pay kalır; başlangıçtaki toplam payı yirmidir. Anneye gelince, elinde kalanın elinden çıkan kadar olması gerekir. Bu birdir; başlangıçta sahip olduğu toplam ikidir.
+
+Dörtte biri üçe, altıda biri ikiye bölünebilen ve geriye kalanı yirmiye bölünebilen bir mal al. Bu iki yüz kırktır. Annenin bundan altıda bir payı kırktır; bunun yirmisi vasiyet, yirmisi kendisinindir. Kocanın dörtte bir payı altmıştır; bunun yirmisi vasiyet, kırkı kendisinindir. Oğula yüz kırk kalır. Bunun beşte ikisi ve dörtte biri olan doksan bir vasiyettir; kırk dokuz kalır. Vasiyetlerin toplamı yüz otuz birdir ve vasiyet edilen iki kişi arasında bölüştürülür. Beşte ikinin sahibi bunun on üçte sekizini, dörtte birin sahibi on üçte beşini alır. Vasiyet edilen iki kişinin paylarını tam sayıya çıkarmak istersen, miras hesabındaki payları on üçle çarp. Hesap üç bin yüz yirmi üzerinden tam sayılı olur.
+
+Oğul beşte ikinin sahibine beşte ikiyi onaylayıp öteki kişiye hiçbir fazlalığı onaylamazsa; anne dörtte birin sahibine dörtte biri onaylayıp ötekine hiçbir fazlalığı onaylamazsa; koca da ikisi için yalnız üçte biri onaylarsa: Bil ki bütün mirasçılar bakımından bu iki kişi için üçte birlik kısım geçerlidir. Beşte ikinin sahibi bunun on üçte sekiziyle, dörtte birin sahibi on üçte beşiyle hesaba girer. Miras hesabını anlattığım gibi kur. On iki pay olur; kocaya dörtte bir, anneye altıda bir, oğula kalan düşer.
+
+Çözüm yolunda, kocanın elindekinin üçte birinin her durumda çıkacağını bilirsin. Elinde üç pay bulunmalıdır. Annenin elindekinin üçte biri de iki kişiye, her birinin payı oranında çıkar. Anne, kendi payının dörtte biriyle, dörtte birin sahibinin onun payından aldığı miktar arasındaki farkı ayrıca bu kişiye onaylamıştır. Bu fark, annenin bütün payının
+
+[PDF görüntüsü 79]
+yüz elli altıda on dokuzudur. Bu nedenle annenin payını yüz elli altı almak gerekir. Dörtte birin sahibinin, annenin payının üçte birlik kısmından aldığı yirmi paydır. Anne ise ona kendi payının dörtte biri olan otuz dokuzu onaylamıştır. Böylece elindekinin üçte biri iki kişi için alınır; ayrıca on dokuz pay, yalnız fazladan onay verdiği kişiye alınır.
+
+Oğul da beşte ikinin sahibine, kendi payının beşte ikisiyle bu kişinin üçte birlik kısımdan aldığı miktar arasındaki farkı onaylamıştır. İkisi için üçte birlik kısım çıkarıldıktan sonra ek onay, oğlun payının yüz doksan beşte otuz sekizidir. Çünkü yalnız üçte birlik kısımdan bu kişiye düşen, üçte birin on üçte sekizidir; bu kırktır. Beşte ikiyi onaylamasıyla eklenen otuz sekizdir; böylece yetmiş sekiz olur. Oğuldan, malının üçte biri olan altmış beş iki kişi için alınır; ayrıca otuz sekiz yalnız fazladan onay verdiği kişiye alınır. Miras hesabının paylarını tam sayıya çıkarmak istersen, bunları tam sayılı hâle getirirsin; hesap iki yüz
+
+[PDF görüntüsü 80]
+on dokuz bin üç yüz yirmi üzerinden olur.
+
+Vasiyetlerin başka bir biçiminde, bir kişi öldü; geride dört oğul ve bir eş bıraktı. Bir kişiye, oğullardan birinin payından eşin payı kadar eksik bir miktar vasiyet etti. Miras paylarını kur; otuz iki paydır. Eşe sekizde bir, yani dört pay, her oğula yedi pay düşer. Vasiyet edilenin, bir oğul payının yedide üçü, yani üç olduğunu bilirsin. Vasiyet budur. Böylece otuz beş olur. Vasiyet edilen kişiye otuz beş paydan üç pay düşer; otuz iki pay, mirasçılar arasında kendi paylarına göre bölüştürülmek üzere kalır.
+
+Bir kişi geride iki oğul ve bir kız bırakır, bir kişiye de üçüncü bir oğul olsaydı onun payı kadarını vasiyet ederse: Burada oğullar üç olsaydı bir oğulun payının ne olacağına bakarsın; toplamı yedi alırsın. Beşte biri yediye, yedide biri de beşe bölünebilen bir pay bütünü al. Bu otuz beştir. Buna yedide ikisini, yani onu ekle. Kırk beş olur. Vasiyet edilen kişiye bunun onu, her oğula on dördü, kıza yedisi düşer.
+
+Bir kişi geride anne, üç oğul ve bir kız bırakır, bir kişiye de oğullarından birinin payından, başka bir kız olsaydı onun payı kadar eksik bir miktar vasiyet ederse: Miras paylarını, hem mevcut mirasçılar arasında hem de aralarında bir kız daha bulunsaydı bölünebilecek bir sayı üzerinden kur. Üç yüz otuz altı bulursun. Başka bir kız olsaydı payı otuz beş olurdu; bir oğulun payı ise seksendir. Aralarındaki fark kırk beştir ve vasiyet budur. Bunu üç yüz otuz altıya ekle; üç yüz seksen bir olur. Bütün malın payları bunlardır.
+
+Bir kişi geride üç oğul bırakır, bir kişiye de oğullardan birinin payından,
+
+[PDF görüntüsü 81]
+bir kız olsaydı onun payı kadar eksiğini ve üçte birlik kısımdan kalanın üçte birini vasiyet ederse: Çözüm yolu, miras paylarını hem mevcut mirasçılara hem de aralarında bir kız daha olsaydı onlara bölünebilecek bir sayı üzerinden kurmaktır. Bu yirmi birdir. Aralarında başka bir kız olsaydı ona üç, mevcut bir oğula ise yedi düşerdi. Böylece bir oğul payının yedide dördünü ve üçte birlik kısımdan kalanın üçte birini vasiyet etmiş olur.
+
+Malın üçte birini al; bundan bir oğul payının yedide dördünü çıkar. Malın üçte birinden bir oğul payının yedide dördü eksik kalır. Sonra üçte birlik kısımdan kalanın üçte birini çıkar. Bu, malın dokuzda birinden bir payın yedide biri ve yedide birinin üçte biri eksiktir. Malın dokuzda birinden bir payın yedide ikisi ve yedide ikisinin üçte biri eksik kalır. Bunu malın üçte ikisine ekle. Malın dokuzda sekizinden bir payın yedide ikisi ve yedide ikisinin üçte biri eksik olur. Bu çıkarılacak miktar, bir payın yirmi birde sekizidir; kalan üç paya eşittir.
+
+Eksikliği gider. Malın dokuzda sekizi, üç pay ve bir payın yirmi birde sekizine eşit olur. Malı tamamla: Dokuzda sekize sekizde biri kadarını, paylara da aynı oranda sekizde biri kadarını ekle. Bir mal, üç pay ve bir payın elli altıda kırk beşine eşit olur. Bir pay elli altı, mal iki yüz on üç paydır. İlk vasiyet otuz iki, ikincisi on üç paydır. Yüz altmış sekiz kalır; her oğula elli altı pay düşer.
+
+Vasiyetlerin başka bir biçiminde, bir kadın öldü; geride iki kızını, annesini ve kocasını bıraktı. Bir kişiye annenin payı kadar, başka birine bütün malın dokuzda biri kadar vasiyet etti. Çözüm yolu, miras paylarını kurmaktır. On üç pay olur; bunun iki payı anneye aittir. Vasiyetin iki pay ile bütün malın dokuzda biri olduğunu bilirsin. Malın dokuzda sekizinden iki pay eksik kalır; bu,
+
+[PDF görüntüsü 82]
+mirasçılar arasında bölüştürülecektir. Malı tamamla. Bunun yolu, dokuzda sekizden iki pay eksik kısmı on üç paya eşitlemektir. Buna iki pay ekle. On beş pay, malın dokuzda sekizine eşit olur. Sonra buna sekizde biri kadarını, on beşe de sekizde biri olan bir tam sekizde yedi payı eklersin. Dokuzda birin sahibine, bu toplamın dokuzda biri olan bir tam sekizde yedi pay düşer. Annenin payı kadar vasiyet edilen öteki kişiye iki pay düşer. Mirasçılar arasında, kendi paylarına göre bölüştürülecek on üç pay kalır. Hesap, yüz otuz beş pay üzerinden tam sayılı olur.
+
+Kocanın payı kadarını, malın sekizde birini ve onda birini vasiyet ederse: Miras paylarını kur; on üç pay olur. Buna kocanın payı kadarını, yani üçü ekle; on altı olur. Bu, maldan sekizde bir ve onda bir çıktıktan sonra kalandır; kırkta dokuzdur. Malın sekizde biri ve onda biri çıktıktan sonra kalanı, bir malın kırkta otuz biridir; bu, on altı paya eşittir. Malı tamamla: Elindekine otuz birde dokuzu kadarını ekle. On altıyı otuz birle çarp; dört yüz doksan altı olur. Buna otuz birde dokuzu kadarını, yani yüz kırk dört payı ekle. Altı yüz kırk olur. Bunun sekizde biri ile onda birini, yani yüz kırk dördü ve kocanın payı kadar olan doksan üçü çıkar. Dört yüz üç kalır. Bunun doksan üçü kocaya, altmış ikisi anneye, yüz yirmi dörderi kızların her birine düşer.
+
+Mirasçılık durumu aynı kalır ve bir kişiye, kocanın payından, maldan bu pay çıktıktan sonra kalanın dokuzda biriyle onda biri kadar eksik bir miktar vasiyet ederse: Çözüm yolu, miras paylarını kurmaktır. On üç pay bulursun. Bütün maldan vasiyet edilen, üç paydır. Malın üç pay eksiği kalır. Sonra kalan malın dokuzda birini ve onda birini istisna et. Bu, malın dokuzda biri ve onda birinden üç payın dokuzda biriyle onda biri eksik olmasıdır. Bu son miktar, bir payın otuzda on dokuzudur. Böylece bir mal, dokuzda biri ve onda biriyle birlikte, üç pay ve bir payın otuzda on dokuzu eksik olarak on üç paya eşit olur. Üç pay ve bir payın otuzda on dokuzunu ekleyerek malın eksikliğini gider,
+
+[PDF görüntüsü 83]
+ve on üçe de aynı miktarı ekle. Bir mal ile dokuzda biri ve onda biri, on altı pay ve bir payın otuzda on dokuzuna eşit olur. Bunu bir mala indir; elindekinden yüz dokuzda on dokuzunu çıkar. Bir mal, on üç pay ve bir payın yüz dokuzda seksenine eşit kalır. Bir payı yüz dokuz parça al. On üçü yüz dokuzla çarp ve buna seksen parça ekle. Bin dört yüz doksan yedi olur. Kocanın payı üç yüz yirmi yedidir.
+
+Bir kişi geride iki kız kardeş ve bir eş bırakır, bir kişiye de bir kız kardeşin payından, vasiyetten sonra maldan kalanın sekizde biri kadar eksik bir miktar vasiyet ederse: Çözüm yolu, miras hesabını on iki pay üzerinden kurmaktır. Her kız kardeşe, vasiyetten sonra maldan kalanın üçte biri düşer. Bu, maldan vasiyet eksik olan miktardır. Kalanın sekizde biriyle vasiyetin toplamının bir kız kardeş payına eşit olduğunu bilirsin. Kalanın sekizde biri, malın sekizde birinden vasiyetin sekizde biri eksiktir. Malın sekizde birinden vasiyetin sekizde biri eksik olan miktarla vasiyetin toplamı, bir kız kardeşin payına eşittir. Bu, malın sekizde biri ve vasiyetin sekizde yedisidir. Böylece malın tamamı, malın sekizde üçüne, üç vasiyete ve vasiyetin sekizde beşine eşittir. Maldan sekizde üçünü çıkar. Malın sekizde beşi, üç vasiyet ile vasiyetin sekizde beşine eşit kalır. Malın tamamı, beş vasiyet ile vasiyetin beşte dördüne eşittir. Mal yirmi dokuz, vasiyet beş, bir pay sekizdir.
+
+Vasiyetlerin başka bir biçiminde, bir kişi öldü; geride dört oğul bıraktı. Bir kişiye oğullarından birinin payı kadar, başka birine de bu pay ayrıldıktan sonra üçte birlik kısımdan kalanın dörtte birini vasiyet etti. Bil ki bu türde vasiyet malın üçte birlik kısmından yapılır. Çözüm yolu, malın üçte birini alıp bundan bir payı çıkarmaktır. Malın üçte birinden
+
+[PDF görüntüsü 84]
+bir pay eksik kalır. Sonra üçte birlik kısımdan kalanın dörtte birini çıkarırsın. Bu, üçte birin dörtte birinden bir payın dörtte biri eksiktir. Malın dörtte birinden bir payın dörtte üçü eksik kalır. Buna malın üçte ikisini ekle. Malın on ikide on birinden bir payın dörtte üçü eksik olur; bu, dört paya eşittir. Bir payın dörtte üçünü ekleyerek eksikliği gider; bunu dört paya da ekle. Malın on ikide on biri, dört tam dörtte üç paya eşit olur. Malı tamamla: Dört tam dörtte üç paya on birde biri kadarını ekle. Beş pay ile bir payın on birde ikisi, bir mala eşit olur. Bir payı on bir, malı elli yedi al. Üçte biri on dokuzdur. Bundan bir pay olan on biri çıkar; sekiz kalır. Dörtte biri vasiyet edilen kişiye iki düşer. Altı kalır; bu, malın üçte ikisi olan otuz sekize geri eklenir. Dört oğul arasında kırk dört olur; her oğula on bir pay düşer.
+
+Bir kişi geride dört oğul bırakır, bir kişiye de bir oğul payından, bu pay ayrıldıktan sonra üçte birlik kısımdan kalanın beşte biri kadar eksik bir miktar vasiyet ederse: Vasiyet üçte birlik kısımdandır. Üçte biri al ve bundan bir payı çıkar. Üçte birden bir pay eksik kalır. Sonra istisna edilen miktarı buna geri ekle. Bu, üçte birin beşte birinden bir payın beşte biri eksiktir. Böylece üçte bir ve üçte birin beşte biri, yani beşte iki, bir pay ve bir payın beşte biri eksik olarak kalır. Bunu malın üçte ikisine ekle. Bir mal ile malın üçte birinin beşte birinden, bir pay ve bir payın beşte biri eksik olur; bu, dört paya eşittir. Bir pay ve bir payın beşte birini ekleyerek malın eksikliğini gider ve bunları dört paya da ekle. Bir mal ile malın üçte birinin beşte biri, beş pay ve bir payın beşte birine eşit olur. Bunu bir mala indir: Elindekinden sekizde birinin yarısını, yani on altıda birini çıkar. Bir mal, dört pay ile bir payın sekizde yedisine eşit olur. Malı otuz dokuz, üçte birini on üç, bir payı sekiz al. Üçte birlik kısımdan beş kalır; bunun beşte biri birdir. Vasiyetten istisna ettiği bu biri, kalan kısma ekle. Vasiyet yedi olur ve üçte birlik kısımdan altı kalır. Buna malın üçte ikisini, yani yirmi
+
+[PDF görüntüsü 85]
+altı payı ekle. Otuz iki olur; dört oğula bölündüğünde her oğula sekiz düşer.
+
+Bir kişi geride üç oğul ve bir kız bırakır, bir kişiye malının yedide ikisinden kızının payı kadarını, başka birine de bu yedide ikiden kalanın beşte birini ve altıda birini vasiyet ederse: Bu durumda vasiyet, malın yedide ikisinden yapılır. Malın yedide ikisini al ve bundan bir kız payını çıkar. Malın yedide ikisinden bir kız payı eksik kalır. Bundan öteki vasiyeti, yani bunun beşte biriyle altıda birini çıkar. Malın bir yedide biri ile bir yedide birinin on beşte dördü, bir payın otuzda on dokuzu eksik olarak kalır. Buna malın gerideki yedide beşini ekle. Malın yedide altısı ile bir yedide birinin on beşte dördünden bir payın otuzda on dokuzu eksik olur; bu, yedi paya eşittir. Bir payın otuzda on dokuzunu ekleyerek eksikliği gider ve bunu yedi paya da ekle. Malın yedide altısı ile bir yedide birinin on beşte dördü, yedi pay ile bir payın otuzda on dokuzuna eşit olur. Malı tamamla; elindeki her şeye doksan dörtte on biri kadarını ekle. Bir mal, sekiz pay ve bir payın yüz seksen sekizde doksan dokuzuna eşit olur. Bütün malı bin altı yüz üç, bir payı yüz seksen sekiz al. Sonra malın yedide ikisi olan dört yüz elli sekizi al. Bundan bir pay olan yüz seksen sekizini çıkar. İki yüz yetmiş kalır. Bunun beşte biriyle altıda birini, yani doksan dokuz payı çıkar. Yüz yetmiş bir kalır,
+
+[PDF görüntüsü 86]
+Buna malın yedide beşini, yani bin yüz kırk beşi geri ekle. Böylece yedi pay arasında bölüşülecek bin üç yüz altı pay olur. Her pay yüz seksen sekizdir. Bu, kızın payıdır; oğlanın payı bunun iki katıdır.
+
+Mirasın bölüşümü aynı durumda olsun. Kişi, malının beşte ikisinden kızın payı kadarını; başka birine de bu pay çıkarıldıktan sonra beşte ikiden kalanın dörtte biriyle beşte birini vasiyet etmiş olsun.
+
+Bunun hesabı şöyledir: Vasiyet beşte ikiden yapılacaktır. Malın beşte ikisini alıp bundan bir pay çıkar. Malın beşte ikisi eksi bir pay kalır. Sonra kalanın dörtte biriyle beşte birini çıkar. Bu, malın beşte ikisinin yirmide dokuzu eksi payın aynı oranıdır. Geriye malın beşte biriyle bu beşte birin onda biri, eksi bir payın yirmide on biri kalır. Buna malın beşte üçünü ekle. Malın beşte dördüyle beşte birinin onda biri, eksi bir payın yirmide on biri elde edilir. Bu, yedi paya eşittir.
+
+Bunu bir payın yirmide on biriyle tamamla; aynı miktarı yedi paya da ekle. Böylece elindeki miktar, yedi payla bir payın yirmide on birine eşit olur. Malı bir tam mala tamamlamak için elindeki her miktara onun kırk birde dokuzunu ekle. Bir mal, dokuz payla bir payın seksen ikide on yedisine eşit olur. Bir payı seksen iki birim al; toplam pay sayısı yedi yüz elli beş olur.
+
+[PDF görüntüsü 87]
+Bunun beşte ikisi üç yüz ikidir. Bundan payı, yani seksen ikiyi çıkar; iki yüz yirmi kalır. Sonra bunun dörtte biriyle beşte birini, yani doksan dokuz payı çıkar; yüz yirmi bir kalır. Buna malın beşte üçünü, yani dört yüz elli üçü ekle. Yedi pay arasında bölüşülecek beş yüz yetmiş dört olur. Her pay seksen ikidir. Bu kızın payıdır; oğlanın payı bunun iki katıdır.
+
+Mirasın bölüşümü aynı durumda olsun. Bir kişiye oğlanın payı kadarını, ancak pay çıkarıldıktan sonra malın beşte ikisinden kalanın dörtte biriyle beşte biri eksiltilerek vasiyet etmiş olsun. Vasiyet malın beşte ikisinden yapılacaktır. Oğlanın iki hissesi bulunduğu için bundan iki pay çıkar. Malın beşte ikisi eksi iki pay kalır.
+
+İstisna edilen miktarı buna ekle. Bu miktar, malın beşte ikisinin dörtte biriyle beşte biri, eksi bir payın onda dokuzudur. Böylece malın beşte ikisiyle malın beşte birinin onda dokuzu, eksi iki pay ve bir payın onda dokuzu elde edilir. Buna malın beşte üçünü ekle. Bir mal ile malın beşte birinin onda dokuzu, eksi iki pay ve bir payın onda dokuzu olur.
+
+[PDF görüntüsü 88]
+Bu miktar yedi paya eşittir. Onu iki payla bir payın onda dokuzunu ekleyerek tamamla; aynı miktarı paylara da ekle. Elinde bir mal ile malın beşte birinin onda dokuzu kalır. Bu, dokuz payla bir payın onda dokuzuna eşittir.
+
+Bunu bir mala indirgemek için elindeki miktarların her birinden elli dokuzda dokuzunu çıkar. Bir mal, sekiz payla bir payın elli dokuzda yirmi üçüne eşit olur. Pay elli dokuz birim, mirasın toplam pay sayısı ise dört yüz doksan beş paydır. Bunun beşte ikisi yüz doksan sekizdir. Bundan iki payı, yani yüz on sekiz payı çıkar; seksen pay kalır. İstisna edilen miktar buradan geri döner. Bu, seksenin dörtte biriyle beşte biri, yani otuz altı paydır. Böylece vasiyet alacaklısına seksen iki pay kalır. Bunu, dört yüz doksan beş olan miras paylarından çıkar. Yedi pay arasında bölüşülecek dört yüz on üç pay kalır. Her kız için elli dokuz, oğlan için bunun iki katı vardır.
+
+Kişi iki oğlanla iki kız bırakmış olsun. Bir kişiye, kızın payı kadarını; ancak o pay çıkarıldıktan sonra üçte birden kalanın beşte biri eksiltilerek vasiyet etsin. Başka birine de öteki kızın payı kadarını; ancak bütün bunlardan sonra üçte birden kalanın üçte biri eksiltilerek vasiyet etsin. Başka bir kişiye ise bütün malın altıda birinin yarısını vasiyet etsin.
+
+[PDF görüntüsü 89]
+Bu vasiyetlerin hepsi malın üçte birinden yapılır. Bir malın üçte birini alıp bundan kızın payını çıkar. Malın üçte biri eksi bir pay kalır. Sonra istisna edilen miktarı, yani üçte birin beşte biri eksi payın beşte birini buna ekle. Malın üçte biriyle üçte birinin beşte biri, eksi bir pay ve bir payın beşte biri olur. Bundan öteki kızın payını çıkar. Malın üçte biriyle üçte birinin beşte biri, eksi iki pay ve bir payın beşte biri kalır. Sonra istisna edileni buna ekle. Malın üçte biriyle üçte birinin beşte üçü, eksi iki pay ve bir payın on beşte on dördü elde edilir.
+
+Bundan bütün malın altıda birinin yarısını çıkar. Malın altmışta yirmi yedisi, eksi paylardan eksilen miktar kalır. Buna malın üçte ikisini ekle. Paylardan eksilen miktarı ekleyerek tamamla; aynı miktarı paylara da ekle. Bir mal ile malın altmışta yedisi, sekiz payla bir payın on beşte on dördüne eşit olur. Bunu bir mala indirgemek için elindeki miktardan onun altmış yedide yedisini çıkar. Böylece pay iki yüz bir, bütün mal bin altı yüz sekiz olur.
+
+Mirasın bölüşümü aynı durumda olsun. Kişi bir kızın payı kadarını ve pay çıkarıldıktan sonra üçte birden kalanın beşte birini; bir başka kızın payı kadarını ve yalnız bir pay çıkarıldıktan sonra dörtte birden kalanın üçte birini vasiyet etsin.
+
+Bunun hesabı şöyledir: İki vasiyet malın dörtte birinden ve üçte birinden yapılır. Bir malın üçte birini alıp bir pay çıkar. Üçte bir eksi bir pay kalır. Sonra kalanın beşte birini, yani üçte birin beşte biri eksi payın beşte birini çıkar. Üçte birin beşte dördü eksi payın beşte dördü kalır. Ayrıca malın dörtte birini alıp bir pay çıkar. Elinde malın dörtte biri eksi bir pay kalır.
+
+[PDF görüntüsü 90]
+Sonra dörtte birden kalanın üçte birini çıkar. Dörtte birin üçte ikisi eksi payın üçte ikisi kalır. Bunu üçte birden kalana ekle. Malın altmışta yirmi altısı, eksi bir pay ve payın altmışta yirmi sekizi olur. Buna, malın üçte biriyle dörtte biri alındıktan sonra kalan miktarı, yani dörtte biriyle altıda birini ekle. Malın yirmide on yedisi, yedi payla bir payın on beşte yedisine eşit olur.
+
+Malı tamamlamak için elindeki paylara onların on yedide üçünü ekle. Bir mal, sekiz payla bir payın yüz elli üçte yüz yirmisine eşit olur. Bir payı yüz elli üç al; mal bin üç yüz kırk dört olur. Üçte birden, paydan sonra yapılan vasiyet elli yedidir. Dörtte birden, paydan sonra yapılan vasiyet ise altmış birdir.
+
+Kişi altı oğlan bırakmış olsun. Birine oğlanlardan birinin payı kadarını ve dörtte birden kalanın beşte birini vasiyet etsin. Başka birine de öteki oğlanın payı kadarını; ancak ilk iki vasiyet ve öteki pay çıkarıldıktan sonra üçte birden kalanın dörtte biri eksiltilerek vasiyet etsin.
+
+Bunun hesabı şöyledir: Bir malın dörtte birinden bir pay çıkar. Dörtte bir eksi bir pay kalır. Dörtte birden kalanın beşte birini çıkar. Bu, malın onda birinin yarısı eksi payın beşte biridir. Sonra üçte bire dön. Bundan malın onda birinin yarısını, payın beşte dördünü ve ayrıca bir başka payı çıkar. Malın üçte biri eksi malın onda birinin yarısı, eksi bir pay ve bir payın beşte dördü kalır. Buna kalanın dörtte birini ekle.
+
+
+DIRHEM VASIYETI
+
+[PDF görüntüsü 91]
+Bu, vasiyette istisna edilen miktardır. Üçte biri seksen al. Malın onda birinin yarısını çıkardığında altmış sekiz, eksi bir pay ve bir payın beşte dördü kalır. Buna dörtte birini, yani on yedi pay eksi paylardan eksilen miktarın dörtte birini ekle. Seksen beş, eksi iki pay ve bir payın dörtte biri olur. Bunu malın üçte ikisine, yani yüz altmışa geri ekle. Bir mal ile malın sekizde birinin altıda biri, eksi iki pay ve bir payın dörtte biri elde edilir. Bu, altı paya eşittir.
+
+Eksilen miktarı ekleyerek bunu tamamla; aynı miktarı paylara da ekle. Bir mal ile malın sekizde birinin altıda biri, sekiz payla bir payın dörtte birine eşit olur. Bunu bir mala indirgemek için payların toplamından onun kırk dokuzda birini çıkar. Bir mal, sekiz payla bir payın kırk dokuzda dördüne eşit olur. Bir payı kırk dokuz al. Mal üç yüz doksan altı, pay kırk dokuz, dörtte birden yapılan vasiyet on, ikinci paydan istisna edilen miktar altı olur. Bunu anla.
+
+Dirhemle yapılan vasiyet bölümü
+
+Bir adam ölüp dört oğlan bırakmış olsun. Bir kişiye oğlanlarından birinin payı kadarını, üçte birden kalanın dörtte birini ve bir dirhem vasiyet etsin. Bunun hesabı şöyledir: Bir malın üçte birini alıp bir pay çıkar. Üçte bir eksi bir pay kalır. Elindeki kalanın dörtte birini, yani üçte birin dörtte biri eksi payın dörtte birini çıkar. Ayrıca bir dirhem çıkar. Elinde malın üçte birinin dörtte üçü, yani malın dörtte biri, eksi bir payın dörtte üçü ve eksi bir dirhem kalır. Bunu malın üçte ikisine ekle. Bir malın on ikide on biri, eksi bir payın dörtte üçü ve eksi bir dirhem olur. Bu, dört paya eşittir. Bir payın dörtte üçüyle bir dirhem ekleyerek tamamla. Bir malın on ikide on biri, dört payla bir payın dörtte üçüne ve bir dirheme eşit olur.
+
+[PDF görüntüsü 92]
+Malı tamamlamak için paylarla dirhemin her birine onun on birde birini ekle. Bir mal, beş payla bir payın on birde ikisine, bir dirheme ve bir dirhemin on birde birine eşit olur.
+
+Dirhemi bir tam dirhem olarak elde etmek istersen malı tamamlama. Bunun yerine on birden dirhem için bir çıkar. Kalan onu, dört payla bir payın dörtte üçüne böl. Bölüm, iki dirhemle bir dirhemin on dokuzda biridir. Malı on iki, payı iki payla on dokuzda iki pay al. Payı tam sayı olarak elde etmek istersen malı tamamla ve cebir işlemini yap. Böylece dirhem, maldan on bir olur.
+
+Kişi beş oğlan bırakmış olsun. Birine oğlanlardan birinin payı kadarını, üçte birden kalanın üçte birini, bir dirhemi, bundan sonra üçte birden kalanın dörtte birini ve bir dirhemi vasiyet etsin. Bir üçte bir alıp bir pay çıkar. Üçte bir eksi bir pay kalır. Sonra elindeki kalanın üçte birini çıkar. Bu, üçte birin üçte biri eksi payın üçte biridir. Kalandan bir dirhem çıkar. Üçte birin üçte ikisi, eksi payın üçte ikisi ve eksi bir dirhem kalır.
+
+Elindekinden onun dörtte birini çıkar. Bu, üçte birin altı payından bir pay, eksi payın altıda biri ve eksi dirhemin dörtte biridir. Sonra bir dirhem daha çıkar. Üçte birin yarısı, eksi payın yarısı, eksi bir tam dörtte üç dirhem kalır. Buna malın üçte ikisini ekle. Malın altıda beşi, eksi yarım pay, eksi bir tam dörtte üç dirhem elde edilir. Bu, beş paya eşittir. Yarım payla bir dirhemi ve bir dirhemin dörtte üçünü ekleyerek tamamla.
+
+[PDF görüntüsü 93]
+Bir dirhemle bir dirhemin dörtte üçünü ve yarım payı paylara ekle. Elinde malın altıda beşi kalır. Bu, beş buçuk payla bir dirhem ve bir dirhemin dörtte üçüne eşittir. Malı tamamlamak için paylara, dirheme ve dörtte üç dirheme kendi beşte birleri kadar ekle. Bir mal, altı payla bir payın beşte üçüne, iki dirheme ve bir dirhemin onda birine eşit olur. Payı on, dirhemi on al. Mal seksen yedi pay olur.
+
+Dirhemi bir tam dirhem olarak elde etmek istersen üçte biri alıp bir pay çıkar. Üçte bir eksi bir pay olur. Üçte biri yedi buçuk al. Sonra elindeki miktarın üçte birini, yani üçte birin üçte birini çıkar. Elinde üçte birin üçte ikisi eksi payın üçte ikisi kalır. Bu, beş dirhem eksi payın üçte ikisidir. Dirhem için bir çıkar. Elinde dört dirhem eksi payın üçte ikisi kalır. Sonra elindekinin dörtte birini, yani bir pay eksi payın altıda birini çıkar. Dirhem için bir pay daha çıkar. Elinde iki pay eksi yarım pay kalır. Bunu malın üçte ikisine, yani on beşe ekle. On yedi eksi yarım pay olur. Bu, beş paya eşittir. Yarım payı ekleyerek tamamla; onu beşe de ekle. On yedi pay, beş buçuk paya eşit olur. Yediyi beş buçuk paya böl. Çıkan bölüm paydır; üç dirhemle bir dirhemin on birde biridir. Üçte bir ise yedi buçuktur.
+
+Kişi dört oğlan bırakmış olsun. Birine, oğlanlarından birinin payı kadarını; ancak pay çıkarıldıktan sonra üçte birden kalanın dörtte biri eksiltilerek, ayrıca bir dirhem vasiyet etsin. Başka birine de üçte birden kalanın üçte birini ve bir dirhem vasiyet etsin. Vasiyet malın üçte birinden yapılır. Bir malın üçte birini alıp bir pay çıkar. Üçte bir eksi bir pay kalır. Sonra buna istisna edilen miktarı ekle.
+
+[PDF görüntüsü 94]
+Elindeki miktarın dörtte birini ona ekle. Malın üçte biriyle üçte birinin dörtte biri, eksi bir pay ve bir payın dörtte biri olur. Bir dirhem çıkar. Malın üçte biriyle üçte birinin dörtte biri, eksi bir dirhem, eksi bir pay ve bir payın dörtte biri kalır. Sonra ikinci vasiyet için elindeki kalanın üçte birini çıkar. Malın üçte birinin altı payından beşi, eksi dirhemin üçte ikisi ve eksi payın altıda beşi kalır. Bir dirhem daha çıkar. Bir malın on sekiz payından beşi, eksi bir dirhem ve bir dirhemin üçte ikisi, eksi payın altıda beşi kalır. Buna malın üçte ikisini ekle. Malın on sekizde on yedisi, eksi bir dirhem ve bir dirhemin üçte ikisi, eksi payın altıda beşi olur. Bu, dört, dört paya eşittir.
+
+Eksileni ekleyerek tamamla; aynı miktarı paylara da ekle. Malın on sekizde on yedisi, payın altıda beşine, bir dirheme ve bir dirhemin üçte ikisine eşit olur. Malını tamamla. Bunun yolu, dört paya, payın altıda beşine, bir dirheme ve bir dirhemin üçte ikisine; bir payın on yedide birini, bir dirhemi ve bir dirhemin on yedide on üçünü eklemendir. Payı on yedi, dirhemi on yedi al. Mal yüz on yedi olur. Dirhemi tam sayı olarak elde etmek istersen, Allah dilerse, sana anlattığım gibi işlem yap.
+
+Kişi üç oğlanla iki kız bırakmış olsun. Bir kişiye kızın payı kadarını ve bir dirhemi; başka birine dörtte birden kalanın beşte birini ve bir dirhemi; başka birine bütün bunlardan sonra üçte birden kalanın dörtte birini ve bir dirhemi; başka birine de bütün malın sekizde birini vasiyet etsin. Mirasçılar bunu kabul etsinler. Hesabı, dirhemler tam çıkacak biçimde yap.
+
+[PDF görüntüsü 95]
+Bu durumda böylesi daha iyidir: Bir malın dörtte birini al, ona bir değer vererek altı yap; mal yirmi dört olsun. Dörtte birden bir pay çıkar; altı eksi bir pay kalır. Bir dirhem çıkar; beş eksi bir pay kalır. Kalanın beşte birini çıkar; dört eksi payın beşte dördü kalır. Bir dirhem daha çıkar; elinde üç eksi payın beşte dördü kalır. Böylece dörtte birden yapılan vasiyetin üç ile payın beşte dördü olduğunu bilirsin.
+
+Sonra üçte bire, yani sekize dön. Bundan üç ile payın beşte dördünü çıkar. Beş eksi payın beşte dördü kalır. Vasiyet için bunun da dörtte birini ve bir dirhemi çıkar. Elinde iki payla bir payın dörtte üçü, eksi payın beşte üçü kalır. Sonra malın sekizde birini, yani üçü çıkar. Üçte birin ötesinde, bir payın dörtte biriyle payın beşte üçü kadar eksik kalır. Malın üçte ikisine, yani on altıya dön. Bundan bir çeyrek ile payın beşte üçünü çıkar. Maldan on beş payla bir payın dörtte üçü, eksi payın beşte üçü kalır.
+
+Bunu payın beşte üçünü ekleyerek tamamla; o miktarı sekiz olan paylara da ekle. On beş payla bir payın dörtte üçü, sekiz payla bir payın beşte üçüne eşit olur. Bunu ona böl. Çıkan bölüm paydır; mal yirmi dörttür. Her kız için bir payla bir payın yüz yetmiş ikide yüz kırk üçü bulunur.
+
+Payları tam sayı olarak elde etmek istersen, bir malın dörtte birini alıp bir pay çıkar. Dörtte bir eksi bir pay kalır. Bir dirhem çıkar. Dörtte birden kalanın beşte birini çıkar. Bu, malın dörtte birinin beşte biri, eksi payın beşte biri ve eksi dirhemin beşte biridir. İkinci bir dirhem çıkar. Dörtte birin beşte dördü, eksi payın beşte dördü, eksi bir dirhem ve bir dirhemin beşte dördü kalır.
+
+Dörtte birden yapılan vasiyet, iki yüz kırk paylık malın on iki payı, payın beşte dördü, bir dirhem ve bir dirhemin beşte dördüdür. Üçte biri, yani sekseni al. Bundan on ikiyi, payın beşte dördünü, bir dirhemi ve bir dirhemin beşte dördünü çıkar. Sonra elindeki kalanın dörtte birini ve bir dirhemi çıkar. Üçte birden elli bir, eksi payın beşte üçü, eksi iki dirhem ve bir dirhemin yirmide yedisi kalır.
+
+
+VASIYETTE TAMAMLAMA
+
+[PDF görüntüsü 96]
+Bundan malın sekizde birini, yani otuzu çıkar. Yirmi bir, eksi payın beşte üçü, eksi iki dirhem ve bir dirhemin yirmide yedisi kalır. Bununla malın üçte ikisi sekiz paya eşittir. Eksileni ekleyerek tamamla; onu sekiz paya da ekle. Elinde iki yüz kırk paylık malın yüz seksen bir payı kalır. Bu, sekiz payla payın beşte üçüne, iki dirheme ve bir dirhemin yirmide yedisine eşittir.
+
+Malını tamamlamak için elindeki miktarlara onların yüz seksen birde elli dokuzunu ekle. Pay üç yüz altmış iki, dirhem üç yüz altmış iki, mal beş bin iki yüz elli altı olur. Dörtte birden yapılan vasiyetler bin iki yüz dört; üçte birden yapılan vasiyet dört yüz doksan dokuz; sekizde birlik vasiyet altı yüz elli yedidir.
+
+Tamamlama bölümü
+
+Bir kadın ölüp sekiz kızını, annesini ve kocasını bırakmış olsun. Bir kişiye, kızın payını malın beşte birine tamamlayacak miktarı; başka birine, annenin payını malın dörtte birine tamamlayacak miktarı vasiyet etsin. Bunun hesabı şöyledir: Mirasın paylarını kur; on üç pay olur. Bir mal al. Bundan malın beşte birini, kızın payı olan bir pay eksiltilmiş olarak çıkar. Bu birinci vasiyettir. Ayrıca malın dörtte birini, annenin payı olan iki pay eksiltilmiş olarak çıkar. Bu ikinci vasiyettir. Malın yirmide on biriyle üç pay kalır. Bu, on üç paya eşittir.
+
+On üç paydan, üç pay karşılığı olarak üç pay çıkar. Elinde malın yirmide on biri kalır; bu on paya eşittir. Malı tamamlamak için on paya onun on birde dokuzunu ekle. Bir mal, on sekiz payla bir payın on birde ikisine eşit olur. Bir payı on bir al. Mal iki yüz, pay birimi ve miras payı on bir olur. Birinci vasiyet yirmi dokuz, ikinci vasiyet yirmi sekizdir.
+
+Mirasın bölüşümü aynı durumda olsun. Kadın birine kocasının payını üçte bire tamamlayacak miktarı; bir başkasına annesinin payını dörtte bire tamamlayacak miktarı; bir başkasına da kızının payını beşte bire tamamlayacak miktarı vasiyet etsin. Mirasçılar bunu kabul etsinler. Mirasın paylarını kur.
+
+[PDF görüntüsü 97]
+Miras paylarını on üç üzerinden al. Bir mal al. Bundan malın üçte birini, kocanın payı olan üç pay eksiltilmiş olarak çıkar. Sonra malın dörtte birini, annenin payı olan iki pay eksiltilmiş olarak çıkar. Sonra malın beşte birini, kızın payı olan bir pay eksiltilmiş olarak çıkar. Malın altmışta on üçüyle altı pay kalır. Bu, on üç paya eşittir. On üç paydan altıyı çıkar. Malın altmışta on üçü yedi paya eşit kalır. Malı tamamlamak için yedi payı dört ile on üçte sekizin toplamıyla çarp. Bir mal, otuz iki payla bir payın on üçte dördüne eşit olur. Mal dört yüz yirmidir.
+
+Mirasın bölüşümü aynı durumda olsun. Kadın birine annenin payını malın dörtte birine tamamlayacak miktarı; başka birine, birinci vasiyetten sonra maldan kalanın beşte birine kızın payını tamamlayacak miktarı vasiyet etsin. Mirasın paylarını kur; on üç bulursun. Bir mal al. Bundan dörtte birini iki pay eksiltilmiş olarak çıkar. Sonra elindeki kalanın beşte birini bir pay eksiltilmiş olarak çıkar. Paylar hesaba katıldıktan sonra maldan kalana bak. Malın beşte üçüyle iki pay ve bir payın beşte üçü kalır. Bu, on üç paya eşittir. On üç paydan iki payla bir payın beşte üçünü çıkar. On payla bir payın beşte ikisi kalır; bu, malın beşte üçüne eşittir. Malı tamamlamak için elindeki paylara onların üçte ikisini ekle. Bir mal, on yedi payla bir payın üçte birine eşit olur. Bir payı üç al. Mal elli iki, pay üç, birinci vasiyet yedi, ikinci vasiyet altıdır.
+
+Mirasın bölüşümü aynı durumda olsun. Kadın birine annenin payını malın beşte birine tamamlayacak miktarı; başka birine de maldan kalanın altıda birini vasiyet etsin. Paylar on üçtür. Bir mal al. Bundan beşte birini iki pay eksiltilmiş olarak çıkar. Sonra elindeki kalanın altıda birini çıkar. Malın üçte ikisiyle bir pay ve bir payın üçte biri kalır; bu, on üç paya eşittir. On üç paydan bir payla bir payın üçte ikisini çıkar. Malın üçte ikisi on bir payla bir payın üçte birine eşit kalır. Malı tamamlamak için paylara yarılarını ekle. Bir mal on yedi paya eşit olur. Malı seksen beş, payı beş al. Birinci vasiyet yedi, ikinci vasiyet on üç olur; mirasçılara altmış beş pay kalır.
+
+[PDF görüntüsü 98]
+Mirasın bölüşümü aynı durumda olsun. Kadın birine, annenin payını malın üçte birine tamamlayacak miktarı; ancak tamamlamadan sonra maldan kalanın dörtte birine kızın payını tamamlayacak miktar eksiltilerek vasiyet etsin. Miras payları on üçtür. Bir mal alıp bundan üçte birini iki pay eksiltilmiş olarak çıkar. Elindeki kalana onun dörtte birini bir pay eksiltilmiş olarak ekle. Malın altıda beşiyle bir buçuk pay olur. Bu, on üç paya eşittir. On üç paydan bir buçuk pay çıkar. On bir buçuk pay, malın altıda beşine eşit kalır. Malı tamamlamak için paylara onların beşte birini ekle. Bir mal, on üç payla bir payın beşte dördüne eşit olur. Payı beş al. Mal altmış dokuz, vasiyet dört pay olur.
+
+Bir adam ölüp bir oğlanla beş kız bırakmış olsun. Bir kişiye, oğlanın payını malın beşte biriyle altıda birinin toplamına tamamlayacak miktarı; ancak bu tamamlamadan sonra üçte birden kalanın dörtte biri eksiltilerek vasiyet etsin. Malın üçte birini al. Bundan malın beşte biriyle altıda birini, iki pay eksiltilmiş olarak çıkar. Elinde iki pay eksi malın yüz yirmide dördü kalır. Buna istisnayı ekle. Bu, yarım pay eksi bir parçadır. Elinde iki buçuk pay eksi malın yüz yirmide beşi kalır. Buna malın üçte ikisini ekle. Malın yüz yirmide yetmiş beşiyle iki buçuk pay olur. Bu, yedi paya eşittir. Yediden iki buçuğu çıkar. Elinde malın yüz yirmide yetmiş beşi kalır; bu dört buçuk paya eşittir. Malı tamamlamak için paylara onların beşte üçünü ekle. Bir mal, yedi payla bir payın beşte birine eşit olur. Bir pay beştir; mal otuz altı, pay beş, vasiyet bir olur.
+
+Kişi annesini, karısını ve dört kız kardeşini bırakmış olsun. Birine, karısıyla kız kardeşinin paylarını malın yarısına tamamlayacak miktarı; ancak tamamlamadan sonra üçte birden kalanın yedide ikisi eksiltilerek vasiyet etsin. Bunun hesabı şöyledir: Üçte birden yarıyı çıkardığında altıda bir kadar eksik kalır. Bundan istisna edilen miktar, karıyla kız kardeşinin payı olan beş paydır. Üçte birden kalan, beş pay eksi malın altıda biridir. İstisna ettiği yedide iki de beş payın yedide ikisi eksi malın altıda birinin yedide ikisidir.
+
+
+DEVIR HESABI · EVLENME
+
+[PDF görüntüsü 99]
+Elinde, malın altıda biri ile bu altıda birin yedide ikisi çıkarılmış olarak, altı payla bir payın yedide üçü olur. Buna malın üçte ikisini ekle. Malın kırk ikide on dokuzuyla altı pay ve bir payın yedide üçü elde edilir. Bu, on üç paya eşittir. Bu payları ondan çıkar. On dokuz parça, altı payla bir payın yedide dördüne eşit kalır. Malı tamamlamak için ona iki katını ve on dokuzda dördünü ekle. Bir mal, on dört payla bir payın yüz otuz üçte yetmişine eşit olur. Payı yüz otuz üç al. Mirasın payları bin dokuz yüz otuz iki pay; tek pay yüz otuz üç olur. Tamamlama üç yüz bir, üçte birden istisna edilen miktar doksan sekizdir. Vasiyet iki yüz üç kalır. Mirasçılara bin yedi yüz yirmi dokuz kalır.
+
+Devir hesabı
+
+Ölüm hastalığında evlenmeye ilişkin bölüm
+
+Bir adam ölüm hastalığında, yüz dirhem mehirle bir kadınla evlensin. Bundan başka malı bulunmasın; kadının emsal mehri on dirhem olsun. Sonra kadın ölsün ve malının üçte birini vasiyet etsin; ardından koca ölsün.
+
+Bunun hesabı şöyledir: Yüzden kadına geçerli olarak verilmesi gereken mehri, yani on dirhemi çıkar. Kadının bundan vasiyet olarak alacağı doksan dirhem kalır. Onun vasiyetini bu miktardan bir bilinmeyen miktar al. Doksan dirhem eksi bilinmeyen kalır. Kadının elinde on dirhemle bilinmeyen bulunur. Malının üçte birini, yani üç dirhemle bir dirhemin üçte birini ve bilinmeyenin üçte birini vasiyet etmiştir. Altı dirhemle bir dirhemin üçte ikisi ve bilinmeyenin üçte ikisi kalır.
+
+Bunun yarısı kocaya mirası olarak geri döner. Bu, üç dirhemle bir dirhemin üçte biri ve bilinmeyenin üçte biridir. Kocanın mirasçılarının elinde doksan üç dirhemle bir dirhemin üçte biri, eksi bilinmeyenin üçte ikisi olur. Bu, kadının vasiyetinin iki katıdır. Kadının vasiyeti bir bilinmeyendir; çünkü kadına, kocanın bıraktığı toplamın üçte biri kadar vasiyet geçerlidir. Onun vasiyetinin iki katı iki bilinmeyendir. Doksan üç ile üçte biri, bilinmeyenin üçte ikisini ekleyerek tamamla; aynı miktarı iki bilinmeyene de ekle. Doksan üç dirhemle bir dirhemin üçte biri, iki bilinmeyenle bilinmeyenin üçte ikisine eşit olur. Bir bilinmeyen bunun sekizde üçüdür. Doksan üç ile üçte birin sekizde üçü, otuz beş dirhemdir.
+
+[PDF görüntüsü 100]
+Mesele aynı durumda olsun; kadının on dirhem borcu bulunsun ve malının üçte birini vasiyet etmiş olsun. Bunun hesabı şöyledir: Kadına mehri olan on dirhemi ver. Doksan kalır; kadının bundan alacağı bir vasiyet vardır. Vasiyetini bir bilinmeyen al. Doksan eksi bilinmeyen kalır. Kadının elinde on dirhemle bilinmeyen bulunur. Buradan on dirhemlik borcunu öder; kendisine bir bilinmeyen kalır. Bunun üçte birini, yani bilinmeyenin üçte birini vasiyet etmiştir. Bilinmeyenin üçte ikisi kalır. Yarısı, yani bilinmeyenin üçte biri miras yoluyla kocaya döner. Kocanın mirasçılarının elinde doksan dirhem eksi bilinmeyenin üçte ikisi olur. Bu, bir bilinmeyen olan vasiyetin iki katı, yani iki bilinmeyendir. Doksanı bilinmeyenin üçte ikisini ekleyerek tamamla; aynı miktarı iki bilinmeyene de ekle. Doksan dirhem, iki bilinmeyenle bilinmeyenin üçte ikisine eşit olur. Bir bilinmeyen bunun sekizde üçüdür; otuz üç dirhemle bir dirhemin dörtte üçüne eşittir. Vasiyet budur.
+
+Adam kadınla yüz dirhem mehir üzerinden evlenmiş, kadının emsal mehri on dirhem olmuş ve bir kişiye malının üçte birini vasiyet etmiş olsun. Bunun hesabı şöyledir: Kadına emsal mehri olan on dirhemi ver. Doksan dirhem kalır. Bundan kadına vasiyeti olarak bir bilinmeyen ver. Üçte biri vasiyet edilen kişiye de bir bilinmeyen ver; çünkü üçte bir ikisi arasında yarı yarıya bölünür. Kadın ne alırsa üçte birin sahibi de o kadar alır. Bu yüzden üçte birin sahibine de bir bilinmeyen verirsin. Sonra kocanın kadından mirası olarak beş dirhemle bilinmeyenin yarısı, kocanın mirasçılarına geri döner.
+
+Kocanın mirasçılarının elinde doksan beş eksi bir buçuk bilinmeyen kalır. Bu, dört bilinmeyene eşittir. Bir buçuk bilinmeyen ekleyerek tamamla. Doksan beş, beş buçuk bilinmeyene eşit olur. Bunları yarımlar hâline getir; on bir yarım olur. Dirhemleri de yarımlar hâline getir; yüz doksan yarım elde edilir. Bu, on bir bilinmeyene eşittir. Bir bilinmeyen, on yedi dirhemle bir dirhemin on birde üçüne eşittir. Vasiyet budur.
+
+Adam kadınla yüz dirhem mehir üzerinden evlenmiş, kadının emsal mehri on dirhem olmuş olsun. Kadın kocadan önce ölsün; on dirhem bıraksın ve malının üçte birini vasiyet etsin. Ardından koca ölsün; yüz yirmi dirhem bıraksın ve bir kişiye malının üçte birini vasiyet etsin. Bunun hesabı şöyledir: Kadına mehri olan on dirhemi ver. Kocanın mirasçılarının elinde yüz on dirhem kalır.
+
+
+ÖLÜM HASTALIĞINDA AZAT
+
+[PDF görüntüsü 101]
+Bu miktardan kadının vasiyeti bir bilinmeyendir. Yüz on dirhem eksi bilinmeyen kalır. Kadının mirasçılarının elinde yirmi dirhemle bilinmeyen olur. Kadın bunun üçte birini, yani altı dirhemle bir dirhemin üçte ikisini ve bilinmeyenin üçte birini vasiyet etmiştir. Kalıntının yarısı miras yoluyla kocanın mirasçılarına döner. Bu, altı dirhemle bir dirhemin üçte ikisi ve bilinmeyenin üçte biridir. Kocanın mirasçılarının elinde yüz on altı dirhemle bir dirhemin üçte ikisi, eksi bir bilinmeyen ve bilinmeyenin üçte ikisi olur. Bu, iki vasiyetin iki katına, yani dört bilinmeyene eşittir. Eksileni ekleyerek tamamla. Yüz on altı dirhemle bir dirhemin üçte ikisi, beş bilinmeyenle bilinmeyenin üçte ikisine eşit olur. Bir bilinmeyen, yirmi dirhemle bir dirhemin on yedide onuna eşittir. Vasiyet budur. Bunu bil.
+
+Ölüm hastalığında köle azat etme bölümü
+
+Bir adam hastalığında kendisine ait iki köleyi azat etsin. Efendi bir oğlanla bir kız bırakmış olsun. Sonra kölelerden biri ölsün; kendi değerinden fazla mal ve bir kız bıraksın. Köle efendiden önce ölmüşse, onun değerinin üçte ikisini, öteki kölenin çalışarak ödediğini ve efendinin ondan aldığı mirası oğlanla kız arasında, erkeğe kadının iki katı olacak biçimde bölüştür.
+
+Köle efendiden sonra ölmüşse, onun değerinin üçte ikisini ve öteki kölenin çalışarak ödediğini oğlanla kız arasında, erkeğe kadının iki katı olacak biçimde bölüştür. Bundan sonra kalan yalnız oğlanındır, kızın değildir. Çünkü kölenin mirasının yarısı kölenin kızınındır; yarısı ise velâ yoluyla efendinin oğlunundur. Efendinin kızına bundan bir şey yoktur. Bir adam ölüm hastalığında bir kölesini azat etse, bundan başka malı olmasa ve köle efendiden önce ölse de durum böyledir.
+
+Adam hastalığında bir köleyi azat etse ve bundan başka malı bulunmasa, köle kendi değerinin üçte ikisini çalışarak öder. Efendi ondan bu üçte ikiyi önceden tahsil etmiş, harcamış ve sonra ölmüşse köle, kalan değerinin üçte ikisini çalışarak öder. Efendi köleden değerinin tamamını tahsil edip harcamışsa artık köleden bir talepte bulunulamaz; çünkü kendi değerinin tamamını ödemiştir.
+
+Adam ölüm hastalığında, değeri üç yüz dirhem olan bir kölesini azat etmiş ve bundan başka malı bulunmamış olsun. Sonra köle ölsün; üç yüz dirhem ve bir kız bıraksın. Bunun hesabı şöyledir: Kölenin vasiyetini bir bilinmeyen al. Değerinden kalan miktarı, yani üç yüz eksi bilinmeyeni çalışarak öder. Böylece efendinin eline çalışarak ödenen miktar, yani üç yüz eksi bilinmeyen geçer.
+
+[PDF görüntüsü 102]
+Sonra köle ölür; bir bilinmeyen miktar bırakır ve bir kız bırakır. Kızın bundan alacağı yarıdır, yani bilinmeyenin yarısıdır. Efendinin alacağı da aynı kadardır. Efendinin mirasçılarının elinde üç yüz eksi yarım bilinmeyen olur. Bu, bir bilinmeyen olan vasiyetin iki katı, yani iki bilinmeyendir. Üç yüzü yarım bilinmeyenle tamamla; o miktarı iki bilinmeyene de ekle. Üç yüz, iki buçuk bilinmeyene eşit olur. Bir bilinmeyen bunun beşte ikisidir; yüz yirmidir. Vasiyet budur; çalışarak ödenecek miktar yüz seksendir.
+
+Adam köleyi hastalığında azat etmiş, kölenin değeri üç yüz dirhem olmuş olsun. Köle ölüp dört yüz dirhem bıraksın; on dirhem borcu, iki kızı ve bir kişiye malının üçte biri kadar vasiyeti bulunsun. Efendinin de yirmi dirhem borcu olsun. Bunun hesabı şöyledir: Kölenin vasiyetini bir bilinmeyen, çalışarak ödeyeceği miktarı da değerinden kalan, yani üç yüz eksi bilinmeyen al. Köle ölünce dört yüz dirhem bırakır. Buradan çalışarak ödenecek miktar, yani üç yüz eksi bilinmeyen, efendiye ödenir. Kölenin mirasçılarının elinde yüz dirhemle bilinmeyen kalır. On dirhemlik borcu ödenir; doksan dirhemle bilinmeyen kalır.
+
+Bunun üçte birini, yani otuz dirhemle bilinmeyenin üçte birini vasiyet etmiştir. Bundan sonra mirasçılarına altmış dirhemle bilinmeyenin üçte ikisi kalır. İki kıza bunun üçte ikisi, yani kırk dirhemle bilinmeyenin dokuzda dördü düşer. Efendiye yirmi dirhemle bilinmeyenin dokuzda ikisi düşer. Efendinin mirasçılarının elinde üç yüz yirmi eksi bilinmeyenin dokuzda yedisi olur. Buradan efendinin yirmi dirhemlik borcu ödenir. Üç yüz eksi bilinmeyenin dokuzda yedisi kalır. Bu, kölenin bir bilinmeyen olan vasiyetinin iki katı, yani iki bilinmeyendir. Üç yüzü bilinmeyenin dokuzda yedisiyle tamamla; bu miktarı iki bilinmeyene ekle. Üç yüz, iki bilinmeyenle bilinmeyenin dokuzda yedisine eşit kalır. Bir bilinmeyen bunun yirmi beşte dokuzudur; yüz sekiz olur. Köleye düşen miktar budur.
+
+Adam hastalığında iki kölesini azat etsin; başka malı bulunmasın ve her birinin değeri üç yüz dirhem olsun. Efendi birinden değerinin üçte ikisini önceden tahsil edip harcasın; sonra efendi ölsün. Onun malı, önceden tahsilat yaptığı kölenin değerinin üçte biridir. Efendinin malı, tahsilat yapacağı kölenin bütün değeriyle önceden tahsilat yaptığı kölenin değerinin üçte biri, yani yüz dirhemdir; toplam dört yüz dirhemdir. Bunun üçte biri, ikisi arasında yarı yarıya bölünür; yüz otuz üç dirhemle bir dirhemin üçte biridir.
+
+[PDF görüntüsü 103]
+Her birine altmış altı dirhemle bir dirhemin üçte ikisi düşer. Değerinin üçte ikisi önceden tahsil edilmiş olan köle, otuz üç dirhemle bir dirhemin üçte birini çalışarak öder. Çünkü yüzün altmış altı dirhemle bir dirhemin üçte ikisi ona vasiyet olarak düşmüştür; yüzden kalanı çalışarak öder. Öteki ise iki yüz otuz üç dirhemle bir dirhemin üçte birini çalışarak öder.
+
+Adam hastalığında iki kölesini azat etsin. Birinin değeri üç yüz, ötekinin değeri beş yüz dirhem olsun. Değeri üç yüz dirhem olan ölsün; bir kız ve dört yüz dirhem bıraksın. Efendi bir oğlan bırakmış olsun. Her biri ne kadar çalışarak öder?
+
+Bunun hesabı şöyledir: Değeri üç yüz dirhem olan kölenin vasiyetini bir bilinmeyen, çalışarak ödeyeceğini üç yüz eksi bilinmeyen al. Değeri beş yüz dirhem olanın vasiyetini bir bilinmeyenle bilinmeyenin üçte ikisi, çalışarak ödeyeceğini beş yüz dirhem eksi bir bilinmeyen ve bilinmeyenin üçte ikisi al. Çünkü bunun değeri ilkinin değeriyle onun üçte ikisinin toplamıdır. Birine bir bilinmeyen düşerse ötekine de bununla üçte ikisinin toplamı düşer.
+
+Değeri üç yüz dirhem olan ölür ve dört yüz dirhem bırakır. Bundan çalışarak ödenecek üç yüz eksi bilinmeyen çıkarılır. Mirasçılarının elinde yüz dirhemle bilinmeyen kalır. Yarısı, yani elli dirhemle yarım bilinmeyen, kızınındır. Geriye kalan elli dirhemle yarım bilinmeyen, efendinin mirasçılarının olup üç yüz eksi bilinmeyene eklenir. Üç yüz elli eksi yarım bilinmeyen olur. Öteki köleden çalışarak ödeyeceği miktarı, yani beş yüz dirhem eksi bir bilinmeyen ve bilinmeyenin üçte ikisini alırlar.
+
+Ellerinde sekiz yüz elli dirhem eksi iki bilinmeyen ve bilinmeyenin altıda biri olur. Bu, toplam iki bilinmeyenle bilinmeyenin üçte ikisi olan iki vasiyetin iki katıdır. Eksileni ekleyerek tamamla. Sekiz yüz elli dirhem, yedi buçuk bilinmeyene eşit olur. Buna göre işlem yap. Bir bilinmeyen, yüz on üç dirhemle bir dirhemin üçte birine eşittir. Bu, değeri üç yüz dirhem olan kölenin vasiyetidir. Ötekinin vasiyeti bununla üçte ikisinin toplamıdır; yüz seksen sekiz dirhemle bir dirhemin dokuzda sekizidir. Çalışarak ödeyeceği, üç yüz on bir dirhemle bir dirhemin dokuzda biridir.
+
+Adam hastalığında, her birinin değeri üç yüz dirhem olan iki kölesini azat etsin. Sonra biri ölsün; beş yüz dirhemle bir kız bıraksın. Efendi bir oğlan bırakmış olsun. Bunun hesabı, her birinin vasiyetini bir bilinmeyen ve çalışarak ödeyeceğini üç yüz eksi bilinmeyen almaktır.
+
+[PDF görüntüsü 104]
+Ölenin terekesini beş yüz dirhem, çalışarak ödeyeceğini üç yüz eksi bilinmeyen al. Bıraktığından iki yüzle bilinmeyen kalır. Yarısı, yani yüz dirhemle yarım bilinmeyen, miras yoluyla efendisine döner. Efendinin mirasçılarının elinde dört yüz dirhem eksi yarım bilinmeyen olur. Öteki köleden de çalışarak ödeyeceği üç yüz dirhem eksi bilinmeyeni alırlar. Ellerinde yedi yüz dirhem, bir yarım ve bir bilinmeyen olur. Bu, iki bilinmeyen olan vasiyetlerinin iki katı, yani dört bilinmeyendir. Bir buçuk bilinmeyen ekleyerek tamamla. Yedi yüz dirhem, beş buçuk bilinmeyene eşit olur. Buna göre işlem yap. Bir bilinmeyen yüz yirmi yedi dirhemle bir dirhemin on birde üçüdür.
+
+Adam hastalığında, değeri üç yüz dirhem olan bir kölesini azat etsin. Efendi ondan iki yüz dirhemi önceden tahsil edip harcamış olsun. Sonra köle efendiden önce ölsün; bir kızla üç yüz dirhem bıraksın. Bunun hesabı şöyledir: Kölenin terekesini, üç yüz dirhemle efendinin harcadığı iki yüzün toplamı olarak al; bu beş yüz dirhemdir. Bundan çalışarak ödenecek miktarı, yani üç yüz eksi bilinmeyeni ayır; çünkü vasiyeti bir bilinmeyendir. İki yüz dirhemle bilinmeyen kalır. Yarısı, yani yüz dirhemle yarım bilinmeyen kızınındır. Yarısı, yani yüz dirhemle yarım bilinmeyen, efendinin mirasçılarına miras yoluyla geri döner. Ellerindeki üç yüz dirhem eksi bilinmeyenden, iki yüz harcandığı için yüz dirhem eksi bilinmeyen vardır. Harcanmış iki yüzden sonra ellerinde iki yüz dirhem eksi yarım bilinmeyen kalır. Bu, kölenin vasiyetinin iki katına eşittir.
+
+Bunun yarısı yüz eksi bilinmeyenin dörtte biridir; kölenin bir bilinmeyen olan vasiyetine eşittir. Bilinmeyenin dörtte birini ekleyerek tamamla. Yüz dirhem, bir bilinmeyenle bilinmeyenin dörtte birine eşit olur. Bir bilinmeyen bunun beşte dördüdür; seksen dirhemdir. Vasiyet budur; çalışarak ödenecek miktar iki yüz yirmi dirhemdir.
+
+Kölenin üç yüzlük terekesiyle efendinin harcadığı iki yüzü topla; beş yüz dirhem eder. Efendiye çalışarak ödenecek iki yüz yirmi dirhemi ver. İki yüz seksen kalır. Yarısı, yani yüz kırk dirhem kızınındır. Bunu kölenin üç yüzlük terekesiyle efendinin harcadığı iki yüzün toplamından çıkar; bu beş yüz dirhemdir. Efendiye çalışarak ödenecek iki yüz yirmi dirhem verilir. İki yüz seksen kalır. Yarısı, yani yüz kırk dirhem kızınındır. Bunu kölenin üç yüzlük terekesinden çıkar. Mirasçıların elinde yüz altmış dirhem kalır. Bu, kölenin bir bilinmeyen olan vasiyetinin iki katıdır.
+
+Adam hastalığında, değeri üç yüz dirhem olan bir kölesini azat etmiş ve efendi ondan beş yüz dirhemi önceden tahsil etmiş olsun.
+
+[PDF görüntüsü 105]
+Sonra köle efendiden önce ölsün; bin dirhemle bir kız bıraksın. Efendinin iki yüz dirhem borcu olsun. Bunun hesabı şöyledir: Kölenin terekesini bin dirhemle efendinin harcadığı beş yüzün toplamı olarak al. Çalışarak ödenecek miktar bundan üç yüz eksi bilinmeyendir. Bin iki yüzle bilinmeyen kalır. Yarısı, yani altı yüz dirhemle yarım bilinmeyen, kölenin kızınındır. Bunu kölenin bin dirhemlik terekesinden çıkar. Dört yüz dirhem eksi yarım bilinmeyen kalır. Buradan efendinin iki yüz dirhemlik borcu ödenir. İki yüz dirhem eksi yarım bilinmeyen kalır. Bu, bir bilinmeyen olan vasiyetin iki katı, yani iki bilinmeyendir. Yarım bilinmeyen ekleyerek tamamla. İki yüz dirhem, iki buçuk bilinmeyene eşit olur. Buna göre işlem yap. Bir bilinmeyen seksen dirheme eşittir. Vasiyet budur.
+
+Kölenin terekesiyle efendinin önceden tahsil ettiğini topla; bin beş yüz dirhemdir. Bundan çalışarak ödenecek iki yüz yirmi dirhemi çıkar. Bin iki yüz seksen dirhem kalır. Yarısı, yani altı yüz kırk dirhem kızınındır. Bunu kölenin bin dirhemlik terekesinden çıkar. Üç yüz altmış dirhem kalır. Buradan efendinin iki yüz dirhemlik borcu ödenir. Mirasçıların elinde yüz altmış dirhem kalır. Bu, vasiyetin iki katıdır.
+
+Adam hastalığında, değeri beş yüz dirhem olan bir kölesini azat etsin. Ondan altı yüz dirhemi önceden tahsil edip harcasın. Efendinin üç yüz dirhem borcu olsun. Sonra köle ölsün; annesini ve efendisini, ayrıca bin yedi yüz elli dirhem bıraksın. Kölenin iki yüz dirhem borcu bulunsun.
+
+Bunun hesabı şöyledir: Kölenin bin yedi yüz elli dirhemlik terekesiyle efendinin önceden tahsil ettiği altı yüzü topla. İki bin üç yüz elli dirhem eder. Bundan iki yüz dirhemlik borcu ve çalışarak ödenecek beş yüz dirhem eksi bilinmeyeni ayır. Vasiyet bir bilinmeyendir. Bin altı yüz elli dirhemle bilinmeyen kalır. Üçte biri, yani beş yüz elliyle bilinmeyenin üçte biri annenindir. Bunu ve iki yüz dirhemlik borcu, kölenin mevcut bin yedi yüz ellilik terekesinden çıkar. Bin dirhem eksi bilinmeyenin üçte biri kalır. Buradan efendinin üç yüz dirhemlik borcu ödenir. Yedi yüz dirhem eksi bilinmeyenin üçte biri kalır. Bu, kölenin bir bilinmeyen olan vasiyetinin iki katıdır. Bunun yarısı üç yüz elli eksi bilinmeyenin altıda biridir.
+
+[PDF görüntüsü 106]
+Bu, bir bilinmeyene eşittir. Bilinmeyenin altıda birini ekleyerek tamamla. Üç yüz elli, bir bilinmeyenle bilinmeyenin altıda birine eşit olur. Bir bilinmeyen, üç yüz ellinin yedide altısıdır; üç yüz dirhemdir. Vasiyet budur.
+
+Kölenin terekesiyle efendinin harcadığını topla; iki bin üç yüz elli dirhemdir. Bundan iki yüz dirhemlik borcu ayır. Sonra çalışarak ödenecek miktarı, yani kişinin değerinden vasiyet çıkarıldıktan sonra kalan iki yüz dirhemi ayır. Bin dokuz yüz elli dirhem kalır. Üçte biri, yani altı yüz elli dirhem annenindir. Bunu ve iki yüz dirhemlik borcu, kölenin mevcut bin yedi yüz ellilik terekesinden çıkar. Dokuz yüz dirhem kalır. Buradan efendinin üç yüz dirhemlik borcu ödenir. Altı yüz dirhem kalır. Bu, vasiyetin iki katıdır.
+
+Adam hastalığında, değeri üç yüz dirhem olan bir kölesini azat etsin. Sonra köle ölsün; bir kızla üç yüz dirhem bıraksın. Ardından kız ölsün; bir kocayla üç yüz dirhem bıraksın. Sonra efendi ölsün.
+
+Bunun hesabı şöyledir: Kölenin terekesini üç yüz dirhem, çalışarak ödeyeceğini üç yüz eksi bilinmeyen al. Bir bilinmeyen kalır; yarısı kızın, yarısı efendinindir. Kızın yarım bilinmeyen olan hissesini üç yüzlük terekesine ekle. Üç yüz dirhemle yarım bilinmeyen olur. Yarısı kocanındır. Yarısı, yani yüz elliyle bilinmeyenin dörtte biri, efendiye geri döner. Efendinin elindeki toplam dört yüz elli eksi bilinmeyenin dörtte biri olur. Bu, vasiyetin iki katıdır. Yarısı, vasiyetin kendisi kadardır: iki yüz yirmi beş dirhem eksi bilinmeyenin sekizde biri, bir bilinmeyene eşittir. Bilinmeyenin sekizde birini ekleyerek tamamla; onu bilinmeyene de ekle. İki yüz yirmi beş dirhem, bir bilinmeyenle bilinmeyenin sekizde birine eşit olur. Buna göre işlem yap. Bir bilinmeyen, iki yüz yirmi beşin dokuzda sekizidir; iki yüz dirhemdir.
+
+Adam hastalığında, değeri üç yüz dirhem olan bir kölesini azat etsin. Köle ölsün; beş yüz dirhemle bir kız bıraksın ve malının üçte birini vasiyet etsin. Ardından kız ölsün; annesini ve üç yüz dirhem bıraksın, malının üçte birini vasiyet etsin. Bunun hesabı şöyledir: Kölenin terekesinden çalışarak ödenecek üç yüz dirhem eksi bilinmeyeni çıkar. İki yüz dirhemle bilinmeyen kalır. Malının üçte birini, yani altmış altı dirhemle bir dirhemin üçte ikisini ve bilinmeyenin üçte birini vasiyet etmiştir.
+
+[PDF görüntüsü 107]
+Efendiye mirası olarak altmış altı dirhemle bir dirhemin üçte ikisi ve bilinmeyenin üçte biri döner. Kızına da aynı miktar düşer. Bunu, bıraktığı üç yüz dirheme ekler. Üç yüz altmış altı dirhemle bir dirhemin üçte ikisi ve bilinmeyenin üçte biri olur. Kız malının üçte birini, yani yüz yirmi iki dirhemle bir dirhemin dokuzda ikisini ve bilinmeyenin dokuzda birini vasiyet etmiştir. İki yüz kırk dört dirhemle bir dirhemin dokuzda dördü ve bilinmeyenin dokuzda ikisi kalır.
+
+Annenin bundan alacağı üçte birdir: seksen bir dirhemle bir dirhemin dokuzda dördü ve dokuzda birinin üçte biri; ayrıca bilinmeyenin dokuzda birinin üçte ikisi. Geriye kalan, yani yüz altmış iki dirhemle bir dirhemin dokuzda birinin üçte ikisi; ayrıca bilinmeyenin dokuzda biriyle dokuzda birinin üçte biri, efendiye miras olarak döner; çünkü onun hissesidir.
+
+Efendinin mirasçılarının elinde beş yüz yirmi dokuz dirhemle bir dirhemin yirmi yedide on yedisi, eksi bilinmeyenin dokuzda dördü ve dokuzda birinin üçte biri bulunur. Bu, bir bilinmeyen olan vasiyetin iki katıdır. Yarısı iki yüz altmış dört dirhemle bir dirhemin yirmi yedide yirmi ikisi, eksi bilinmeyenin yirmi yedide yedisidir. Bu yedi parçayı ekleyerek tamamla ve onları bilinmeyene ekle. İki yüz altmış dört dirhemle bir dirhemin yirmi yedide yirmi ikisi, bir bilinmeyenle bilinmeyenin yirmi yedide yedisine eşit olur.
+
+Buna göre işlem yapıp bir bilinmeyene indirgemek için ondan otuz dörtte yedisini çıkar. Bir bilinmeyen, iki yüz on dirhemle bir dirhemin on yedide beşine eşit olur. Vasiyet budur.
+
+Adam hastalığında, değeri yüz dirhem olan bir kölesini azat etsin. Bir adama da değeri beş yüz dirhem olan bir cariye hibe etsin. Cariyeyle cinsel ilişki nedeniyle ödenecek bedel yüz dirhem olsun. Hibe alan kişi onunla cinsel ilişkide bulunsun. Ebû Hanîfe'nin görüşüne göre azat etme önceliklidir; önce o uygulanır.
+
+Onun görüşüne göre hesap şöyledir: Cariyenin değerini beş yüz, erkek kölenin değerini yüz dirhem al. Cariyeyi alan kişinin vasiyetini başka bir bilinmeyen al. Değeri yüz dirhem olan kölenin azat edilmesi geçerli kılınmıştır. Hibe alana bir bilinmeyen vasiyet edilmiştir. Cinsel ilişki bedelinin yüz dirhem eksi bilinmeyenin beşte biri olan kısmı geri verilir. Mirasçıların elinde altı yüz dirhem eksi bir bilinmeyen ve bilinmeyenin beşte biri olur.
+
+[PDF görüntüsü 108]
+Bu, yüz dirhemle bir bilinmeyenin toplamının iki katıdır. Yarısı, iki vasiyet kadar olup üç yüz eksi bilinmeyenin beşte üçüdür. Üç yüzü bilinmeyenin beşte üçüyle tamamla; aynı miktarı bilinmeyene ekle. Üç yüz dirhem, bir bilinmeyenle bilinmeyenin beşte üçüne ve yüz dirheme eşit olur. Üç yüzden yüzü yüz karşılığı çıkar. İki yüz dirhem, bir bilinmeyenle bilinmeyenin beşte üçüne eşit kalır. Buna göre işlem yap. Bir bilinmeyen bunun sekizde beşidir. İki yüzün sekizde beşini al; yüz yirmi beştir. Cariyenin vasiyet edildiği kişiye düşen bilinmeyen, yani vasiyet budur.
+
+Adam değeri yüz dirhem olan bir kölesini azat etsin. Bir adama da değeri beş yüz dirhem, cinsel ilişki bedeli yüz dirhem olan bir cariye hibe etsin. Hibe alan onunla cinsel ilişkide bulunsun. Hibe eden kişi ayrıca birine malının üçte birini vasiyet etsin. Ebû Hanîfe'nin görüşüne göre hesapta, cariyeyi alan kişi üçte birden fazlasıyla hesaba katılmaz; üçte bir ikisi arasında yarı yarıya olur.
+
+Hesap şöyledir: Cariyenin değerini beş yüz dirhem, bundan yapılan vasiyeti bir bilinmeyen al. Mirasçıların elinde bundan beş yüz dirhem eksi bir bilinmeyen olur. Cinsel ilişki bedeli yüz eksi bilinmeyenin beşte biridir. Ellerinde altı yüz eksi bir bilinmeyen ve bilinmeyenin beşte biri olur. Bir kişiye malının üçte biri vasiyet edilmiştir. Bu, cariyeyi alanın vasiyetiyle aynı, yani bir bilinmeyendir. Mirasçıların elinde altı yüz eksi iki bilinmeyen ve bilinmeyenin beşte biri kalır. Bu, hepsinin vasiyetlerinin, yani kölenin değeriyle vasiyet edilen iki bilinmeyenin toplamının iki katıdır.
+
+Yarısı, üç yüz eksi bir bilinmeyen ve bilinmeyenin onda biri, vasiyetlerin toplamına eşittir. Bir bilinmeyenle bilinmeyenin onda birini ekleyerek tamamla. Üç yüz; üç bilinmeyene, bilinmeyenin onda birine ve yüz dirheme eşit olur. Yüzü yüz karşılığı çıkar. İki yüz, üç bilinmeyenle bilinmeyenin onda birine eşit kalır. Buna göre işlem yap. Bir bilinmeyen buradan bir dirhemin otuz birde onudur. İki yüzden bu oranda alınan vasiyet, altmış dört dirhemle bir dirhemin otuz birde on altısıdır.
+
+Adam değeri yüz dirhem olan bir cariyeyi azat etsin. Bir adama da değeri beş yüz dirhem olan bir cariye hibe etsin. Hibe alan onunla cinsel ilişkide bulunsun; cinsel ilişki bedeli yüz dirhem olsun. Hibe eden kişi birine malının dörtte birini vasiyet etsin. Ebû Hanîfe'ye göre cariyeyi alan kişi üçte birden fazlasıyla hesaba katılmaz; dörtte birin sahibi ise dörtte birle hesaba katılır. Hesap şöyledir: Cariyenin değeri beş yüz dirhem, bundan yapılan vasiyet bir bilinmeyendir.
+
+
+DEVIR HESABINDA AKR BEDELI
+
+[PDF görüntüsü 109]
+Beş yüz dirhem eksi bilinmeyen kalır. Yüz dirhem eksi bilinmeyenin beşte biri olan cinsel ilişki bedelini alırlar. Mirasçıların elinde altı yüz dirhem eksi bir bilinmeyen ve bilinmeyenin beşte biri olur. Sonra dörtte birin sahibinin vasiyetini, yani bilinmeyenin dörtte üçünü ayırırsın. Çünkü üçte bir bir bilinmeyense dörtte bir onun dörtte üçüdür. Altı yüz dirhem eksi bir bilinmeyen ve bilinmeyenin kırkta otuz sekizi kalır. Bu, vasiyetin iki katıdır. Yarısı vasiyetlerinin toplamına eşittir: üç yüz dirhem eksi bilinmeyenin kırkta otuz dokuzu.
+
+Bu parçaları ekleyerek tamamla. Üç yüz dirhem, yüz dirhemle iki bilinmeyene ve bilinmeyenin kırkta yirmi dokuzuna eşit olur. Yüzü yüz karşılığı çıkar. İki yüz dirhem, iki bilinmeyenle bilinmeyenin kırkta yirmi dokuzuna eşit kalır. Buna göre işlem yap. Bir bilinmeyen, yetmiş üç dirhemle bir dirhemin yüz dokuzda kırk üçüne eşit olur.
+
+Devir hesabında cinsel ilişki bedeli bölümü
+
+Bir adam ölüm hastalığında bir adama cariye hibe etsin. Bundan başka malı bulunmasın. Sonra ölsün; cariyenin değeri üç yüz dirhem, cinsel ilişki bedeli yüz dirhem olsun. Hibeyi alan kişi onunla cinsel ilişkide bulunsun. Bunun hesabı şöyledir: Cariyenin hibe edildiği kişinin vasiyetini bir bilinmeyen al. Hibeden üç yüz eksi bilinmeyen geri alınır. Geri alınan miktarın üçte biri, cinsel ilişki bedeli olarak hibe edenin mirasçılarına döner. Çünkü bu bedel değerin üçte biridir. Bu, yüz dirhem eksi bilinmeyenin üçte biridir.
+
+Hibe edenin mirasçılarının elinde dört yüz eksi bir bilinmeyen ve bilinmeyenin üçte biri olur. Bu, bir bilinmeyen olan vasiyetin iki katı, yani iki bilinmeyendir. Dört yüzü bir bilinmeyenle bilinmeyenin üçte birini ekleyerek tamamla; bunları iki bilinmeyene de ekle. Dört yüz, üç bilinmeyenle bilinmeyenin üçte birine eşit olur. Bir bilinmeyen bunun onda üçüdür; yüz yirmi dirhemdir. Vasiyet budur.
+
+Şöyle dense: Kişi cariyeyi hastalığında hibe etmiş; değeri üç yüz, cinsel ilişki bedeli yüz olmuş; onunla hibe eden kişinin kendisi cinsel ilişkide bulunmuş, sonra ölmüş olsun. Bunun hesabı şöyledir: Vasiyeti bir bilinmeyen, geri alınanı üç yüz eksi bilinmeyen al. Hibe eden cinsel ilişkide bulunduğu için bu bedeli ödemekle yükümlü olur. Bedel vasiyetin üçte biridir; çünkü bedel değerin üçte biridir. Bu, bilinmeyenin üçte biridir. Hibe edenin mirasçılarının elinde üç yüz eksi bir bilinmeyen ve bilinmeyenin üçte biri olur. Bu, bir bilinmeyen olan vasiyetin iki katı, yani iki bilinmeyendir.
+
+[PDF görüntüsü 110]
+Bir bilinmeyenle bilinmeyenin üçte birini ekleyerek tamamla; onları iki bilinmeyene de ekle. Üç yüz, üç bilinmeyenle bilinmeyenin üçte birine eşit olur. Bir bilinmeyen bunun onda üçüdür; doksan dirhemdir. Vasiyet budur.
+
+Mesele aynı durumda olsun; hem hibe eden hem hibe alan cariyeyle cinsel ilişkide bulunmuş olsun. Bunun hesabı şöyledir: Vasiyeti bir bilinmeyen, hibeden geri alınanı üç yüz eksi bilinmeyen al. Hibe eden, cinsel ilişki nedeniyle hibe alana bilinmeyenin üçte biri tutarında bedel ödemekle yükümlüdür. Hibe alan ise geri alınan miktarın üçte birini, yani yüz eksi bilinmeyenin üçte birini ödemekle yükümlüdür. Hibe edenin mirasçılarının elinde dört yüz eksi bir bilinmeyen ve bilinmeyenin üçte ikisi olur. Bu, vasiyetin iki katıdır. Dört yüzü bir bilinmeyenle bilinmeyenin üçte ikisini ekleyerek tamamla; bu miktarları iki bilinmeyene de ekle. Dört yüz, üç bilinmeyenle bilinmeyenin üçte ikisine eşit olur. Bir bilinmeyen, dört yüzün on birde üçüdür; yüz dokuz dirhemle bir dirhemin on birde biridir. Vasiyet budur. Geri alınan miktar yüz doksan dirhemle bir dirhemin on birde onudur.
+
+Ebû Hanîfe'nin görüşüne göre bilinmeyen vasiyet sayılır; cinsel ilişki bedeli yoluyla kişiye geçen miktar da vasiyet sayılır.
+
+Mesele aynı durumda olsun; cariyeyle hibe eden kişi cinsel ilişkide bulunsun ve malının üçte birini vasiyet etsin. Ebû Hanîfe'nin görüşüne göre üçte bir, ikisi arasında yarı yarıya bölünür. Hesap şöyledir: Cariyenin hibe edildiği kişinin vasiyetini bir bilinmeyen al. Üç yüz eksi bilinmeyen kalır. Sonra bilinmeyenin üçte biri olan cinsel ilişki bedelini geri ver. Elinde üç yüz eksi bir bilinmeyen ve bilinmeyenin üçte biri kalır. Ebû Hanîfe'ye göre bunun vasiyeti bir bilinmeyenle bilinmeyenin üçte biridir; ötekinin görüşüne göre bir bilinmeyendir.
+
+Sonra üçte biri vasiyet edilen kişiye birincinin vasiyeti kadar, yani bir bilinmeyenle bilinmeyenin üçte birini ver. Elinde üç yüz eksi iki bilinmeyen ve bilinmeyenin üçte ikisi kalır. Bu, toplam iki bilinmeyenle bilinmeyenin üçte ikisi olan iki vasiyetin iki katına eşittir. Bunun yarısı, yüz elli eksi bir bilinmeyen ve bilinmeyenin üçte biri, iki vasiyete eşittir. Bir bilinmeyenle bilinmeyenin üçte birini ekleyerek tamamla; bunları iki vasiyete de ekle. Yüz elli, dört bilinmeyene eşit olur. Bir bilinmeyen bunun dörtte biridir; otuz yedi buçuktur.
+
+Şöyle dense: Hem hibe alan hem hibe eden onunla cinsel ilişkide bulunsun ve hibe eden malının üçte birini vasiyet etsin. Ebû Hanîfe'ye göre hesap şöyledir: Vasiyeti bir bilinmeyen al. Üç yüz eksi bir bilinmeyen kalır. Cinsel ilişki bedeli yüz eksi bilinmeyenin üçte biridir. Elinde dört yüz dirhem eksi bir bilinmeyen ve bilinmeyenin üçte biri olur. Bilinmeyenin üçte biri olan cinsel ilişki bedelini geri verir.
+
+[PDF görüntüsü 111]
+Üçte biri vasiyet edilen kişiye birincinin vasiyeti kadar, yani bir bilinmeyenle bilinmeyenin üçte birini verir. Dört yüz dirhem eksi üç bilinmeyen kalır. Bu, iki bilinmeyenle bilinmeyenin üçte ikisi olan vasiyetin iki katına eşittir. Üç bilinmeyen ekleyerek tamamla. Dört yüz, sekiz bilinmeyenle bilinmeyenin üçte birine eşit olur. Buna göre işlem yap. Bir bilinmeyen kırk sekiz dirheme eşittir.
+
+Şöyle dense: Bir adam hastalığında bir adama, değeri üç yüz dirhem ve cinsel ilişki bedeli yüz dirhem olan bir cariye hibe etsin. Hibe alan onunla cinsel ilişkide bulunsun. Sonra hibe alan da kendi hastalığında onu ilk hibe edene geri hibe etsin. İlk hibe eden onunla cinsel ilişkide bulunsun. Hibenin ne kadarı geçerlidir, ne kadarı geri alınır?
+
+Hesabı şöyledir: Değerini üç yüz dirhem, bundan yapılan vasiyeti bir bilinmeyen al. İlk hibe edenin mirasçılarının elinde üç yüz eksi bilinmeyen kalır. Hibe alanın eline bir bilinmeyen geçer. Hibe alan, ilk hibe edene bilinmeyenin bir bölümünü verir. Elinde bir bilinmeyen eksi bilinmeyenin bir bölümü kalır. Yüz eksi bilinmeyenin üçte biri ona geri verilir. Bilinmeyenin üçte biri eksi bilinmeyenin bir bölümünün üçte biri kadar cinsel ilişki bedeli alır. Elinde bir bilinmeyenle bilinmeyenin üçte ikisi, eksi yüz dirhem, eksi bilinmeyenin bir bölümü ve bu bölümün üçte biri olur. Bu, bilinmeyenin bir bölümünün iki katıdır.
+
+Yarısı da bu bölüm kadardır: bilinmeyenin altıda beşi, eksi elli dirhem, eksi bilinmeyenin bir bölümünün üçte ikisi. Bu bölümün üçte ikisini ve elli dirhemi ekleyerek tamamla. Bilinmeyenin altıda beşi, bilinmeyenin bir bölümüne, bu bölümün üçte ikisine ve elli dirheme eşit olur. Bölümü bulmak için bunu tek bir bölüme indirge; yani miktarların beşte üçünü al. Bilinmeyenin bir bölümü ile otuz dirhem, yarım bilinmeyene eşit olur. Böylece yarım bilinmeyen eksi otuz, bilinmeyenin bir bölümüne, yani hibe alanın ilk hibe edene yaptığı vasiyete eşittir. Bunu bil.
+
+Sonra ilk hibe edenin elinde kalan üç yüz eksi bilinmeyene dön. Ona bilinmeyenin bir bölümü, yani yarım bilinmeyen eksi otuz dirhem geçmiştir. Elinde iki yüz yetmiş eksi yarım bilinmeyen olur. Yüz dirhem eksi bilinmeyenin üçte biri olan cinsel ilişki bedelini alır. Cinsel ilişki bedeli olarak da bilinmeyenden bu bölüm çıkarıldıktan sonra kalanın üçte birini geri verir. Bu, bilinmeyenin altıda biriyle on dirhemdir. Elinde üç yüz altmış eksi bilinmeyen bulunur. Bu, bilinmeyenle geri verdiği cinsel ilişki bedelinin toplamının iki katıdır. Yarısı yüz seksen eksi yarım bilinmeyendir; bilinmeyenle cinsel ilişki bedelinin toplamına eşittir.
+
+
+ÖLÜM HASTALIĞINDA SELEM
+
+[PDF görüntüsü 112]
+Yarım bilinmeyen ekleyerek tamamla; onu bilinmeyenle cinsel ilişki bedeline de ekle. Yüz seksen dirhem, bir buçuk bilinmeyenle geri verilen cinsel ilişki bedeline eşit olur. Bu bedel bilinmeyenin altıda biriyle on dirhemdir. Onu on karşılığı düşür. Yüz yetmiş dirhem, bir bilinmeyenle bilinmeyenin üçte ikisine eşit kalır. Bilinmeyeni bulmak için bunun beşte üçünü al. Yüz iki, ilk hibe edenin hibe alana yaptığı vasiyet olan bilinmeyene eşittir. Hibe alanın ilk hibe edene yaptığı vasiyet ise bunun yarısı eksi otuz dirhemdir; yirmi birdir. Allah daha iyi bilir.
+
+Ölüm hastalığında selem bölümü
+
+Bir adam hastalığında, değeri on dirhem olan bir kür yiyecek için otuz dirhem peşin versin; sonra bu hastalığında ölsün. Bir kür geri verilir; ölenin mirasçılarına on dirhem de geri verilir.
+
+Hesabı şöyledir: Değeri on dirhem olan bir kürü geri ver. Böylece ona yirmi dirhemlik ayrıcalık tanınmıştır. Bu ayrıcalıktan geçerli vasiyet bir bilinmeyendir. Mirasçıların elinde yirmi eksi bilinmeyen olur. Kür de bunun içinde sayıldığında, toplam otuz dirhem eksi bilinmeyen, altmışa eşittir; bu vasiyetin iki katıdır. Otuzu bir bilinmeyenle tamamla; onu iki bilinmeyene de ekle. Otuz, üç bilinmeyene eşit olur. Bir bilinmeyen bunun üçte biridir; on dirhemdir. Ayrıcalığın geçerli olan kısmı budur.
+
+Kişi hastayken bir adama, değeri elli dirhem olan bir kür karşılığında yirmi dirhem peşin versin. Sonra hastalığında sözleşmeyi karşılıklı anlaşmayla bozsun ve ölsün. Kürün dokuzda dördüyle on bir dirhem ve bir dirhemin dokuzda biri geri verilir.
+
+Hesabı şöyledir: Kürün değerinin, verilen sermayenin iki buçuk katı olduğunu bilirsin. Sermayeden ne kadar geri verilirse kürden de onunla bir katının ve yarısının toplamı geri verilir. Kürden geri verilen miktarı bilinmeyenle ifade ettiğinde iki buçuk bilinmeyen alırsın. Bunu yirmiden kalana, yani yirmi eksi bilinmeyene ekle. Ölenin mirasçılarının elinde yirmi dirhemle bir buçuk bilinmeyen olur. Bunun yarısı, yani on dirhemle bilinmeyenin dörtte üçü, vasiyettir. Bu, malın üçte biridir; on altı dirhemle bir dirhemin üçte ikisidir.
+
+Onu on karşılığı çıkar. Altı dirhemle bir dirhemin üçte ikisi, bilinmeyenin dörtte üçüne eşit kalır. Bilinmeyeni tamamlamak için ona üçte birini ekle. Otuz altıya da üçte birini ekle; bu iki dirhemle bir dirhemin dokuzda ikisidir. Sekiz dirhemle bir dirhemin dokuzda sekizi, bir bilinmeyene eşit olur.
+
+[PDF görüntüsü 113]
+Sekiz dirhemle bir dirhemin dokuzda sekizinin, yirmi dirhem olan sermayenin ne kadarı olduğuna bak. Onun dokuzda dördü olduğunu bulursun. Kürün dokuzda dördünü geri ver; yirminin de dokuzda beşini geri ver. Kürün dokuzda dördünün değeri yirmi iki dirhemle bir dirhemin dokuzda ikisidir. Yirminin dokuzda beşi, on bir dirhemle bir dirhemin dokuzda biridir. Mirasçıların elinde otuz üç dirhemle bir dirhemin üçte biri olur. Bu, elli dirhemin üçte ikisidir. Allah daha iyi bilir.
+
+[Müstensih kaydı]
+
+Kitap, Allah'a hamd ile; O'nun lütfu, yardımı ve doğruya yöneltmesiyle tamamlandı. Nüshasının yazılması, hicrî yedi yüz otuz dört yılının aylarından muharremin on dokuzu olan pazar günü bitirildi. Hicretin sahibine ve ailesine en üstün salât ve selâm olsun. Allah, efendimiz Muhammed'e ve ailesine salât ve selâm eylesin.
