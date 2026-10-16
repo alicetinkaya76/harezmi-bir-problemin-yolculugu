@@ -1,0 +1,12 @@
+HİKMET EVİ — İKİ AYRI TARİHÎ CANLANDIRMA
+
+Anna_Komnena_Hacli_Kalabaligi_v2.png
+Konstantinopolis’e gelen halk Haçlıları, 1096. Jonathan Lyons’un Hikmet Evi kitabının ilk bölümündeki anlatı ve Anna Komnena’dan aktardığı kalabalık betimlemesi temel alındı. Kaynak: basılı s. 29–30; PDF 28–29. Prensesin kendisi resmedilmedi. Soluk beniz ve mavi göz ayrıntıları Lyons’un çevre anlatısındadır; Anna’nın doğrudan sözleri gibi sunulmamalıdır.
+
+Kesis_Pierre_Beyaz_Katir.png
+Keşiş Pierre l’Ermite: küçük yapılı; beyaz katır üzerinde; kaba yün gömlek, ayak bileğine uzanan pelerin, çıplak kollar ve ayaklar. Kaynak: basılı s. 30; PDF 29. Saç, sakal, yaş, yüz ve arka plan kitaptaki bu pasajda kesinleştirilmediği için çizimde sanatçı yorumudur.
+
+İki görsel de yerleşik Imagegen aracıyla üretildi. Tarihî canlandırmadır; dönemden kalma belge veya doğrulanmış portre değildir. Şehir görünümü ve arka plan temsildir.
+
+İlk üretim komutları Uretim_Promptlari_ve_Kaynak.json dosyasındadır. Anna görselinin mimari düzeltme komutu:
+Edit the referenced historical illustration. Keep the entire foreground crowd, all individual people, their faces and clothing, the composition, light, wall arrangement and overall naturalistic painted style unchanged. Correct ONLY the background city skyline to be Byzantine Constantinople in the year 1096. Remove EVERY minaret and every Ottoman or Islamic architectural addition: there were no minarets around Hagia Sophia or in the city skyline in 1096. The large domed building should be Hagia Sophia as a Byzantine church, with its great dome, half-domes and massive buttressed masonry, no minarets and no crescents. Replace the thin pencil-like pointed minarets elsewhere in the distant skyline with unobtrusive period-appropriate Byzantine church roofs or low buildings. Retain Byzantine fortification towers and cypress trees. Do not add text, labels, halos, modern flags, new people, new prominent objects or watermark. Preserve the human character and facial details of the crowd exactly. This remains an interpretive historical reconstruction.

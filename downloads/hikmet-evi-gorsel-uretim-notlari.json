@@ -1,0 +1,27 @@
+{
+  "method": "Built-in image_gen",
+  "date": "2026-10-16",
+  "source": "Jonathan Lyons, Hikmet Evi, supplied PDF; basılı sayfa 29–30; görseller tarihî canlandırmadır.",
+  "prompts": [
+    {
+      "key": "anna_crusaders",
+      "prompt": "Use case: historical-scene. Asset type: separate illustration for a Turkish reading-group presentation on Jonathan Lyons's The House of Wisdom (Hikmet Evi). Primary request: visualize the mass of western crusaders arriving outside Constantinople in 1096 as evoked by Byzantine princess Anna Komnene in the opening chapter. Show the People's Crusade as a dense, uneven procession of ordinary medieval men, women, a few children and elderly people, poor pilgrims carrying bundles and wooden staffs; a few plainly equipped fighters among them. They fill the broad road and continue into the middle distance toward the land walls of Constantinople, suggesting a seemingly continuous mass moving east. Mostly worn wool and linen tunics, cloaks, simple head coverings, some modest sewn cloth crosses; dust, tired faces, resolve and uncertainty. The book evokes pale, blue-eyed westerners but keep the crowd naturally varied and human, not caricatured. Style/medium: naturalistic, carefully researched historical editorial painting, tactile restrained brushwork and convincing fabrics, muted earth and blue tones, daylight. Composition/framing: wide landscape suitable for a presentation slide, people clearly readable in foreground, the depth of the procession conveys scale; the recognizable Byzantine land walls in the background. No depiction of Anna herself: the subject is the people she describes, not a staged eyewitness portrait. No full plate armor, no modern flags, no fantasy architecture, no siege engines or burning city, no battle or gore, no triumphant glorification. This is 1096, not the sack of 1204. Do not add written quotes, captions, lettering, numbers, logos or watermarks. Historical reconstruction, not a claimed surviving period image.",
+      "transparent_background": false
+    },
+    {
+      "key": "pierre_hermit",
+      "prompt": "Use case: historical-scene. Asset type: separate illustration for a Turkish reading-group presentation on Jonathan Lyons's The House of Wisdom (Hikmet Evi). Primary request: a full-body historical character study of Pierre l'Ermite (Peter the Hermit), based specifically on the physical description in the opening chapter: a short, slight, plain and weathered man, riding a modest WHITE MULE; coarse wool tunic, bare arms and bare feet, with an ankle-length cloak over his tunic. Make the mantle lie loosely behind the shoulders and open at the front so the uncovered arms, rough sleeveless tunic and bare feet are visible; the draped cloak reaches the ankles of this seated figure. Small stature should be clear against the humble mule, which must look like a mule with long ears, not a horse. One hand makes a restrained preaching gesture, the other rests near simple reins. The facial features and hair are an artist's interpretation, do not imply an authenticated likeness. Scene/backdrop: a simple dusty road in late-11th-century Europe, a very small indistinct background suggestion of poor followers and travel bundles, with the focus entirely on Pierre and the mule. Style/medium: naturalistic, carefully researched historical editorial painting, tactile restrained brushwork and convincing wool, muted earth and blue tones, natural daylight. Composition/framing: landscape, three-quarter side view of the complete rider and complete mule, both bare feet visible if the angle naturally permits, no cropped animal legs. Match a sober historical reading-group illustration, not a saintly icon or fantasy hero. No halo, crown, priestly finery, full plate armor, modern flags, shiny cavalry saddle, battle, gore, written quotations, captions, lettering, logos or watermarks. No visual caricature or exaggerated ugliness. Historical reconstruction, not a claimed surviving period portrait.",
+      "transparent_background": false
+    }
+  ],
+  "finalFiles": [
+    "Anna_Komnena_Hacli_Kalabaligi_v2.png",
+    "Kesis_Pierre_Beyaz_Katir.png"
+  ],
+  "edits": [
+    {
+      "asset": "Anna_Komnena_Hacli_Kalabaligi_v2.png",
+      "change": "1096 yılının Bizans Konstantinopolis siluetine uygun olarak minareler kaldırıldı; kişiler korundu."
+    }
+  ]
+}
