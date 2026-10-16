@@ -29,6 +29,11 @@
   let sicilyReady = false;
   let historicalImage;
   let coastOutline;
+  let worldReady = false;
+  let worldImage;
+  let worldCoast;
+  let worldMatrix;
+  let worldZoom = 1;
 
   function svgNode(name, attributes = {}) {
     const element = document.createElementNS(NS, name);
@@ -76,6 +81,15 @@
     selectPlace(byId('world-places'),index);
     byId('world-place-title').textContent = `${index+1} · ${place.name}`;
     byId('world-place-note').textContent = place.note;
+    if (worldReady) {
+      const [a,b,c,d,e,f] = worldMatrix;
+      const [x,y] = place.old;
+      const historicalPoint = [a*x+c*y+e,b*x+d*y+f];
+      [...byId('world-overlay-pins').children].forEach((pin,i)=>{
+        pin.textContent = pin.dataset.number = String(index+1);
+        positionPin(pin,i===0?project(data.world,place.geo):historicalPoint,data.world.width,data.world.height);
+      });
+    }
   }
   function chooseSicily(index) {
     selectedSicily = index;
@@ -99,6 +113,89 @@
     const [a,c,e] = coefficients(target.map(p=>p[0]));
     const [b,d,f] = coefficients(target.map(p=>p[1]));
     return [a,b,c,d,e,f];
+  }
+  // Fit all six approximate regions together; individual pairs deliberately retain residuals.
+  // Normalize image coordinates before solving the small least-squares system.
+  function worldAffine() {
+    const samples = worldPlaces.map(place=>({u:place.old[0]/1280,v:place.old[1]/591,target:project(data.world,place.geo)}));
+    const normal = Array.from({length:3},()=>[0,0,0]);
+    const right = [[0,0,0],[0,0,0]];
+    for (const sample of samples) {
+      const row = [sample.u,sample.v,1];
+      for (let i=0;i<3;i++) {
+        for (let j=0;j<3;j++) normal[i][j] += row[i]*row[j];
+        for (let axis=0;axis<2;axis++) right[axis][i] += row[i]*sample.target[axis];
+      }
+    }
+    function solve(values) {
+      const rows = normal.map((row,i)=>[...row,values[i]]);
+      for (let col=0;col<3;col++) {
+        let pivot = col;
+        for (let row=col+1;row<3;row++) if (Math.abs(rows[row][col])>Math.abs(rows[pivot][col])) pivot=row;
+        [rows[col],rows[pivot]] = [rows[pivot],rows[col]];
+        if (Math.abs(rows[col][col])<1e-10) throw new Error('Harita hizalaması hesaplanamadı.');
+        const divisor = rows[col][col];
+        rows[col] = rows[col].map(value=>value/divisor);
+        for (let row=0;row<3;row++) {
+          if (row===col) continue;
+          const factor = rows[row][col];
+          rows[row] = rows[row].map((value,j)=>value-factor*rows[col][j]);
+        }
+      }
+      return rows.map(row=>row[3]);
+    }
+    const [a,c,e] = solve(right[0]);
+    const [b,d,f] = solve(right[1]);
+    return [a/1280,b/1280,c/591,d/591,e,f];
+  }
+  function initializeWorld() {
+    if (worldReady) return;
+    worldMatrix = worldAffine();
+    worldReady = true;
+    const svg = byId('world-map');
+    const map = data.world;
+    baseMap(svg,map);
+    worldImage = svgNode('image',{href:'assets/idrisi-maps/world-miller-preview.jpg',width:1280,height:591,transform:`matrix(${worldMatrix.join(' ')})`,opacity:0.55});
+    worldImage.addEventListener('error',()=>{byId('world-image-error').hidden=false;});
+    worldImage.addEventListener('load',()=>{byId('world-image-error').hidden=true;});
+    svg.append(worldImage);
+    worldCoast = svgNode('path',{d:map.landPath,fill:'none',stroke:'#1e6553','stroke-width':1.4,'vector-effect':'non-scaling-stroke','fill-rule':'evenodd'});
+    svg.append(worldCoast);
+    for (const type of ['modern','historical']) {
+      const pin = document.createElement('span');
+      pin.className = `place-pin is-${type}`;
+      byId('world-overlay-pins').append(pin);
+    }
+    chooseWorld(selectedWorld);
+    updateWorldOpacity();
+  }
+  function updateWorldOpacity() {
+    const value = Number(byId('world-opacity').value);
+    byId('world-opacity-value').textContent = `%${value}`;
+    byId('world-show-old').setAttribute('aria-pressed',String(value===100));
+    byId('world-show-modern').setAttribute('aria-pressed',String(value===0));
+    byId('world-show-both').setAttribute('aria-pressed',String(value>0&&value<100));
+    if (!worldReady) return;
+    worldImage.setAttribute('opacity',String(value/100));
+    worldCoast.setAttribute('visibility',value===100?'hidden':'visible');
+    byId('world-map').querySelector('path').setAttribute('visibility',value===100?'hidden':'visible');
+    byId('world-overlay-pins').children[0].hidden = value===100;
+    byId('world-overlay-pins').children[1].hidden = value===0;
+  }
+  function chooseWorldMode(overlay) {
+    byId('world-overlay').hidden = !overlay;
+    byId('world-pair').hidden = overlay;
+    byId('world-mode-overlay').setAttribute('aria-pressed',String(overlay));
+    byId('world-mode-pair').setAttribute('aria-pressed',String(!overlay));
+  }
+  function updateWorldZoom(change) {
+    worldZoom = Math.max(1,Math.min(3,worldZoom+change));
+    byId('world-overlay-board').style.width = `${worldZoom*100}%`;
+    byId('world-zoom-value').textContent = `%${worldZoom*100}`;
+    byId('world-zoom-out').disabled = worldZoom===1;
+    byId('world-zoom-in').disabled = worldZoom===3;
+    worldImage.setAttribute('href',worldZoom>1?'assets/idrisi-maps/world-miller-1928.jpg':'assets/idrisi-maps/world-miller-preview.jpg');
+    if (worldZoom===1) {byId('world-viewport').scrollLeft=0;byId('world-viewport').scrollTop=0;}
   }
   function initializeSicily() {
     if (sicilyReady) return;
@@ -139,12 +236,13 @@
     byId('compare-select').value = isSicily?'sicilya':'dunya';
     byId('world-view').hidden = isSicily;
     byId('sicily-view').hidden = !isSicily;
-    byId('compare-title').textContent = isSicily?'Sicilya · üst üste karşılaştır':'Dünya · aynı yerleri bul';
+    byId('compare-title').textContent = isSicily?'Sicilya · üst üste karşılaştır':'Dünya · üst üste karşılaştır';
     byId('compare-intro').textContent = isSicily
       ?'Aynı adaya iki farklı çizimle bak. Tarihî görüntüyü saydamlaştırarak modern kıyı çizgisiyle karşılaştır. Bu görünümde tarihî görsel üç kent işaretine göre yaklaşık hizalanmıştır.'
-      :'Tarihî ve modern görünümde aynı yerleri bulalım. Her iki haritada da kuzey yukarıda. Dönemin çizimi tek bir ölçekte olmadığı için dünya haritalarını yan yana okuyoruz.';
+      :'Tarihî dünya haritasını saydamlaştırarak modern kıyılarla karşılaştır. Altı yaklaşık bölgeye göre genel bir hizalama yapıldı. Haritaların ölçek ve biçim farkları nedeniyle bütün kıyılar aynı anda örtüşmez. İstersen yan yana görünüme de geçebilirsin.';
     byId('back-to-map').href = `idrisi.html#${isSicily?'sicilya':'dunya'}`;
     if (isSicily) initializeSicily();
+    else initializeWorld();
     if (changeHash) history.replaceState(null,'',`#${isSicily?'sicilya':'dunya'}`);
   }
   baseMap(byId('world-modern'),data.world);
@@ -154,6 +252,14 @@
   byId('compare-select').disabled = false;
   byId('compare-select').addEventListener('change',event=>chooseComparison(event.target.value,true));
   byId('history-opacity').addEventListener('input',updateOpacity);
+  byId('world-opacity').addEventListener('input',updateWorldOpacity);
+  byId('world-mode-overlay').addEventListener('click',()=>chooseWorldMode(true));
+  byId('world-mode-pair').addEventListener('click',()=>chooseWorldMode(false));
+  for (const [id,value] of [['world-show-old',100],['world-show-both',55],['world-show-modern',0]]) {
+    byId(id).addEventListener('click',()=>{byId('world-opacity').value=String(value);updateWorldOpacity();});
+  }
+  byId('world-zoom-out').addEventListener('click',()=>updateWorldZoom(-0.5));
+  byId('world-zoom-in').addEventListener('click',()=>updateWorldZoom(0.5));
   for (const [id,value] of [['show-old',100],['show-both',55],['show-modern',0]]) {
     byId(id).addEventListener('click',()=>{byId('history-opacity').value=String(value);updateOpacity();});
   }
