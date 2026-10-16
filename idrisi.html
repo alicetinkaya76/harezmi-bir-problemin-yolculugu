@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="İdrisi’nin II. Ruggiero için hazırladığı coğrafya eserinden haritalar: kaynakları, tarihleri ve sade Türkçe okuma notlarıyla.">
+  <title>İdrisi ve II. Ruggiero · Haritalar</title>
+  <link rel="stylesheet" href="book.css?v=idrisi-1">
+  <link rel="stylesheet" href="idrisi.css?v=1">
+  <script src="assets/idrisi-maps-data.js" defer></script>
+  <script src="idrisi.js?v=1" defer></script>
+</head>
+<body class="idrisi-reader">
+  <a class="skip" href="#map-reading">Haritaya geç</a>
+  <header class="reader-header">
+    <a class="brand" href="idrisi.html"><span aria-hidden="true">○</span> İdrisi</a>
+    <a class="collection-note" href="#collection-source">Seçki ve kaynak</a>
+  </header>
+  <nav class="work-switcher" aria-label="Eser seçimi">
+    <a href="./">Hârizmî · Tam kitap</a>
+    <a href="adelard.html">Adelard · 6 soru</a>
+    <a href="idrisi.html" aria-current="page">İdrisi · Haritalar</a>
+  </nav>
+  <main>
+    <section class="book-heading">
+      <div>
+        <p class="eyebrow">SİCİLYA · COĞRAFYA VE BİLGİNİN YOLCULUĞU</p>
+        <h1>İdrisi ve II. Ruggiero</h1>
+        <p>Bir haritaya bakmak, dünyanın nasıl öğrenildiğini sormaktır.</p>
+      </div>
+    </section>
+    <p class="map-intro">İdrisi’nin II. Ruggiero için hazırladığı <em>Nüzhetü’l-müştâk</em>, 1154’te tamamlandı. Ruggiero’nun Kitabı adıyla da anılan bu coğrafya eseri, farklı yerlerden gelen bilgileri bir araya getirir. Burada seçilmiş haritaları, ait oldukları nüsha veya yeniden çizim bilgisiyle birlikte okuyabilirsin.</p>
+    <section class="reader-toolbar map-selector" aria-label="Harita seçimi">
+      <div class="chapter-field"><label for="map-select">Harita seç</label><select id="map-select" disabled><option>Haritalar yükleniyor…</option></select></div>
+    </section>
+    <section id="map-reading" class="map-reading" aria-labelledby="map-title">
+      <div class="map-heading"><p id="map-position" class="eyebrow"></p><h2 id="map-title">Haritalar</h2></div>
+      <div class="map-controls" aria-label="Harita görünümü">
+        <div class="orientation-controls" role="group" aria-label="Haritanın yönü">
+          <button id="orientation-original" type="button" aria-pressed="true" disabled>Özgün yön</button>
+          <button id="orientation-north" type="button" aria-pressed="false" disabled>Kuzey yukarı</button>
+        </div>
+        <div class="zoom-controls" role="group" aria-label="Haritayı yakınlaştırma">
+          <button id="zoom-out" type="button" aria-label="Haritayı uzaklaştır" disabled>−</button>
+          <output id="zoom-level" aria-label="Yakınlaştırma düzeyi">%100</output>
+          <button id="zoom-in" type="button" aria-label="Haritayı yakınlaştır" disabled>+</button>
+        </div>
+      </div>
+      <p id="orientation-status" class="map-hint" role="status" aria-live="polite"></p>
+      <figure class="map-figure">
+        <div id="map-viewport" class="map-viewport" role="region" aria-label="Harita görüntüsü; yakınlaştırınca kaydırarak inceleyebilirsin" tabindex="0">
+          <img id="map-image" alt="" hidden>
+          <p id="map-empty" class="map-empty" role="status">Harita kayıtları yükleniyor.</p>
+        </div>
+        <figcaption>
+          <p class="map-hint">Yakınlaştırdıktan sonra görselin içinde kaydırabilirsin. Ayrıntılar için tam boy görseli ayrı açabilirsin.</p>
+          <a id="map-original" class="map-link" target="_blank" rel="noopener" hidden>Tam boy görseli aç ↗</a>
+        </figcaption>
+      </figure>
+      <dl class="map-metadata">
+        <div><dt>Tarih ve nüsha</dt><dd id="map-date">—</dd></div>
+        <div><dt>Kaynak</dt><dd><a id="map-source" target="_blank" rel="noopener"></a></dd></div>
+        <div><dt>Kullanım bilgisi</dt><dd id="map-rights">—</dd></div>
+      </dl>
+      <a id="map-manuscript" class="map-link manuscript-link" target="_blank" rel="noopener" hidden>Kaynak eserin tamamını aç ↗</a>
+      <a id="map-image-record" class="map-link image-record-link" target="_blank" rel="noopener" hidden>Görüntü ve hak kaydı ↗</a>
+      <section class="map-commentary" aria-labelledby="map-commentary-title"><h3 id="map-commentary-title">Haritayı birlikte okuyalım</h3><div id="map-description"></div></section>
+    </section>
+    <section id="collection-source" class="collection-source" aria-labelledby="collection-title">
+      <p class="eyebrow">HİKMET EVİ OKUMA GRUBU İÇİN</p>
+      <h2 id="collection-title">Bu seçkinin kapsamı</h2>
+      <p>Bu sayfa, eserin tam Türkçe çevirisi değildir. Harita görüntüleri ile bu çalışma için yazılmış Türkçe okuma notlarını bir araya getirir. Eserin 1154’te tamamlanmasıyla, burada gösterilen nüshanın veya yeniden çizimin tarihi ayrı bilgilerdir; her görselin kaydı yukarıda açıkça belirtilir.</p>
+      <p>Güneyin yukarıda gösterilmesi, haritanın yanlış olduğu anlamına gelmez. “Kuzey yukarı” düğmesi, uygun görselleri 180° çevirerek bugün alışık olduğumuz yönle karşılaştırmayı sağlar. Görselin içindeki yazılar da haritayla birlikte döner.</p>
+    </section>
+    <footer class="reader-footer"><p><strong>İdrisi ve II. Ruggiero · Harita seçkisi.</strong> Kaynak, nüsha tarihi ve kullanım bilgisi her haritanın altında verilmiştir. Açıklamalar modern okuma notlarıdır; tarihsel metnin çevirisi olarak sunulmaz.</p></footer>
+  </main>
+</body>
+</html>

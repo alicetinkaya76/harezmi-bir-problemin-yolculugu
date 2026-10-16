@@ -1,0 +1,44 @@
+window.IDRISI_MAPS = {
+  "title": "İdrisi ve II. Ruggiero · Harita seçkisi",
+  "date": "2026-10-16",
+  "maps": [
+    {
+      "id": "dunya",
+      "title": "Dünya görünümü · Miller’in 1928 birleştirmesi",
+      "image": "assets/idrisi-maps/world-miller-preview.jpg",
+      "fullImage": "assets/idrisi-maps/world-miller-1928.jpg",
+      "alt": "İdrisi’nin bölgesel haritalarından Konrad Miller’in oluşturduğu, güneyin yukarıda olduğu 1928 tarihli renkli dünya haritası.",
+      "dateLabel": "Eser 1154’te tamamlandı. Gösterilen nesne, Konrad Miller’in 1928 tarihli basılı yeniden birleştirmesidir; 1154’ten kalma özgün harita değildir.",
+      "sourceLabel": "National Library of Israel · Eran Laor Map Collection · 990025938860205171 ↗",
+      "sourceUrl": "https://www.nli.org.il/he/maps/NNL_ALEPH990025938860205171/NLI",
+      "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Konrad_Miller,_Charta_Rogeriana_Weltkarte_des_Idrisi_vom_Jahr_1154_n.Ch_(FL147394372_2593886).jpg",
+      "manuscriptUrl": "https://gallica.bnf.fr/ark:/12148/btv1b6000547t",
+      "rights": "Kamu malı. Kaynak kurum kaydı serbest kullanıma izin verir. Atıf: National Library of Israel, Eran Laor Map Collection. Dijital kopya: Wikimedia Commons, FL147394372.",
+      "northUpRequiresRotation": true,
+      "description": [
+        "İdrisi’nin coğrafya eseri metinleri ve bölge haritalarını birlikte sunar. Miller, bu harita geleneğini daha sonra tek bir dünya görünümünde birleştirdi. Burada baktığımız belge, İdrisi’nin elinden çıkmış bir özgün nüsha olarak sunulmuyor. Yer adlarının Latin harfleriyle aktarılması da Miller’in çalışmasının parçasıdır.",
+        "Güney yukarıda, kuzey aşağıdadır. “Kuzey yukarı” ile görseli çevirip Akdeniz, Afrika ve Avrupa arasındaki ilişkileri tanıdık bir yönden inceleyebilirsin. Bu dönüş bir düzeltme değildir; yalnız okuma yönünü değiştirir.",
+        "Grupta sor: Bu genel görünüm bir yolculuk için hangi bilgiyi verir, hangi ayrıntıyı vermez? Ardından Sicilya haritasına geçerek genel görünümle bölge çizimini karşılaştır."
+      ]
+    },
+    {
+      "id": "sicilya",
+      "title": "Sicilya · Ortaçağ el yazmasından",
+      "image": "assets/idrisi-maps/sicily-preview.jpg",
+      "fullImage": "assets/idrisi-maps/sicily-arabe2221.jpg",
+      "alt": "İdrisi’nin coğrafya eserinin 1250–1325 tarihli el yazması kopyasında, güney yukarı olacak biçimde çizilmiş Sicilya ve çevresindeki kıyılar.",
+      "dateLabel": "Eser 1154’te tamamlandı. Bu görüntü 1250–1325 olarak tarihlendirilen el yazması kopyasındandır: BnF Arabe 2221, yaprak 203v–204r; Gallica görüntüsü 382.",
+      "sourceLabel": "Bibliothèque nationale de France · Arabe 2221 · 203v–204r ↗",
+      "sourceUrl": "https://gallica.bnf.fr/ark:/12148/btv1b6000547t/f382.item",
+      "imageRecordUrl": "https://commons.wikimedia.org/wiki/File:Tabula_Rogeriana_-_Map_of_Sicily.jpg",
+      "manuscriptUrl": "https://www.loc.gov/item/2021667394/",
+      "rights": "Kamu malı eserin sadık fotoğrafik kopyası. Wikimedia Commons kaydı PD-Art / Public Domain Mark taşır. Kaynak: Bibliothèque nationale de France, Arabe 2221; Gallica. Nüshanın sayısallaştırmasına World Digital Library / Library of Congress üzerinden de erişilebilir.",
+      "northUpRequiresRotation": true,
+      "description": [
+        "II. Ruggiero’nun Sicilya sarayı, İdrisi’nin büyük coğrafya çalışmasına destek verdi. Bu bölge haritası, eserin sonradan kopyalanmış bir el yazmasındaki açılmış iki sayfayı gösterir. Ortadaki birleşme çizgisi kitabın yapısına aittir.",
+        "Bu örnekte de güney yukarıdadır. Dünya görünümünün ardından burada bir bölgenin kıyılarını, adalarını ve yer adlarını daha yakından inceleyebilirsin. Şekilleri bugünkü bir atlasla aynı amaç ve koşullarda hazırlanmış saymamak gerekir.",
+        "Grupta sor: Bir yolcuya yardımcı olmak için bu çizimin yanına hangi bilgiyi eklemek isterdin? İdrisi’nin eseri haritaların yanında yazılı tasvirler de içerir. Böylece görüntüyle metnin nasıl birbirini tamamladığını konuşabiliriz."
+      ]
+    }
+  ]
+};
