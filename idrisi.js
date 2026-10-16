@@ -56,6 +56,7 @@
     zoom = 1;
     select.value = map.id;
     byId('map-title').textContent = map.title;
+    byId('map-compare').href = `idrisi-karsilastir.html#${encodeURIComponent(map.id)}`;
     byId('map-position').textContent = `${usableMaps.indexOf(map) + 1} / ${usableMaps.length} · HARİTA SEÇKİSİ`;
     byId('map-date').textContent = map.dateLabel || 'Tarih bilgisi kaynak kaydında verilmiştir.';
     byId('map-rights').textContent = map.rights || 'Kullanım bilgisi için kaynak kaydına bakınız.';
