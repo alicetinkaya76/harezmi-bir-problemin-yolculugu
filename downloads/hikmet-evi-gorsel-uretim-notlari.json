@@ -1,7 +1,7 @@
 {
   "method": "Built-in image_gen",
   "date": "2026-10-16",
-  "source": "Jonathan Lyons, Hikmet Evi, supplied PDF; basılı sayfa 29–30; görseller tarihî canlandırmadır.",
+  "source": "Jonathan Lyons, Hikmet Evi, basılı s. 29–30, 80–81, 92, 96–97.",
   "prompts": [
     {
       "key": "anna_crusaders",
@@ -15,13 +15,31 @@
     }
   ],
   "finalFiles": [
-    "Anna_Komnena_Hacli_Kalabaligi_v2.png",
-    "Kesis_Pierre_Beyaz_Katir.png"
+    "anna-komnena-hacli-kalabaligi.png",
+    "kesis-pierre-beyaz-katir.png",
+    "bagdat-kitap-carsisi.png",
+    "sincar-dunya-olcumu.png",
+    "harizmi-gundelik-problemler.png"
   ],
   "edits": [
     {
       "asset": "Anna_Komnena_Hacli_Kalabaligi_v2.png",
-      "change": "1096 yılının Bizans Konstantinopolis siluetine uygun olarak minareler kaldırıldı; kişiler korundu."
+      "change": "1096 yılının Bizans Konstantinopolis siluetine uygun olarak minareler kaldırıldı; kişiler korundu.",
+      "prompt": "Edit the referenced historical illustration. Keep the entire foreground crowd, all individual people, their faces and clothing, the composition, light, wall arrangement and overall naturalistic painted style unchanged. Correct ONLY the background city skyline to be Byzantine Constantinople in the year 1096. Remove EVERY minaret and every Ottoman or Islamic architectural addition: there were no minarets around Hagia Sophia or in the city skyline in 1096. The large domed building should be Hagia Sophia as a Byzantine church, with its great dome, half-domes and massive buttressed masonry, no minarets and no crescents. Replace the thin pencil-like pointed minarets elsewhere in the distant skyline with unobtrusive period-appropriate Byzantine church roofs or low buildings. Retain Byzantine fortification towers and cypress trees. Do not add text, labels, halos, modern flags, new people, new prominent objects or watermark. Preserve the human character and facial details of the crowd exactly. This remains an interpretive historical reconstruction."
+    }
+  ],
+  "additionalScenes": [
+    {
+      "key": "baghdad_book_market",
+      "prompt": "Use case: historical-scene. Asset type: one new landscape illustration for a Turkish reading-group gallery for Jonathan Lyons's The House of Wisdom (Hikmet Evi), matching sober naturalistic editorial historical paintings. Primary request: depict the Abbasid-era Baghdad book and paper market, Suq al-Warraqin, described on printed pages 80–81. The scene is a plausible interpretive reconstruction of urban book culture, not an authenticated building or an event with named people. Scene: a modest, busy booksellers' street in the quarter southwest of the old Round City, NOT inside the caliphal palace or the Round City's enclosure. Foreground: a scribe seated at a low wooden counter carefully copying a manuscript with a REED PEN onto a handmade paper sheet, beside a small ink pot and stacks of unprinted paper. Adjacent stall: a binder working on a simple leather-covered manuscript codex; another reader examines a small handwritten book. Background: several modest brick-and-plaster shop fronts with reed or cloth shade canopies, more readers and traders, enough depth to suggest a lively market without a huge crowd. The manuscript sheets, ink, paper trade and exchange of knowledge are the visual focus. Plausible modest loose wool or linen clothing and simple period head coverings; naturally varied faces, no named portraits. Style/medium: naturalistic historical editorial painting with restrained brush texture, lifelike human proportions and tactile paper, leather and wood; muted earth, cream and blue colors; soft daylight. Composition/framing: wide landscape 16:9, one coherent scene, clear foreground craft and middle-ground exchange; a human-scale setting. Constraints: no printing press, no modern hardback book covers or identical printed books, no modern stationery, no Ottoman architecture, no fantasy palace, no photographs or camera equipment, no gilded mega-library hall. No legible lettering, quotes, titles, labels, logos or watermarks. Any tiny manuscript marks must remain indistinct. Do not falsely depict this as a precise architectural reconstruction."
+    },
+    {
+      "key": "sinjar_measurement",
+      "prompt": "Use case: historical-scene. Asset type: one new landscape illustration for a Turkish reading-group gallery on Jonathan Lyons's The House of Wisdom (Hikmet Evi). Primary request: an interpretive reconstruction of researchers sent under Caliph al-Ma'mun measuring a north–south distance on the Sinjar plain near Mosul in the early ninth century, as described on printed page 92. Focus on careful observation, measuring and recording, not heroic ruler spectacle. Scene/backdrop: a broad, dry, WALKABLE fairly flat stony plain with a long level-looking horizon and low distant hills; no huge Sahara sand dunes. Foreground: a small anonymous team in modest period robes. One researcher checks a simple upright wooden shadow staff and its shadow on a flat marked board, one assistant holds a modest measuring rod and taut measuring cord along the ground, and a scribe records observations on a sheet. A small plumb line makes the upright staff visually understandable. Middle distance: a few small route markers continue along a straight surveyed line, with two assistants moving along it. These simple instruments are illustrative props and do not claim a known exact historical instrument design. Depict consistent natural sunlight and shadows. NOBODY looks directly at the Sun, and nobody points optics at it. Style/medium: naturalistic historical editorial painting, restrained brush texture, lifelike people and coarse fabrics, muted earth and blue tones; match a sober historical reading-group illustration. Composition/framing: wide landscape 16:9, clear foreground measurement work with a sense of the long distance being measured. Constraints: NO al-Biruni in this ninth-century team, NO named portrait of al-Khwarizmi, NO caliph present, no telescope, binoculars, modern theodolite, surveying tripod, GPS, modern meter marks, globe or visible curvature of the horizon. No battle, fantasy instruments, luminous astronomy effects, giant maps, legible lettering, equations, titles, labels, logos or watermarks. Historical reconstruction, not a claimed surviving medieval image."
+    },
+    {
+      "key": "khwarizmi_algebra",
+      "prompt": "Use case: historical-scene. Asset type: one new landscape illustration for a Turkish reading-group gallery on Jonathan Lyons's The House of Wisdom (Hikmet Evi). Primary request: al-Khwarizmi's algebra connected to everyday practical problems and geometric reasoning, based on printed pages 96–97. This is an explicitly interpretive scene: the mathematician's face, clothing and workroom are not authenticated. Scene/backdrop: a simple early ninth-century Baghdad workroom with plain plaster and brick, a low wooden writing table, a few handwritten manuscript codices and diffuse daylight from a modest opening. Foreground subject: a thoughtful scholar representing al-Khwarizmi, in plain loose period clothing and a simple cloth head covering, examining a large handmade paper sheet with a SMALL, CLEAN PLANE GEOMETRIC DIAGRAM of an unnumbered square and adjoining rectangular strips, while using a reed pen or wooden straightedge. At the same table, a second adult studies a simple unlabelled rectilinear field plan beside a modest coiled measuring cord, connecting calculation to land measurement. The scholar's hands, the paper, square-and-rectangle shapes and exchange of ideas must be readable. The diagrams should be restrained and plausible, not a complex magical mathematical pattern. Style/medium: naturalistic historical editorial painting with restrained brush texture, lifelike proportions and tactile paper, wood and fabric; muted earth, cream and blue colors; quiet attentive mood. Composition/framing: wide landscape 16:9, medium-wide scene with enough detail to understand the paper and geometric reasoning. Constraints: NO modern x, y, equals signs, x²+10x=39 or modern symbolic algebra anywhere; al-Khwarizmi's algebra used verbal explanations. No chalkboard, graph paper, modern ruler set, printed books, telescope, glowing formulas, lavish orientalist palace or definitive portrait claim. No legible invented Arabic quotations, captions, titles, logos or watermarks. Manuscript writing should be small and indistinct; geometric shapes contain no letters or numerals. Historical reconstruction for explaining ideas, not a claimed documented lesson or original period portrait."
     }
   ]
 }

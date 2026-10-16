@@ -1,12 +1,30 @@
-HİKMET EVİ — İKİ AYRI TARİHÎ CANLANDIRMA
+HİKMET EVİ — BEŞ SAHNE İÇİN KAYNAK VE OKUMA NOTLARI
 
-Anna_Komnena_Hacli_Kalabaligi_v2.png
-Konstantinopolis’e gelen halk Haçlıları, 1096. Jonathan Lyons’un Hikmet Evi kitabının ilk bölümündeki anlatı ve Anna Komnena’dan aktardığı kalabalık betimlemesi temel alındı. Kaynak: basılı s. 29–30; PDF 28–29. Prensesin kendisi resmedilmedi. Soluk beniz ve mavi göz ayrıntıları Lyons’un çevre anlatısındadır; Anna’nın doğrudan sözleri gibi sunulmamalıdır.
+Kaynak: Jonathan Lyons, Hikmet Evi, kullanıcının sağladığı Türkçe PDF. Aşağıdaki numaralar basılı sayfalardır. Bütün sahneler III. kısım / Ez-Zuhr / Öğle başlığından önceki anlatılardan seçildi.
 
-Kesis_Pierre_Beyaz_Katir.png
-Keşiş Pierre l’Ermite: küçük yapılı; beyaz katır üzerinde; kaba yün gömlek, ayak bileğine uzanan pelerin, çıplak kollar ve ayaklar. Kaynak: basılı s. 30; PDF 29. Saç, sakal, yaş, yüz ve arka plan kitaptaki bu pasajda kesinleştirilmediği için çizimde sanatçı yorumudur.
+1. Anna Komnena’nın anlattığı Haçlı kalabalığı
+I. kısım / El-İşâ / Yatsı; Birinci bölüm: Tanrı’nın savaşçıları; s. 29–30.
+Kitaptan kısa kesit: “tüm varlığıyla katı bir kütle halinde Asya içlerine doğru akın ediyordu” (s. 30; Lyons’un Anna Komnena’dan aktardığı sözler).
+1096’da Konstantinopolis’e gelen kalabalık canlandırıldı. Yüzler, giysiler ve şehir görünümü çizim yorumudur. Anna Komnena’nın kendisi gösterilmez. Lyons’un çevre anlatısı, Anna’nın doğrudan sözü gibi sunulmamalıdır.
 
-İki görsel de yerleşik Imagegen aracıyla üretildi. Tarihî canlandırmadır; dönemden kalma belge veya doğrulanmış portre değildir. Şehir görünümü ve arka plan temsildir.
+2. Keşiş Pierre l’Ermite
+I. kısım / El-İşâ / Yatsı; Birinci bölüm: Tanrı’nın savaşçıları; s. 30.
+Alıntı: “Keşişin kolları ve ayakları hep çıplaktı ve kaba yünden yapılma gömleğinin üzerine ayak bileklerine kadar inen bir pelerin giyiyordu.”
+Küçük yapı, beyaz katır, kaba yün gömlek, uzun pelerin ve çıplak kollar/ayaklar kitapta belirtilir. Yüz, saç, sakal ve kırsal çevre yorumdur.
 
-İlk üretim komutları Uretim_Promptlari_ve_Kaynak.json dosyasındadır. Anna görselinin mimari düzeltme komutu:
-Edit the referenced historical illustration. Keep the entire foreground crowd, all individual people, their faces and clothing, the composition, light, wall arrangement and overall naturalistic painted style unchanged. Correct ONLY the background city skyline to be Byzantine Constantinople in the year 1096. Remove EVERY minaret and every Ottoman or Islamic architectural addition: there were no minarets around Hagia Sophia or in the city skyline in 1096. The large domed building should be Hagia Sophia as a Byzantine church, with its great dome, half-domes and massive buttressed masonry, no minarets and no crescents. Replace the thin pencil-like pointed minarets elsewhere in the distant skyline with unobtrusive period-appropriate Byzantine church roofs or low buildings. Retain Byzantine fortification towers and cypress trees. Do not add text, labels, halos, modern flags, new people, new prominent objects or watermark. Preserve the human character and facial details of the crowd exactly. This remains an interpretive historical reconstruction.
+3. Bağdat’ta kitap ve kâğıt çarşısı
+II. kısım / El-Fecr / Sabah; Üçüncü bölüm: Hikmet Evi (Beytü’l-Hikme); s. 80–81.
+Alıntı: “Abbasi başkenti daha sonra çok kaliteli mallarla dolu yüzlerce tezgâhı olan iyi bir kırtasiye çarşısına, Sûkü’l-Varrâkîn’e sahip olmuştur.” (s. 80).
+Kâğıt satışı, yazma çoğaltma ve ciltçilik bir arada canlandırıldı. Kitap, sahafları Yuvarlak Şehir surlarının dışında, güneybatıdaki mahallede konumlandırır. Tam dükkân planı ve insanlar temsildir.
+
+4. Sincar’da Dünya’nın büyüklüğünü ölçmek
+II. kısım / El-Fecr / Sabah; Üçüncü bölüm: Hikmet Evi (Beytü’l-Hikme); s. 92.
+Alıntı: “Yolda giderken kat ettikleri mesafeyi özenle kaydederek yollarına özel işaretler yerleştirdiler.”
+Kitap, Me’mun’un gönderdiği ekiplerin Güneş yüksekliği ile mesafe ölçümlerini birleştirdiğini ve dönüşte yeniden kontrol ettiğini anlatır. Resimdeki kişiler isimsizdir. Çubuk, ip ve gölge düzeni, gözlem ve ölçümü anlatan temsili araçlardır; kesin tarihî alet rekonstrüksiyonu değildir. Bîrûnî bu dokuzuncu yüzyıl ekibinin üyesi olarak gösterilmedi; Hârizmî’nin katılımı da kesinleştirilmedi.
+
+5. Hârizmî: gündelik problemlerden cebire
+II. kısım / El-Fecr / Sabah; Üçüncü bölüm: Hikmet Evi (Beytü’l-Hikme); s. 96–97.
+Alıntı: “Konuyu aritmetikte en kolay ve en faydalı şeylerle sınırladım.” (s. 96; Lyons’un Hârizmî’nin önsözünden aktardığı sözler).
+Miras, ticaret ve arazi ölçümü ile cebir/geometri arasındaki bağ görselleştirildi. Yüz ve çalışma odası belgelenmiş değildir. Kare ve dikdörtgenler şematiktir; tam bir denklem ispatı olarak okunmamalıdır. Tarihî sahneye modern x, y ve eşitlik işaretleri eklenmedi.
+
+Beş görsel de yerleşik Imagegen aracıyla üretilmiş tarihî canlandırmalardır; dönemden kalma belgeler veya doğrulanmış portreler değildir. Üretim komutları ayrı JSON dosyasındadır.
