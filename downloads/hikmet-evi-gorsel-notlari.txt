@@ -1,6 +1,6 @@
-HİKMET EVİ — BEŞ SAHNE İÇİN KAYNAK VE OKUMA NOTLARI
+HİKMET EVİ — ON SAHNE İÇİN KAYNAK VE OKUMA NOTLARI
 
-Kaynak: Jonathan Lyons, Hikmet Evi, kullanıcının sağladığı Türkçe PDF. Aşağıdaki numaralar basılı sayfalardır. Bütün sahneler III. kısım / Ez-Zuhr / Öğle başlığından önceki anlatılardan seçildi.
+Kaynak: Jonathan Lyons, Hikmet Evi, kullanıcının sağladığı Türkçe PDF. Aşağıdaki numaralar basılı sayfalardır. İlk beş sahne III. kısım / Ez-Zuhr / Öğle öncesinden, son beş sahne bu başlık sonrasından seçildi.
 
 1. Anna Komnena’nın anlattığı Haçlı kalabalığı
 I. kısım / El-İşâ / Yatsı; Birinci bölüm: Tanrı’nın savaşçıları; s. 29–30.
@@ -27,4 +27,49 @@ II. kısım / El-Fecr / Sabah; Üçüncü bölüm: Hikmet Evi (Beytü’l-Hikme)
 Alıntı: “Konuyu aritmetikte en kolay ve en faydalı şeylerle sınırladım.” (s. 96; Lyons’un Hârizmî’nin önsözünden aktardığı sözler).
 Miras, ticaret ve arazi ölçümü ile cebir/geometri arasındaki bağ görselleştirildi. Yüz ve çalışma odası belgelenmiş değildir. Kare ve dikdörtgenler şematiktir; tam bir denklem ispatı olarak okunmamalıdır. Tarihî sahneye modern x, y ve eşitlik işaretleri eklenmedi.
 
-Beş görsel de yerleşik Imagegen aracıyla üretilmiş tarihî canlandırmalardır; dönemden kalma belgeler veya doğrulanmış portreler değildir. Üretim komutları ayrı JSON dosyasındadır.
+On görsel de yerleşik Imagegen aracıyla üretilmiş tarihî canlandırmalardır; dönemden kalma belgeler veya doğrulanmış portreler değildir. Üretim komutları ayrı JSON dosyasındadır.
+
+
+İKİNCİ YARIDAN YENİ BEŞ SAHNE
+
+6. Gökyüzünü bir aletle düşünmek
+III. kısım · Ez-Zuhr / Öğle — Altıncı bölüm: Yerküreye dair söylenenler… · Basılı s. 153–154.
+Alıntı: “Evrenin kare veya dikdörtgen değil, küre şeklinde olduğundan emin olabilirsiniz.”
+Lyons’un Adelard’dan aktardığı sözler · s. 153.
+Adelard, usturlap üzerine eserini geleceğin II. Henry’sine ithaf eder. Alet; gökyüzü, daireler ve ölçüm arasındaki bağı elle tutulur hâle getirir. Kitabın anlattığı öğrenme yolculuğu, Arapça bilim bilgisinin yeni okuyuculara ulaşmasını da gösterir.
+Yeşil giysili Adelard, genç Henry ile bir usturlabı inceliyor. Belirli bir dersin kaydı değildir: kitap, hocalık ilişkisini olasılık olarak verir. Yüzler, oda, arka plan ve aletin ayrıntıları çizim yorumudur.
+İlgili eser: Adelard’ın Usturlabın Kullanımına Dair çalışması.
+
+7. Bir kitabı bulmak için dil öğrenmek
+III. kısım · Ez-Zuhr / Öğle — Yedinci bölüm: Dünyanın en bilge filozofları · Basılı s. 180–181.
+Alıntı: “Latinler arasında hiç bulamadığı El-Mecistî'nin aşkına Toledo’ya gitti.”
+Lyons’un Gerard’ın öğrencilerinden aktardığı övgüden bir kesit · s. 180.
+Cremonalı Gerard, Batlamyus’un astronomi eserine ulaşmak için Toledo’ya gider ve Arapça öğrenir. Çeviri, burada yalnız sözcükleri değiştirmek değildir: gökbilim bilgisini anlamak ve başka bir dilde yeniden anlatmak gerekir.
+Gerard ve adsız bir çalışma arkadaşı el yazmalarını karşılaştırıyor. İşbirliği, kitaptaki çeviri çalışmalarını temsil eder; belirli bir ortak veya belgelenmiş oda gösterilmez. Kitapların üzerindeki çizgiler okunabilir kaynak metin değildir.
+İlgili eser: Batlamyus’un El-Mecistî’si, Latince adıyla Almagest.
+
+8. Hesap öğrenmek için denizi aşmak
+IV. kısım · El-Asr / İkindi — Sekizinci bölüm: Âlemin ezeli oluşuna dair · Basılı s. 196–197.
+Alıntı: “küçük oğlunu bu bölgedeki Müslüman tacirlerden en yeni aritmetik ve muhasebe yöntemlerini öğrenmeye gönderdi”
+Jonathan Lyons, Hikmet Evi · Baba hakkında kurulan cümleden kısa kesit · s. 196.
+Pisalı Leonardo’nun öğrenimi, Akdeniz ticaretiyle hesap bilgisinin dolaşımını birleştirir. Daha sonra Hesap Kitabı’nda ortaklık, para ve ölçü problemlerini işler. Hikâye, matematiğin günlük işlerde öğrenilip başka çevrelere taşınmasını görünür kılar.
+Genç Leonardo, bir tacirden hesap öğreniyor; terazi ve mallar ticaret çevresini anlatıyor. Öğretmenin kimliği, yüzler, ders ve liman görünümü temsildir. Bugia adı, aşağıdaki bağlantıda verilen Hesap Kitabı önsözünde doğrulanır.
+İlgili eser: Liber Abaci / Hesap Kitabı.
+
+9. Sarayda açılan felsefe sorusu
+IV. kısım · El-Asr / İkindi — Sekizinci bölüm: Âlemin ezeli oluşuna dair · Basılı s. 206–208.
+Alıntı: “Göklerle ilgili görüşleri nedir; gökler ezeli midir yoksa yaratılmış mıdır?”
+Lyons’un İbn Rüşd’ün hatırasından aktardığı hükümdar sorusundan bir kesit · s. 206.
+Ebu Yakub Yusuf’un sorusu, İbn Rüşd’ü önce kaygılandırır. İbn Tufeyl’in de bulunduğu görüşme daha sonra düşüncelerin paylaşılabildiği bir sohbete dönüşür. Kitap, bu ilişkiden Aristoteles’in eserlerini açıklama ve özetleme çalışmasına uzanan yolu anlatır.
+Üç kişi arasındaki konuşma, kitaptaki görüşmenin canlandırmasıdır. Solda İbn Rüşd, ortada İbn Tufeyl, sağda Ebu Yakub Yusuf düşünülmüştür. Yüzler, giysiler, mimari ve oturma düzeni bilinmediği için yorumla tamamlanmıştır.
+İlgili eserler: İbn Rüşd’ün Aristoteles şerhleri.
+
+10. Bir metni okumak, ona itiraz edebilmek
+IV. kısım · El-Asr / İkindi — Dokuzuncu bölüm: Batı’nın icadı · Basılı s. 213–216; ilgili eser için s. 218–220.
+Alıntı: “Sanat üstatları arasında pek çoğu, kendilerini nereye götürürse götürsün felsefi düşünceyle meşgul olma hakları olduğunu açıkça iddia ediyorlardı.”
+Jonathan Lyons, Hikmet Evi · s. 216.
+Arapçadan çevrilen felsefe metinleri Paris’te yeni sorular doğurur. Üniversite çevresindeki tartışmalar, akıl yürütme ile inancın sınırlarını araştırır. Thomas Aquinas’ın konumu da bu ortam içinde okunur; anlatı basit bir bilim ve din çatışmasına indirgenmez.
+Beyaz giysi ve siyah mantolu Thomas, el yazmaları çevresindeki tartışmada temsil ediliyor. Bu, belirli bir toplantının kaydı değildir. Oda, dinleyiciler ve konuşma anı, kitabın anlattığı düşünce ortamını bir araya getiren yorumdur.
+İlgili eser: Thomas Aquinas, Âlemin Ezeliliğine Dair / De aeternitate mundi.
+
+İlgili okuma: Leonardo Pisano, Liber abbaci, haz. Baldassarre Boncompagni, Roma, 1857, s. 1–2. ETH-Bibliothek Zürich, Rar 29283: 1. https://doi.org/10.3931/e-rara-34352 . Public Domain Mark. İlk telif 1202, kullanılan metin 1228 revizyonu; basılı nüsha 1857. Siteye iki kısa Latin pasajı ve özgün Türkçe çevirileri eklendi; tam Türkçe çeviri değildir.

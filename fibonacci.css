@@ -1,0 +1,51 @@
+.fibonacci-reader main{max-width:1400px}
+.fibonacci-reader .book-heading{padding-bottom:20px}
+.fibonacci-reader .book-heading h1{max-width:none}
+.fibonacci-reader .work-switcher a{white-space:normal;text-align:center;line-height:1.45}
+.fibonacci-reader .work-switcher a[aria-current=location]{color:var(--green);border-color:var(--green);font-weight:600}
+.fibonacci-back{display:inline-flex;align-items:center;min-height:44px;font-size:12px;text-decoration:underline;text-underline-offset:4px}
+.fibonacci-introduction{display:grid;grid-template-columns:minmax(0,1fr) 280px;align-items:start;gap:35px;margin-bottom:22px}
+.fibonacci-introduction>div{max-width:850px}
+.fibonacci-introduction p{margin:0 0 16px;font-size:14px;line-height:1.9;color:var(--muted)}
+.fibonacci-introduction a,.fibonacci-sources a,.reader-footer a{text-decoration:underline;text-underline-offset:3px}
+.fibonacci-introduction .edition-note{padding:14px 17px;border-left:3px solid #96ad8e;background:#edf1e7;font-size:13px}
+.fibonacci-illustration{margin:0}
+.fibonacci-illustration img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:3px}
+.fibonacci-illustration figcaption{font-size:11px;line-height:1.7;color:var(--muted);margin-top:8px}
+.reading-shortcuts{display:flex;flex-wrap:wrap;gap:9px 16px;margin-bottom:32px}
+.reading-shortcuts a,.source-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:9px 14px;border:1px solid #b5c6b0;border-radius:3px;background:#fdfbf7;color:#224d39;font-size:13px;line-height:1.6;text-decoration:none;text-align:center}
+#okuma,.fibonacci-reading,.fibonacci-sources{scroll-margin-top:20px}
+.fibonacci-reading{margin:0 0 38px}
+.passage-heading{margin-bottom:15px}
+.passage-heading .eyebrow{font-size:10px;line-height:1.6;margin:0 0 8px}
+.passage-heading h2{font:29px/1.4 var(--serif);margin:0 0 6px}
+.passage-heading>a{display:inline-flex;align-items:center;min-height:44px;font-size:12px;text-decoration:underline;text-underline-offset:3px}
+.parallel-grid{display:grid;grid-template-columns:1fr 1fr 1fr;border:1px solid var(--line);border-radius:3px;background:#fdfbf7;overflow:hidden}
+.parallel-column{min-width:0;padding:24px 25px 28px}
+.parallel-column+.parallel-column{border-left:1px solid var(--line)}
+.parallel-column h3{font:24px/1.4 var(--serif);margin:0 0 7px}
+.parallel-column .column-label{font:10px/1.7 var(--sans);color:var(--muted);letter-spacing:.6px;margin:0 0 23px}
+.parallel-column p{font:17px/1.9 var(--serif);margin:0 0 17px;overflow-wrap:break-word}
+.parallel-column p:last-child{margin-bottom:0}
+.parallel-column blockquote{margin:0}
+.latin-column{background:#f5f1e8}
+.latin-column blockquote p{font-size:16px;line-height:1.95}
+.modern-column{background:#edf1e7}
+.parallel-column .numeral-sequence{font-size:21px;line-height:1.7;letter-spacing:1px;font-variant-numeric:tabular-nums;white-space:normal}
+.place-values{border-collapse:collapse;width:100%;max-width:340px;margin:20px 0 14px;font-variant-numeric:tabular-nums}
+.place-values caption{text-align:left;font-size:12px;line-height:1.6;color:var(--muted);padding-bottom:9px}
+.place-values th,.place-values td{text-align:center;border:1px solid #bdceb3;padding:8px 4px}
+.place-values th{font:12px/1.5 var(--sans);font-weight:500}
+.place-values td{font:25px/1.5 var(--serif);background:#fdfbf7}
+.parallel-column .equation{font:15px/1.9 var(--sans);font-variant-numeric:tabular-nums;color:#224d39;overflow-wrap:anywhere}
+.fibonacci-sources{max-width:1000px;border-top:1px solid var(--line);padding-top:26px;margin-top:8px}
+.fibonacci-sources h2{font:27px/1.4 var(--serif);margin:0 0 18px}
+.fibonacci-sources p{font-size:13px;line-height:1.9;color:var(--muted);margin:0 0 17px;overflow-wrap:anywhere}
+.source-actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.fibonacci-sources .context-sources{font-size:12px}
+.fibonacci-reader .reader-footer{margin-top:24px}
+@media(max-width:1100px){.parallel-column{padding:21px 20px 25px}.parallel-column h3{font-size:23px}.fibonacci-introduction{grid-template-columns:minmax(0,1fr) 240px;gap:25px}}
+@media(max-width:1000px){.fibonacci-reader .work-switcher{gap:5px}.fibonacci-reader .work-switcher a{font-size:11px;min-height:52px;flex-basis:0}.fibonacci-reader .book-heading h1{font-size:28px}.fibonacci-reader .book-heading p:not(.eyebrow){font-size:12px}.parallel-grid{grid-template-columns:1fr}.parallel-column{padding:23px 22px 26px}.parallel-column+.parallel-column{border-left:0;border-top:1px solid var(--line)}.parallel-column .column-label{margin-bottom:17px}.fibonacci-introduction p{font-size:13px}.fibonacci-introduction .edition-note{font-size:13px}.fibonacci-reading{margin-bottom:30px}}
+@media(max-width:600px){.fibonacci-reader .book-heading{padding-bottom:18px}.fibonacci-reader .book-heading h1{font-size:27px}.fibonacci-back{font-size:11px;max-width:130px;text-align:right}.fibonacci-introduction{display:block;margin-bottom:16px}.fibonacci-illustration{max-width:220px;margin:4px 0 20px}.fibonacci-illustration figcaption{font-size:11px}.reading-shortcuts{display:grid;grid-template-columns:1fr;margin-bottom:26px;gap:9px}.reading-shortcuts a{justify-content:flex-start}.passage-heading h2{font-size:26px}.passage-heading .eyebrow{font-size:9px;letter-spacing:.6px}.parallel-column{padding:22px 20px 25px}.parallel-column h3{font-size:24px}.parallel-column .column-label{font-size:9px;letter-spacing:.45px}.source-actions{display:grid;grid-template-columns:1fr}.source-actions a{font-size:12px}.fibonacci-sources h2{font-size:25px}.fibonacci-sources p,.fibonacci-sources .context-sources{font-size:13px}}
+@media(max-width:360px){.parallel-column{padding:20px 17px 23px}.parallel-column .equation{font-size:14px}.parallel-column .numeral-sequence{font-size:20px;letter-spacing:.7px}}
+@media print{.fibonacci-reader .work-switcher,.fibonacci-back,.reading-shortcuts,.source-actions,.passage-heading>a{display:none}.fibonacci-introduction{grid-template-columns:1fr 200px}.fibonacci-introduction p{font-size:11px}.parallel-grid{grid-template-columns:1fr 1fr 1fr}.parallel-column{padding:12px}.parallel-column+.parallel-column{border-top:0;border-left:1px solid var(--line)}.parallel-column p,.latin-column blockquote p{font-size:11px;line-height:1.7}.parallel-column h3{font-size:18px}.parallel-column .column-label{font-size:8px}.passage-heading h2{font-size:23px}.fibonacci-reading{break-inside:avoid}.fibonacci-sources p{font-size:10px}.fibonacci-reader .reader-footer{display:block}}

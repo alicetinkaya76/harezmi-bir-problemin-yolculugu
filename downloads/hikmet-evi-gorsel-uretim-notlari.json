@@ -1,7 +1,7 @@
 {
   "method": "Built-in image_gen",
-  "date": "2026-10-16",
-  "source": "Jonathan Lyons, Hikmet Evi, basılı s. 29–30, 80–81, 92, 96–97.",
+  "date": "2026-10-17",
+  "source": "Jonathan Lyons, Hikmet Evi, basılı s. 29–30, 80–81, 92, 96–97. İkinci yarı: basılı s. 153–154, 180–181, 196–197, 206–208, 213–216.",
   "prompts": [
     {
       "key": "anna_crusaders",
@@ -19,13 +19,28 @@
     "kesis-pierre-beyaz-katir.png",
     "bagdat-kitap-carsisi.png",
     "sincar-dunya-olcumu.png",
-    "harizmi-gundelik-problemler.png"
+    "harizmi-gundelik-problemler.png",
+    "adelard-usturlap.png",
+    "toledo-ceviri.png",
+    "fibonacci-hesap.png",
+    "ibn-rusd-saray.png",
+    "paris-felsefe.png"
   ],
   "edits": [
     {
       "asset": "Anna_Komnena_Hacli_Kalabaligi_v2.png",
       "change": "1096 yılının Bizans Konstantinopolis siluetine uygun olarak minareler kaldırıldı; kişiler korundu.",
       "prompt": "Edit the referenced historical illustration. Keep the entire foreground crowd, all individual people, their faces and clothing, the composition, light, wall arrangement and overall naturalistic painted style unchanged. Correct ONLY the background city skyline to be Byzantine Constantinople in the year 1096. Remove EVERY minaret and every Ottoman or Islamic architectural addition: there were no minarets around Hagia Sophia or in the city skyline in 1096. The large domed building should be Hagia Sophia as a Byzantine church, with its great dome, half-domes and massive buttressed masonry, no minarets and no crescents. Replace the thin pencil-like pointed minarets elsewhere in the distant skyline with unobtrusive period-appropriate Byzantine church roofs or low buildings. Retain Byzantine fortification towers and cypress trees. Do not add text, labels, halos, modern flags, new people, new prominent objects or watermark. Preserve the human character and facial details of the crowd exactly. This remains an interpretive historical reconstruction."
+    },
+    {
+      "asset": "adelard-usturlap.png",
+      "change": "Uzak manzaradaki süslü yapılar sadeleştirildi; kişiler ve çalışma düzeni korundu.",
+      "prompt": "Edit this historical illustration, changing ONLY the small distant landscape seen through the far-right open arcade. Keep Adelard, the young listener, their exact faces, hands, clothes, astrolabe, foreground table, manuscripts, stone chamber, lighting, color and composition unchanged. Replace the distant ornate multi-towered Gothic castle silhouette and decorative architecture with a modest indistinct twelfth-century English rural view: low tree-covered hills and a very simple low stone enclosure with a single plain squat rectangular keep, no pinnacles or thin ornamental towers. Keep the view quiet and small, not a new focal point. Nothing else changes. No legible text or watermark."
+    },
+    {
+      "asset": "toledo-ceviri.png",
+      "change": "Uzak manzaradaki süslü yapılar sadeleştirildi; kişiler ve çalışma düzeni korundu.",
+      "prompt": "Edit this historical illustration, changing ONLY the small distant skyline visible through the window on the right. Keep both scholars, their exact faces and hands, clothes, all manuscripts, diagrams, writing action, study room, instruments, lighting, color and composition unchanged. Remove the detailed ornate tall Gothic structure in that distant skyline. Replace it with a quiet indistinct twelfth-century Toledo skyline of low earth-colored masonry houses, simple walls and at most one squat plain rectangular defensive tower against low hills. No late Gothic cathedral, no Gothic pinnacles, no spires or Renaissance details. Keep the skyline small and unobtrusive. Nothing else changes. No text or watermark."
     }
   ],
   "additionalScenes": [
@@ -40,6 +55,84 @@
     {
       "key": "khwarizmi_algebra",
       "prompt": "Use case: historical-scene. Asset type: one new landscape illustration for a Turkish reading-group gallery on Jonathan Lyons's The House of Wisdom (Hikmet Evi). Primary request: al-Khwarizmi's algebra connected to everyday practical problems and geometric reasoning, based on printed pages 96–97. This is an explicitly interpretive scene: the mathematician's face, clothing and workroom are not authenticated. Scene/backdrop: a simple early ninth-century Baghdad workroom with plain plaster and brick, a low wooden writing table, a few handwritten manuscript codices and diffuse daylight from a modest opening. Foreground subject: a thoughtful scholar representing al-Khwarizmi, in plain loose period clothing and a simple cloth head covering, examining a large handmade paper sheet with a SMALL, CLEAN PLANE GEOMETRIC DIAGRAM of an unnumbered square and adjoining rectangular strips, while using a reed pen or wooden straightedge. At the same table, a second adult studies a simple unlabelled rectilinear field plan beside a modest coiled measuring cord, connecting calculation to land measurement. The scholar's hands, the paper, square-and-rectangle shapes and exchange of ideas must be readable. The diagrams should be restrained and plausible, not a complex magical mathematical pattern. Style/medium: naturalistic historical editorial painting with restrained brush texture, lifelike proportions and tactile paper, wood and fabric; muted earth, cream and blue colors; quiet attentive mood. Composition/framing: wide landscape 16:9, medium-wide scene with enough detail to understand the paper and geometric reasoning. Constraints: NO modern x, y, equals signs, x²+10x=39 or modern symbolic algebra anywhere; al-Khwarizmi's algebra used verbal explanations. No chalkboard, graph paper, modern ruler set, printed books, telescope, glowing formulas, lavish orientalist palace or definitive portrait claim. No legible invented Arabic quotations, captions, titles, logos or watermarks. Manuscript writing should be small and indistinct; geometric shapes contain no letters or numerals. Historical reconstruction for explaining ideas, not a claimed documented lesson or original period portrait."
+    }
+  ],
+  "secondHalfScenes": [
+    {
+      "slug": "adelard-usturlap",
+      "label": "ADELARD · USTURLAP VE ÖĞRENME",
+      "title": "Gökyüzünü bir aletle düşünmek",
+      "location": "III. kısım · Ez-Zuhr / Öğle — Altıncı bölüm: Yerküreye dair söylenenler… · Basılı s. 153–154.",
+      "quote": "Evrenin kare veya dikdörtgen değil, küre şeklinde olduğundan emin olabilirsiniz.",
+      "cite": "Lyons’un Adelard’dan aktardığı sözler · s. 153.",
+      "text": "Adelard, usturlap üzerine eserini geleceğin II. Henry’sine ithaf eder. Alet; gökyüzü, daireler ve ölçüm arasındaki bağı elle tutulur hâle getirir. Kitabın anlattığı öğrenme yolculuğu, Arapça bilim bilgisinin yeni okuyuculara ulaşmasını da gösterir.",
+      "reading": "Yeşil giysili Adelard, genç Henry ile bir usturlabı inceliyor. Belirli bir dersin kaydı değildir: kitap, hocalık ilişkisini olasılık olarak verir. Yüzler, oda, arka plan ve aletin ayrıntıları çizim yorumudur.",
+      "book": "İlgili eser: Adelard’ın Usturlabın Kullanımına Dair çalışması.",
+      "alt": "Adelard’ı genç Henry ile bronz usturlabı incelerken gösteren temsili çalışma sahnesi.",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: historical-scene. Asset type: wide 16:9 editorial illustration for a Turkish reading-group website about Jonathan Lyons's The House of Wisdom. Style: naturalistic historical painting with restrained brush texture, believable materials and anatomy, muted earth, cream and blue palette, quiet daylight, no cinematic fantasy. This is an interpretive reconstruction, not a claimed historical portrait. No captions, no legible text, no watermark, no modern objects, no printing press, no telescope, no modern numerals or equations.\nPrimary scene: mid-twelfth-century England, a mature Adelard of Bath in a plain muted green robe explains a small brass planispheric astrolabe to a young Henry Plantagenet, an attentive youth in simple noble clothing without crown. Adelard holds the astrolabe upright by its suspension ring; its circular plate and pierced metal rete look like a real medieval astrolabe, not a clock. Henry leans slightly forward to examine it. A modest stone chamber, wooden table, open hand-written parchment manuscript with indistinct small ink strokes and a simple geometric circle. Composition: medium-wide, two figures and their hands and the instrument clearly readable. Faces, room and exact teaching moment are imagined. No elaborate Renaissance furniture, no royal crown, no lavish throne, no modern chalkboard."
+    },
+    {
+      "slug": "toledo-ceviri",
+      "label": "TOLEDO · ÇEVİRİ VE ASTRONOMİ",
+      "title": "Bir kitabı bulmak için dil öğrenmek",
+      "location": "III. kısım · Ez-Zuhr / Öğle — Yedinci bölüm: Dünyanın en bilge filozofları · Basılı s. 180–181.",
+      "quote": "Latinler arasında hiç bulamadığı El-Mecistî'nin aşkına Toledo’ya gitti.",
+      "cite": "Lyons’un Gerard’ın öğrencilerinden aktardığı övgüden bir kesit · s. 180.",
+      "text": "Cremonalı Gerard, Batlamyus’un astronomi eserine ulaşmak için Toledo’ya gider ve Arapça öğrenir. Çeviri, burada yalnız sözcükleri değiştirmek değildir: gökbilim bilgisini anlamak ve başka bir dilde yeniden anlatmak gerekir.",
+      "reading": "Gerard ve adsız bir çalışma arkadaşı el yazmalarını karşılaştırıyor. İşbirliği, kitaptaki çeviri çalışmalarını temsil eder; belirli bir ortak veya belgelenmiş oda gösterilmez. Kitapların üzerindeki çizgiler okunabilir kaynak metin değildir.",
+      "book": "İlgili eser: Batlamyus’un El-Mecistî’si, Latince adıyla Almagest.",
+      "alt": "Toledo’da iki bilginin el yazmalarını ve astronomi çizimlerini karşılaştırdığı çeviri sahnesi.",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: historical-scene. Asset type: wide 16:9 editorial illustration for a Turkish reading-group website about Jonathan Lyons's The House of Wisdom. Style: naturalistic historical painting with restrained brush texture, believable materials and anatomy, muted earth, cream and blue palette, quiet daylight, no cinematic fantasy. This is an interpretive reconstruction, not a claimed historical portrait. No captions, no legible text, no watermark, no modern objects, no printing press, no telescope, no modern numerals or equations.\nPrimary scene: Toledo in the second half of the twelfth century, Gerard of Cremona and an anonymous Arabic-reading collaborator compare two hand-written manuscripts at a wooden table. Gerard is a middle-aged Latin scholar in a plain wool robe, the collaborator in simple Andalusi scholarly clothes. One points to an indistinct manuscript line while the other writes with a quill on a separate parchment leaf. A small astronomical circle diagram recalls Ptolemy's Almagest without readable writing. A restrained plaster-and-stone study lit through an open window; a few closed leather-bound codices. Composition: wide, close enough to see the shared work and two different manuscript pages, no grand imagined translation academy, no chessboard, no printing or modern reading glasses. The collaborator is anonymous, not an invented named historical meeting."
+    },
+    {
+      "slug": "fibonacci-hesap",
+      "label": "KUZEY AFRİKA · FIBONACCI VE TİCARET",
+      "title": "Hesap öğrenmek için denizi aşmak",
+      "location": "IV. kısım · El-Asr / İkindi — Sekizinci bölüm: Âlemin ezeli oluşuna dair · Basılı s. 196–197.",
+      "quote": "küçük oğlunu bu bölgedeki Müslüman tacirlerden en yeni aritmetik ve muhasebe yöntemlerini öğrenmeye gönderdi",
+      "cite": "Jonathan Lyons, Hikmet Evi · Baba hakkında kurulan cümleden kısa kesit · s. 196.",
+      "text": "Pisalı Leonardo’nun öğrenimi, Akdeniz ticaretiyle hesap bilgisinin dolaşımını birleştirir. Daha sonra Hesap Kitabı’nda ortaklık, para ve ölçü problemlerini işler. Hikâye, matematiğin günlük işlerde öğrenilip başka çevrelere taşınmasını görünür kılar.",
+      "reading": "Genç Leonardo, bir tacirden hesap öğreniyor; terazi ve mallar ticaret çevresini anlatıyor. Öğretmenin kimliği, yüzler, ders ve liman görünümü temsildir. Bugia adı, aşağıdaki bağlantıda verilen Hesap Kitabı önsözünde doğrulanır.",
+      "book": "İlgili eser: Liber Abaci / Hesap Kitabı.",
+      "alt": "Kuzey Afrika limanındaki bir ticaret ortamında genç Leonardo’nun tacirden hesap öğrenmesi.",
+      "link": true,
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: historical-scene. Asset type: wide 16:9 editorial illustration for a Turkish reading-group website about Jonathan Lyons's The House of Wisdom. Style: naturalistic historical painting with restrained brush texture, believable materials and anatomy, muted earth, cream and blue palette, quiet daylight, no cinematic fantasy. This is an interpretive reconstruction, not a claimed historical portrait. No captions, no legible text, no watermark, no modern objects, no printing press, no telescope, no modern numerals or equations.\nPrimary scene: late twelfth-century Mediterranean North African trading settlement in present-day Algeria. The young Leonardo of Pisa, later called Fibonacci, learns practical arithmetic from an adult Muslim merchant-teacher. The teacher shows place-value calculation on a small wooden dust board with only indistinct unrecognizable marks; the youthful learner listens and makes notes on a plain leaf. Around them modest cloth bundles, a balance scale with two suspended pans and a few small weights, ceramic containers, a shaded market doorway with a distant glimpse of a Mediterranean harbor. Everyday intellectual exchange and commercial calculation, no exotic palace. Composition: wide, teacher and learner central, hands anatomically correct. No modern double-entry ledger, no printed bills, no modern banknotes, no abacus with modern wire beads, no rabbit fantasy. This interprets the book's learning narrative, not an authenticated portrait."
+    },
+    {
+      "slug": "ibn-rusd-saray",
+      "label": "İBN RÜŞD · SORU SORAN HÜKÜMDAR",
+      "title": "Sarayda açılan felsefe sorusu",
+      "location": "IV. kısım · El-Asr / İkindi — Sekizinci bölüm: Âlemin ezeli oluşuna dair · Basılı s. 206–208.",
+      "quote": "Göklerle ilgili görüşleri nedir; gökler ezeli midir yoksa yaratılmış mıdır?",
+      "cite": "Lyons’un İbn Rüşd’ün hatırasından aktardığı hükümdar sorusundan bir kesit · s. 206.",
+      "text": "Ebu Yakub Yusuf’un sorusu, İbn Rüşd’ü önce kaygılandırır. İbn Tufeyl’in de bulunduğu görüşme daha sonra düşüncelerin paylaşılabildiği bir sohbete dönüşür. Kitap, bu ilişkiden Aristoteles’in eserlerini açıklama ve özetleme çalışmasına uzanan yolu anlatır.",
+      "reading": "Üç kişi arasındaki konuşma, kitaptaki görüşmenin canlandırmasıdır. Solda İbn Rüşd, ortada İbn Tufeyl, sağda Ebu Yakub Yusuf düşünülmüştür. Yüzler, giysiler, mimari ve oturma düzeni bilinmediği için yorumla tamamlanmıştır.",
+      "book": "İlgili eserler: İbn Rüşd’ün Aristoteles şerhleri.",
+      "alt": "İbn Rüşd, İbn Tufeyl ve Ebu Yakub Yusuf arasında geçen felsefe sohbetinin temsili.",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: historical-scene. Asset type: wide 16:9 editorial illustration for a Turkish reading-group website about Jonathan Lyons's The House of Wisdom. Style: naturalistic historical painting with restrained brush texture, believable materials and anatomy, muted earth, cream and blue palette, quiet daylight, no cinematic fantasy. This is an interpretive reconstruction, not a claimed historical portrait. No captions, no legible text, no watermark, no modern objects, no printing press, no telescope, no modern numerals or equations.\nPrimary scene: a restrained Almohad court chamber in the late 1160s in the western Islamic world. Three men sit at conversational distance on low cushions around a small wooden stand with a closed leather manuscript: Ibn Rushd, an adult scholar in his early forties, cautiously addressing Abu Yaqub Yusuf; the older Ibn Tufayl quietly mediates and listens. The ruler wears fine but restrained twelfth-century Maghrebi clothing, no European crown, no Ottoman turban, no throne. Convey thoughtful exchange about the heavens and philosophy, not confrontation or worship. Simple pale plaster walls, shallow plain horseshoe arch, warm daylight. Wide composition with three distinct faces and natural hands. Faces, exact chamber and seating are interpretive. Avoid fourteenth-century Alhambra decoration, Renaissance celestial globes and modern scientific diagrams."
+    },
+    {
+      "slug": "paris-felsefe",
+      "label": "PARİS · FELSEFE VE TEOLOJİ",
+      "title": "Bir metni okumak, ona itiraz edebilmek",
+      "location": "IV. kısım · El-Asr / İkindi — Dokuzuncu bölüm: Batı’nın icadı · Basılı s. 213–216; ilgili eser için s. 218–220.",
+      "quote": "Sanat üstatları arasında pek çoğu, kendilerini nereye götürürse götürsün felsefi düşünceyle meşgul olma hakları olduğunu açıkça iddia ediyorlardı.",
+      "cite": "Jonathan Lyons, Hikmet Evi · s. 216.",
+      "text": "Arapçadan çevrilen felsefe metinleri Paris’te yeni sorular doğurur. Üniversite çevresindeki tartışmalar, akıl yürütme ile inancın sınırlarını araştırır. Thomas Aquinas’ın konumu da bu ortam içinde okunur; anlatı basit bir bilim ve din çatışmasına indirgenmez.",
+      "reading": "Beyaz giysi ve siyah mantolu Thomas, el yazmaları çevresindeki tartışmada temsil ediliyor. Bu, belirli bir toplantının kaydı değildir. Oda, dinleyiciler ve konuşma anı, kitabın anlattığı düşünce ortamını bir araya getiren yorumdur.",
+      "book": "İlgili eser: Thomas Aquinas, Âlemin Ezeliliğine Dair / De aeternitate mundi.",
+      "alt": "Paris’te Thomas Aquinas ve bilginlerin el yazmaları çevresinde tartıştığı temsili üniversite ortamı.",
+      "width": 1672,
+      "height": 941,
+      "prompt": "Use case: historical-scene. Asset type: wide 16:9 editorial illustration for a Turkish reading-group website about Jonathan Lyons's The House of Wisdom. Style: naturalistic historical painting with restrained brush texture, believable materials and anatomy, muted earth, cream and blue palette, quiet daylight, no cinematic fantasy. This is an interpretive reconstruction, not a claimed historical portrait. No captions, no legible text, no watermark, no modern objects, no printing press, no telescope, no modern numerals or equations.\nPrimary scene: Paris around 1270, an interpretive university disputation about natural philosophy and theology. Thomas Aquinas, a heavy-set Dominican friar in white habit and black mantle, speaks calmly with a small group of scholars and students gathered on wooden benches in a modest stone teaching room. One scholar gestures toward a hand-written parchment codex lying open on a lectern; another listens critically. Several hand-copied books with indistinct ink strokes show textual study, not a staged battle between religions. Daylight from narrow simple windows, no identifiable later university building. Wide composition with clear human exchanges. Not a reconstruction of a documented specific debate. No mortarboards, no modern graduation robes, no Gothic fantasy cathedral interior, no printed books, no blackboard, no electric lighting."
     }
   ]
 }
